@@ -33,16 +33,16 @@ if (!defined('ABSPATH')) exit;
         if ($val['shown'] == false) $to_show++;
       }
     }
-
+ 
     $html = '<span class="cdp-admin-bar-icon-noti"></span>';
-    $html .= 'Copy & Delete [<span class="cdp-notis-counter">' . $to_show . '</span>]';
+    $html .= __('Copy & Delete', 'copy-delete-posts') . ' [<span class="cdp-notis-counter">' . $to_show . '</span>]';
     $html .= '<div class="ab-sub-wrapper cdp-ab-sub">
       <ul class="ab-submenu cdp-dropdown-submenu">';
 
     $html .= '<li class="cdp-undone-notis"' . ((sizeof($sorts['undone']) <= 0)?' style="display: none;"':'') . '>
           <a class="ab-item cdp-dropdown-menu">
             <div style="display: block;">
-              <div class="cdp-dropdown-left-header">In progress:</div>
+              <div class="cdp-dropdown-left-header">'. __('In progress:', 'copy-delete-posts').'</div>
             </div>
           </a>
         </li>
@@ -52,8 +52,8 @@ if (!defined('ABSPATH')) exit;
       $red = (($current - $val['st']) >= 86400) ? true : false;
       $html .= '<a class="ab-item cdp-dropdown-menu cdp-dd-item cdp-dd-ud' . (($val['s'] == false)?' cdp-bnew-notis':'') . '" data-token="' . $val['t'] . '">
         <div style="display: block; width: calc(100% - 3px);">
-          <div class="cdp-dropdown-left' . (($red)?' cdp-red':'') . '">' . (($val['f'] == 'delete')?'Deleting Posts':'Auto Cleaning-up') . '</div>
-          <div class="cdp-dropdown-right cdp-noti-kill-btn">Kill</div>
+          <div class="cdp-dropdown-left' . (($red)?' cdp-red':'') . '">' . (($val['f'] == 'delete')? __('Deleting Posts', 'copy-delete-posts'):__('Auto Cleaning-up', 'copy-delete-posts')) . '</div>
+          <div class="cdp-dropdown-right cdp-noti-kill-btn">' . __('Kill', 'copy-delete-posts') . '</div>
         </div>
       </a>';
     }
@@ -65,7 +65,7 @@ if (!defined('ABSPATH')) exit;
     $html .= '<li class="cdp-done-notis"' . ((sizeof($sorts['done']) <= 0)?' style="display: none;"':'') . '>
           <a class="ab-item cdp-dropdown-menu">
             <div style="display: block;">
-              <div class="cdp-dropdown-left-header">Done:</div>
+              <div class="cdp-dropdown-left-header">' . __('Done:', 'copy-delete-posts') . '</div>
             </div>
           </a>
         </li>
@@ -83,8 +83,8 @@ if (!defined('ABSPATH')) exit;
 
       $html .= '<a ' . $ftext . $format . 'class="ab-item cdp-dropdown-menu cdp-dd-item cdp-dd-d' . (($val['s'] == false)?' cdp-bnew-notis':'') . '" data-token="' . $val['t'] . '">
         <div style="display: block; width: calc(100% - 3px);">
-          <div class="cdp-dropdown-left">' . (($val['f'] == 'delete')?'Deleted Posts':'Auto Cleaned-up') . '</div>
-          <div class="cdp-dropdown-right cdp-noti-hide-btn">Hide</div>
+          <div class="cdp-dropdown-left">' . (($val['f'] == 'delete')?__('Deleted Posts', 'copy-delete-posts'):__('Auto Cleaned-up', 'copy-delete-posts')) . '</div>
+          <div class="cdp-dropdown-right cdp-noti-hide-btn">' . __('Hide', 'copy-delete-posts') . '</div>
         </div>
       </a>';
     }
@@ -92,7 +92,7 @@ if (!defined('ABSPATH')) exit;
     $html .= '</li>
         <hr class="cdp-dropdown-hr cdp-done-hr"'. ((sizeof($sorts['done']) <= 0)?' style="display: none;"':'') .'>';
 
-    $html .= '<li><a class="ab-item cdp-dropdown-clear-all-notis" href="#">Clear notifiactions</a></li>
+    $html .= '<li><a class="ab-item cdp-dropdown-clear-all-notis" href="#">' . __('Clear notifiactions', 'copy-delete-posts'). '</a></li>
       </ul>
     </div>';
 

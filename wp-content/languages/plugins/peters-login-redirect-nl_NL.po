@@ -1,0 +1,258 @@
+# Translation of Plugins - Peter&#039;s Login Redirect - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Peter&#039;s Login Redirect - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 11:11:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Peter&#039;s Login Redirect - Stable (latest release)\n"
+
+#: wplogin_redirect.php:1194
+msgid "Allow a POST or GET &#34;redirect_to&#34; logout variable to take redirect precedence"
+msgstr "Sta een POST of GET &#34;redirect_to&#34; uitlog variabele toe om voorrang te nemen op een omleiding"
+
+#: wplogin_redirect.php:1187 wplogin_redirect.php:1200
+msgid "No"
+msgstr "Nee"
+
+#: wplogin_redirect.php:1186 wplogin_redirect.php:1199
+msgid "Yes"
+msgstr "Ja"
+
+#: wplogin_redirect.php:1181
+msgid "Allow a POST or GET &#34;redirect_to&#34; variable to take redirect precedence"
+msgstr "Sta toe dat een POST of GET &#34;redirect_to&#34; variabele voorrang krijgt"
+
+#: wplogin_redirect.php:1175
+msgid "Customize plugin settings"
+msgstr "Aanpassen plugin instellingen"
+
+#: wplogin_redirect.php:1161
+msgid "Post-registration"
+msgstr "Na registratie"
+
+#: wplogin_redirect.php:1153 wplogin_redirect.php:1167
+#: wplogin_redirect.php:1206
+msgid "Update"
+msgstr "Bijwerken"
+
+#: wplogin_redirect.php:1144
+msgid "All other users"
+msgstr "Alle andere gebruikers"
+
+#: wplogin_redirect.php:1139
+msgid "Add level rule"
+msgstr "Voeg niveau regel toe"
+
+#: wplogin_redirect.php:1131
+msgid "Order:"
+msgstr "Volgorde:"
+
+#: wplogin_redirect.php:1128
+msgid "Select a level"
+msgstr "Selecteer een niveau"
+
+#: wplogin_redirect.php:1116
+msgid "Order"
+msgstr "Volgorde"
+
+#: wplogin_redirect.php:1108
+msgid "Specific levels"
+msgstr "Specifieke niveaus"
+
+#: wplogin_redirect.php:1103
+msgid "Add role rule"
+msgstr "Voeg rol regel toe"
+
+#: wplogin_redirect.php:1094
+msgid "Select a role"
+msgstr "Selecteer een rol"
+
+#: wplogin_redirect.php:1082
+msgid "Specific roles"
+msgstr "Specifieke rollen"
+
+#: wplogin_redirect.php:1077
+msgid "Add username rule"
+msgstr "Voeg regel gebruikersnaam toe"
+
+#: wplogin_redirect.php:1073 wplogin_redirect.php:1099
+#: wplogin_redirect.php:1135 wplogin_redirect.php:1149
+msgid "Logout URL:"
+msgstr "Uitlog URL:"
+
+#: wplogin_redirect.php:1071 wplogin_redirect.php:1097
+#: wplogin_redirect.php:1133 wplogin_redirect.php:1146
+#: wplogin_redirect.php:1163
+msgid "URL:"
+msgstr "URL(internetadres):"
+
+#: wplogin_redirect.php:1068
+msgid "Select a username"
+msgstr "selecteer een gebruikersnaam"
+
+#: wplogin_redirect.php:1066 wplogin_redirect.php:1092
+#: wplogin_redirect.php:1126
+msgid "Add:"
+msgstr "Toevoegen:"
+
+#: wplogin_redirect.php:1056
+msgid "Specific users"
+msgstr "Specifieke gebruikers"
+
+#: wplogin_redirect.php:1054
+msgid "Note that you can use the syntax <strong>[variable]username[/variable]</strong> in your URLs so that the system will build a dynamic URL upon each login, replacing that text with the users username."
+msgstr "Opmerking: je kunt the syntax gebruiken <strong>[variable]gebruikersnaam[/variable]</strong> in je URLs (internetadressen). Het systeem zal een dynamische URL maken voor elke login. Vervang gebruikersnaam met de gebruikersnaam van de gebruiker."
+
+#: wplogin_redirect.php:1053
+msgid "Define a custom URL to which all users will be redirected upon logout"
+msgstr "Definieer een aangepaste URL waarnaar alle gebruikers worden doorverwezen na uitloggen"
+
+#: wplogin_redirect.php:1052
+msgid "Define custom URLs to which different users, users with specific roles, users with specific levels, and all other users will be redirected upon login."
+msgstr "Definieer verschillende locale URLs naar waar verschillende gebruikers, gebruikers met specifieke rollen, gebruikers met specifieke niveaus en alle andere gebruikers naar worden herverwezen na inloggen."
+
+#: wplogin_redirect.php:1050
+msgid "Manage redirect rules"
+msgstr "Beheer redirect-regels"
+
+#: wplogin_redirect.php:992 wplogin_redirect.php:1010 wplogin_redirect.php:1029
+#: wplogin_redirect.php:1154 wplogin_redirect.php:1168
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: wplogin_redirect.php:992 wplogin_redirect.php:1010 wplogin_redirect.php:1029
+msgid "Edit"
+msgstr "Bewerken"
+
+#: wplogin_redirect.php:989 wplogin_redirect.php:1007 wplogin_redirect.php:1025
+msgid "Logout URL"
+msgstr "Uitlog URL"
+
+#: wplogin_redirect.php:988 wplogin_redirect.php:1006 wplogin_redirect.php:1024
+msgid "Login URL"
+msgstr "Login URL"
+
+#: wplogin_redirect.php:908
+msgid "Successfully updated plugin settings"
+msgstr "Gebruiker specifieke URLs bijgewerkt"
+
+#: wplogin_redirect.php:882
+msgid "Successfully updated URL for &#34;post-registration&#34;"
+msgstr "De URL van &#34;na de registratie&#34; is bijgewerkt"
+
+#: wplogin_redirect.php:880
+msgid "ERROR: Unknown database problem updating URL for &#34;post-registration&#34; "
+msgstr "FOUT: Onbekend database-probleem tijdens het bijwerken van &#34;na de registratie&#34; "
+
+#: wplogin_redirect.php:870
+msgid "Successfully removed URL for &#34;post-registration&#34; "
+msgstr "De URL van &#34;na de registratie&#34; is verwijderd"
+
+#: wplogin_redirect.php:868
+msgid "ERROR: Unknown database problem removing URL for &#34;post-registration&#34; "
+msgstr "FOUT: Onbekend database-probleem tijdens het verwijderen van de URL van &#34;na de registratie&#34; "
+
+#: wplogin_redirect.php:829
+msgid "Successfully updated URL for &#34;all other users&#34;"
+msgstr "De URL van &#34;all other users&#34; is met succes bijgewerkt"
+
+#: wplogin_redirect.php:827
+msgid "ERROR: Unknown database problem updating URL for &#34;all other users&#34; "
+msgstr "FOUT: Onbekend database probleem tijdens het bijwerken van &#34;alle andere gebruikers&#34; "
+
+#: wplogin_redirect.php:817
+msgid "Successfully removed URL for &#34;all other users&#34; "
+msgstr "De URL van &#34;alle andere gebruikers&#34; met succes verwijderd"
+
+#: wplogin_redirect.php:815
+msgid "ERROR: Unknown database problem removing URL for &#34;all other users&#34; "
+msgstr "FOUT: Onbekend database probleem tijdens het verwijderen van de URL van &#34;alle andere gebruikers&#34; "
+
+#: wplogin_redirect.php:779
+msgid "Successfully deleted %s-specific redirect rule for %s"
+msgstr "%s-specifieke doorverwijzingsregel verwijderd voor %s"
+
+#: wplogin_redirect.php:774
+msgid "ERROR: Unknown error deleting %s-specific redirect for %s %s"
+msgstr "FOUT: Onbekende fout tijdens het verwijderen van de %s-specifieke doorverwijzing voor %s %s"
+
+#: wplogin_redirect.php:746
+msgid "Successfully edited %s-specific redirect rule for %s"
+msgstr "Met goed gevolg de %s-specifieke verwijzigingsregel bewerkt voor %s"
+
+#: wplogin_redirect.php:741
+msgid "ERROR: Unknown error editing %s-specific redirect for %s %s"
+msgstr "FOUT: Onbekende fout tijdens het bewerken van de %s-specifieke redirect voor %s %s"
+
+#: wplogin_redirect.php:695
+msgid "Successfully added %s-specific redirect rule for %s"
+msgstr "%s-specifieke herverwijzingsregels toegevoegd voor %s"
+
+#: wplogin_redirect.php:690
+msgid "ERROR: Unknown error adding %s-specific redirect for %s %s"
+msgstr "FOUT: Onbekende fout tijdens het toevoegen van de %s-specifieke herverwijzing voor %s %s"
+
+#: wplogin_redirect.php:645
+msgid "ERROR: Empty %s submitted "
+msgstr "FOUT: Lege %s ingegeven"
+
+#: wplogin_redirect.php:629
+msgid "ERROR: Non-existent level submitted "
+msgstr "FOUT: Niet bestaand niveau toegevoegd"
+
+#: wplogin_redirect.php:621
+msgid "ERROR: Non-existent role submitted "
+msgstr "FOUT: Niet bestaande rol toegevoegd"
+
+#: wplogin_redirect.php:614
+msgid "ERROR: Non-existent username submitted "
+msgstr "FOUT: Niet bestaande gebruikersnaam toegevoegd"
+
+#: wplogin_redirect.php:491
+msgid "Site Admin"
+msgstr "Websitebeheerder"
+
+#: wplogin_redirect.php:487
+msgid "Register"
+msgstr "Registreren"
+
+#: mo-admin-notice-featured.php:83
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#: mo-admin-notice-featured.php:74
+msgid "Activate MailOptin Now!"
+msgstr "Activateer MailOptin direct!"
+
+#: mo-admin-notice-featured.php:69
+msgid "Install MailOptin Now for Free!"
+msgstr "Installeer MailOptin nu gratis!"
+
+#: mo-admin-notice-featured.php:60
+msgid "Free optin form plugin that will %1$sincrease your email list subscribers%2$s and keep them engaged with %1$sautomated and schedule newsletters%2$s."
+msgstr "Gratis opt-in formulier plugin die %1$shet aantal e-mail lijst abonnees zal verhogen%2$s en ze betrokken houden met %1$sge-automatiseerde en geplande nieuws brieven%2$s."
+
+#. Author URI of the plugin
+msgid "https://www.theblog.ca"
+msgstr "https://www.theblog.ca"
+
+#. Author of the plugin
+msgid "Peter Keung"
+msgstr "Peter Keung"
+
+#. Description of the plugin
+msgid "Redirect users to different locations after logging in. Define a set of rules for specific users, user with specific roles, users with specific capabilities, and a blanket rule for all other users. This is all managed in Settings > Login/logout redirects."
+msgstr "Verwijs gebruikers naar verschillende locaties door na het inloggen. Definieer een set met regels voor specifieke gebruikers, gebruiker met specifieke rollen, gebruikers met specifieke competenties, en een lege regel voor alle gebruikers. Dit wordt allemaal beheerd in Instellingen >Login/logout redirects."
+
+#. Plugin URI of the plugin
+msgid "http://www.theblog.ca/wplogin-redirect"
+msgstr "http://www.theblog.ca/wplogin-redirect"
+
+#. Plugin Name of the plugin
+msgid "Peter's Login Redirect"
+msgstr "Peter's Login Redirect"

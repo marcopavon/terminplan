@@ -1,0 +1,254 @@
+# Translation of Plugins - Peter&#039;s Login Redirect - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Peter&#039;s Login Redirect - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-26 15:30:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Peter&#039;s Login Redirect - Stable (latest release)\n"
+
+#: wplogin_redirect.php:1194
+msgid "Allow a POST or GET &#34;redirect_to&#34; logout variable to take redirect precedence"
+msgstr "Autoriser une variable POST ou GET de déconnexion « redirect_to » à imposer la redirection"
+
+#: wplogin_redirect.php:1187 wplogin_redirect.php:1200
+msgid "No"
+msgstr "Non"
+
+#: wplogin_redirect.php:1186 wplogin_redirect.php:1199
+msgid "Yes"
+msgstr "Oui"
+
+#: wplogin_redirect.php:1181
+msgid "Allow a POST or GET &#34;redirect_to&#34; variable to take redirect precedence"
+msgstr "Autoriser une variable POST ou GET « redirect_to » à imposer la redirection"
+
+#: wplogin_redirect.php:1175
+msgid "Customize plugin settings"
+msgstr "Personnaliser les réglages de l'extension"
+
+#: wplogin_redirect.php:1161
+msgid "Post-registration"
+msgstr "Après inscription"
+
+#: wplogin_redirect.php:1153 wplogin_redirect.php:1167
+#: wplogin_redirect.php:1206
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: wplogin_redirect.php:1144
+msgid "All other users"
+msgstr "Tous les autres utilisateurs"
+
+#: wplogin_redirect.php:1139
+msgid "Add level rule"
+msgstr "Ajouter une règle sur les niveaux"
+
+#: wplogin_redirect.php:1131
+msgid "Order:"
+msgstr "Trier :"
+
+#: wplogin_redirect.php:1128
+msgid "Select a level"
+msgstr "Sélectionner un niveau"
+
+#: wplogin_redirect.php:1116
+msgid "Order"
+msgstr "Trier"
+
+#: wplogin_redirect.php:1108
+msgid "Specific levels"
+msgstr "Niveaux spécifiques"
+
+#: wplogin_redirect.php:1103
+msgid "Add role rule"
+msgstr "Ajoutez une règle de rôle"
+
+#: wplogin_redirect.php:1094
+msgid "Select a role"
+msgstr "Sélectionnez un rôle"
+
+#: wplogin_redirect.php:1082
+msgid "Specific roles"
+msgstr "Rôles spécifiés"
+
+#: wplogin_redirect.php:1077
+msgid "Add username rule"
+msgstr "Ajouter une règle sur utilisateur"
+
+#: wplogin_redirect.php:1073 wplogin_redirect.php:1099
+#: wplogin_redirect.php:1135 wplogin_redirect.php:1149
+msgid "Logout URL:"
+msgstr "URL à la déconnexion :"
+
+#: wplogin_redirect.php:1071 wplogin_redirect.php:1097
+#: wplogin_redirect.php:1133 wplogin_redirect.php:1146
+#: wplogin_redirect.php:1163
+msgid "URL:"
+msgstr "URL :"
+
+#: wplogin_redirect.php:1068
+msgid "Select a username"
+msgstr "Sélectionnez un identifiant"
+
+#: wplogin_redirect.php:1066 wplogin_redirect.php:1092
+#: wplogin_redirect.php:1126
+msgid "Add:"
+msgstr "Ajouter :"
+
+#: wplogin_redirect.php:1056
+msgid "Specific users"
+msgstr "Utilisateurs spécifiques"
+
+#: wplogin_redirect.php:1054
+msgid "Note that you can use the syntax <strong>[variable]username[/variable]</strong> in your URLs so that the system will build a dynamic URL upon each login, replacing that text with the users username."
+msgstr "Notez que vous pouvez utiliser la syntaxe <strong>[variable]username[/variable]</strong> dans vos URL pour que le système produise au vol une URL à chaque connexion, en remplaçant ce texte par l'identifiant de l'utilisateur."
+
+#: wplogin_redirect.php:1053
+msgid "Define a custom URL to which all users will be redirected upon logout"
+msgstr "Définissez une URL personnalisée vers laquelle tous les utilisateurs seront redirigés à la déconnexion."
+
+#: wplogin_redirect.php:1052
+msgid "Define custom URLs to which different users, users with specific roles, users with specific levels, and all other users will be redirected upon login."
+msgstr "Définissez des URL personnalisées vers lesquelles les différents utilisateurs, les utilisateurs ayant des rôles spécifiques, les utilisateurs avec des permissions spécifiques, et tous les autres utilisateurs seront redirigés après leur connexion."
+
+#: wplogin_redirect.php:1050
+msgid "Manage redirect rules"
+msgstr "Gestion des règles de redirection d'URL"
+
+#: wplogin_redirect.php:992 wplogin_redirect.php:1010 wplogin_redirect.php:1029
+#: wplogin_redirect.php:1154 wplogin_redirect.php:1168
+msgid "Delete"
+msgstr "Supprimer"
+
+#: wplogin_redirect.php:992 wplogin_redirect.php:1010 wplogin_redirect.php:1029
+msgid "Edit"
+msgstr "Modifier"
+
+#: wplogin_redirect.php:989 wplogin_redirect.php:1007 wplogin_redirect.php:1025
+msgid "Logout URL"
+msgstr "URL à la déconnexion"
+
+#: wplogin_redirect.php:988 wplogin_redirect.php:1006 wplogin_redirect.php:1024
+msgid "Login URL"
+msgstr "URL de connexion"
+
+#: wplogin_redirect.php:908
+msgid "Successfully updated plugin settings"
+msgstr "Les réglages de l’extension ont bien été mis à jour"
+
+#: wplogin_redirect.php:882
+msgid "Successfully updated URL for &#34;post-registration&#34;"
+msgstr "L’URL d’ « après inscription » a bien été mise à jour"
+
+#: wplogin_redirect.php:880
+msgid "ERROR: Unknown database problem updating URL for &#34;post-registration&#34; "
+msgstr "ERREUR : problème de base de données inconnu en tentant de mettre à jour l'URL d’ « après inscription » "
+
+#: wplogin_redirect.php:870
+msgid "Successfully removed URL for &#34;post-registration&#34; "
+msgstr "L’URL d' « après inscription » a bien été supprimée "
+
+#: wplogin_redirect.php:868
+msgid "ERROR: Unknown database problem removing URL for &#34;post-registration&#34; "
+msgstr "ERREUR : problème de base de données inconnu en tentant de supprimer l’URL d’ « après inscription » "
+
+#: wplogin_redirect.php:829
+msgid "Successfully updated URL for &#34;all other users&#34;"
+msgstr "L’URL pour « tous les autres utilisateurs » a été bien mise à jour"
+
+#: wplogin_redirect.php:827
+msgid "ERROR: Unknown database problem updating URL for &#34;all other users&#34; "
+msgstr "ERREUR : problème de base de données inconnu en tentant de mettre à jour l’URL pour « tous les autres utilisateurs »"
+
+#: wplogin_redirect.php:817
+msgid "Successfully removed URL for &#34;all other users&#34; "
+msgstr "L’URL pour « tous les autres utilisateurs » a bien été supprimée "
+
+#: wplogin_redirect.php:815
+msgid "ERROR: Unknown database problem removing URL for &#34;all other users&#34; "
+msgstr "ERREUR : problème inconnu de base de données en tentant de supprimer l’URL pour « tous les autres utilisateurs »"
+
+#: wplogin_redirect.php:779
+msgid "Successfully deleted %s-specific redirect rule for %s"
+msgstr "La règle de redirection spécifique à %s pour %s a bien été supprimée"
+
+#: wplogin_redirect.php:774
+msgid "ERROR: Unknown error deleting %s-specific redirect for %s %s"
+msgstr "ERREUR : Erreur inconnue en tentant de supprimer la redirection spécifique à %s pour %s %s"
+
+#: wplogin_redirect.php:746
+msgid "Successfully edited %s-specific redirect rule for %s"
+msgstr "La règle de redirection spécifique à %s pour %s a bien été modifiée"
+
+#: wplogin_redirect.php:741
+msgid "ERROR: Unknown error editing %s-specific redirect for %s %s"
+msgstr "ERREUR : erreur inconnue en modifiant la redirection spécifique à %s pour %s %s"
+
+#: wplogin_redirect.php:695
+msgid "Successfully added %s-specific redirect rule for %s"
+msgstr "La règle de redirection spécifique à %s pour %s a bien été ajoutée"
+
+#: wplogin_redirect.php:690
+msgid "ERROR: Unknown error adding %s-specific redirect for %s %s"
+msgstr "ERREUR : erreur inconnue en ajoutant une redirection spécifique à %s pour %s %s"
+
+#: wplogin_redirect.php:645
+msgid "ERROR: Empty %s submitted "
+msgstr "ERREUR : %s vide soumis⋅e "
+
+#: wplogin_redirect.php:629
+msgid "ERROR: Non-existent level submitted "
+msgstr "ERREUR : niveau non existant soumis "
+
+#: wplogin_redirect.php:621
+msgid "ERROR: Non-existent role submitted "
+msgstr "ERREUR : rôle soumis inexistant "
+
+#: wplogin_redirect.php:614
+msgid "ERROR: Non-existent username submitted "
+msgstr "ERREUR : identifiant soumis inexistant "
+
+#: wplogin_redirect.php:491
+msgid "Site Admin"
+msgstr "Administrateur du site"
+
+#: wplogin_redirect.php:487
+msgid "Register"
+msgstr "Inscription"
+
+#: mo-admin-notice-featured.php:83
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+#: mo-admin-notice-featured.php:74
+msgid "Activate MailOptin Now!"
+msgstr "Activez MailOptin Maintenant !"
+
+#: mo-admin-notice-featured.php:69
+msgid "Install MailOptin Now for Free!"
+msgstr "Installez maintenant gratuitement MailOptin !"
+
+#: mo-admin-notice-featured.php:60
+msgid "Free optin form plugin that will %1$sincrease your email list subscribers%2$s and keep them engaged with %1$sautomated and schedule newsletters%2$s."
+msgstr "Une extension gratuite de formulaire Optin qui %1$sfera croître votre liste d’adresse de messagerie d’abonnés%2$s et les gardera engagés avec %1$sdes newsletters automatisées et planifiées%2$s."
+
+#. Author of the plugin
+msgid "Peter Keung"
+msgstr "Peter Keung"
+
+#. Description of the plugin
+msgid "Redirect users to different locations after logging in. Define a set of rules for specific users, user with specific roles, users with specific capabilities, and a blanket rule for all other users. This is all managed in Settings > Login/logout redirects."
+msgstr "Redirige les utilisateurs dans différents emplacements après la connexion. Défini un ensemble de règles pour des utilisateurs spécifiques, un utilisateur avec des rôles spécifiques, des utilisateurs avec des permissions spécifiques et une règle générale pour tous les autres utilisateurs. Tout cela est géré dans Réglages > Redirections de connexion/déconnexion."
+
+#. Plugin URI of the plugin
+msgid "http://www.theblog.ca/wplogin-redirect"
+msgstr "http://www.theblog.ca/wplogin-redirect"
+
+#. Plugin Name of the plugin
+msgid "Peter's Login Redirect"
+msgstr "Peter's Login Redirect"

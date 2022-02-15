@@ -33,14 +33,18 @@ foreach($users as $user){
         print_r(get_user_meta ( $user->ID));
     };*/
 $users = get_users();
+ob_start();
 echo '<ol>';
 echo '<h2>Alle registrierten Unternehmen auf der Platform </h2>';
+
 foreach($users as $user){
 	//print_r($user);
 	echo '<li><span>' . esc_html($user->user_email). '<br> Rolle: ' .esc_html($user->roles[0]). '</span></li>';
 };
-echo '</ol>'; 
 
+echo '</ol>'; 
+$output = ob_get_clean();
+return $output;
 };
 
 add_shortcode('all-user', 'alluser');

@@ -1,0 +1,530 @@
+# Translation of Plugins - Content Control &#8211; User Access Restriction Plugin - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Content Control &#8211; User Access Restriction Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-21 10:31:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Content Control &#8211; User Access Restriction Plugin - Stable (latest release)\n"
+
+#: classes/Admin/Settings/Restrictions.php:119
+msgid "Choose which roles can see this content, leave blank to apply to every role"
+msgstr "Kies welke rollen deze Inhoud kunnen zien, laat leeg als het voor elke rol geldt"
+
+#. Description of the plugin
+msgid "Restrict content to logged in/out users or specific user roles. Restrict access to certain parts of a page/post. Control the visibility of widgets."
+msgstr "Beperk inhoud tot in- of uitgelogde gebruikers of tot specifieke gebruikersrollen. Beperk toegang tot bepaalde gedeelten van een pagina of bericht. Beheer de zichtbaarheid van widgets."
+
+#: classes/Admin/Assets.php:53
+msgid "Content"
+msgstr "Inhoud"
+
+#: classes/Admin/Assets.php:52
+msgid "Protection"
+msgstr "Bescherming"
+
+#: classes/Admin/Settings.php:159
+msgid "Default Denial Message"
+msgstr "Standaard afkeur bericht"
+
+#: classes/Admin/Footer_Templates.php:410
+#: classes/Admin/Footer_Templates.php:444
+msgid "Choose a condition"
+msgstr "Kies een voorwaarde"
+
+#: classes/Admin/Footer_Templates.php:263
+#: classes/Admin/Footer_Templates.php:268
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: classes/Admin/Footer_Templates.php:232
+msgid "Value"
+msgstr "Waarde"
+
+#: classes/Admin/Footer_Templates.php:228
+msgid "Label"
+msgstr "Label"
+
+#: classes/Admin/Footer_Templates.php:224
+msgid "Action"
+msgstr "Actie"
+
+#: classes/Admin/Footer_Templates.php:220
+msgid "Category"
+msgstr "Categorie"
+
+#: classes/Admin/Footer_Templates.php:181
+msgid "Activate License"
+msgstr "Activeer licentie"
+
+#: classes/Admin/Footer_Templates.php:180
+msgid "Inactive"
+msgstr "Inactief"
+
+#: classes/Admin/Footer_Templates.php:177
+msgid "Active"
+msgstr "Actief"
+
+#: classes/Conditions.php:296
+msgctxt "condition: post type plural label ie. Posts: ID"
+msgid "%s: Ancestor Of"
+msgstr "%s: Voorouder van"
+
+#: classes/Conditions.php:284 classes/Conditions.php:299
+msgctxt "condition: post type plural label ie. Select Posts"
+msgid "Select %s."
+msgstr "Selecteer %s."
+
+#: classes/Conditions.php:281
+msgctxt "condition: post type plural label ie. Posts: ID"
+msgid "%s: Child Of"
+msgstr "%s: sub van"
+
+#. Author URI of the plugin
+msgid "https://code-atlantic.com/"
+msgstr "https://code-atlantic.com/"
+
+#. Author of the plugin
+msgid "Code Atlantic"
+msgstr "Code Atlantic"
+
+#: classes/Admin/Reviews.php:426
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: classes/Admin/Reviews.php:421
+msgid "Nope, maybe later"
+msgstr "Nee, misschien later"
+
+#: classes/Admin/Reviews.php:416
+msgid "Ok, you deserve it"
+msgstr "Ok, je verdient het"
+
+#: classes/Admin/Reviews.php:259
+msgid "3 months"
+msgstr "3 maanden"
+
+#: classes/Admin/Reviews.php:251
+msgid "1 month"
+msgstr "1 maand"
+
+#: classes/Admin/Reviews.php:243
+msgid "1 week"
+msgstr "1 week"
+
+#: classes/Admin/Reviews.php:238
+msgid "Hi there! You've been using the Content Control plugin on your site for %s now - We hope it's been helpful. If you're enjoying the plugin, would you mind rating it 5-stars to help spread the word?"
+msgstr "Je gebruikt Popup Maker al %s op je site - we hopen dat het nuttig was. Als je het leuk vindt om deze plugin te gebruiken, zou je het met 5-sterren willen waarderen om het bekend te maken?"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/content-control/"
+msgstr "https://wordpress.org/plugins/content-control/"
+
+#: content-control.php:255
+msgid "Plugin Activation Error"
+msgstr "Plugin activatie fout"
+
+#: content-control.php:253
+msgid "The %4$s %1$s %5$s plugin requires %2$s version %3$s or greater."
+msgstr "De %4$s %1$s %5$s plugin vereist %2$s versie %3$s of hoger."
+
+#: classes/Site/Feeds.php:46 classes/Site/Posts.php:67
+msgid "This content is restricted."
+msgstr "Deze inhoud is beperkt."
+
+#: classes/Conditions.php:447
+msgid "A 404 Error Page"
+msgstr "Een 404 foutpagina"
+
+#: classes/Conditions.php:441
+msgid "A Search Result Page"
+msgstr "Een zoek resultaten pagina"
+
+#: classes/Conditions.php:434
+msgid "The Blog Index"
+msgstr "De Blog inhoudsopgave"
+
+#: classes/Conditions.php:427
+msgid "The Home Page"
+msgstr "De homepage"
+
+#: classes/Conditions.php:407
+msgctxt "condition: taxonomy plural label ie. Category IDs"
+msgid "%s IDs: 128, 129"
+msgstr "%s ID's: 128, 129"
+
+#: classes/Conditions.php:404
+msgctxt "condition: taxonomy plural label ie. Categories: Selected"
+msgid "A %s with IDs"
+msgstr "Een %s met ID’s"
+
+#: classes/Conditions.php:392
+msgctxt "condition: taxonomy plural label ie. Select Categories"
+msgid "Select %s."
+msgstr "Selecteer %s"
+
+#: classes/Conditions.php:389
+msgctxt "condition: taxonomy plural label ie. Categories: Selected"
+msgid "%s: Selected"
+msgstr "%s: Geselecteerd"
+
+#: classes/Conditions.php:383
+msgctxt "condition: taxonomy plural label ie. Categories: All"
+msgid "A %s"
+msgstr "Een %s"
+
+#: classes/Conditions.php:354
+msgctxt "condition: post type plural label ie. Select categories"
+msgid "Select %s."
+msgstr "Selecteer %s."
+
+#: classes/Conditions.php:351
+msgctxt "condition: post type plural and taxonomy singular label ie. Posts: With Category"
+msgid "A %1$s with %2$s"
+msgstr "Een %1$s: met %2$s"
+
+#: classes/Conditions.php:324
+msgid "Default"
+msgstr "Standaard"
+
+#: classes/Conditions.php:317
+msgctxt "condition: post type plural label ie. Pages: With Template"
+msgid "A %s: With Template"
+msgstr "Een %s: met template"
+
+#: classes/Conditions.php:271
+msgctxt "condition: post type singular label ie. Posts IDs"
+msgid "%s IDs: 128, 129"
+msgstr "%s ID's: 128, 129"
+
+#: classes/Conditions.php:268
+msgctxt "condition: post type singular label ie. Posts: ID"
+msgid "A %s with ID"
+msgstr "Een %s met ID"
+
+#: classes/Conditions.php:255
+msgctxt "condition: post type singular label ie. Select Posts"
+msgid "Select %s."
+msgstr "Selecteer %s."
+
+#: classes/Conditions.php:252
+msgctxt "condition: post type singular label ie. Posts: Selected"
+msgid "A Selected %s"
+msgstr "Een geselecteerde %s"
+
+#: classes/Conditions.php:246
+msgctxt "condition: post type singular label ie. Posts: All"
+msgid "A %s"
+msgstr "Een %s"
+
+#: classes/Conditions.php:238
+msgctxt "condition: post type plural label ie. Posts: All"
+msgid "%s Archive"
+msgstr "%s Archief"
+
+#: classes/Conditions.php:202
+msgid "Select a condition"
+msgstr "Selecteer een voorwaarde"
+
+#: classes/Conditions.php:106
+msgid "Format"
+msgstr "Format"
+
+#: classes/Conditions.php:105
+msgid "Tags"
+msgstr "Tags"
+
+#: classes/Conditions.php:104
+msgid "Categories"
+msgstr "Categorieën"
+
+#: classes/Conditions.php:103 classes/Conditions.php:433
+msgid "Posts"
+msgstr "Berichten"
+
+#: classes/Conditions.php:102 classes/Conditions.php:426
+#: classes/Conditions.php:440 classes/Conditions.php:446
+msgid "Pages"
+msgstr "Pagina's"
+
+#: classes/Admin.php:20 classes/Admin/Assets.php:51 classes/Conditions.php:101
+msgid "General"
+msgstr "Algemeen"
+
+#: classes/Admin.php:19
+msgid "Restrictions"
+msgstr "Beperkingen"
+
+#: classes/Admin.php:17
+msgid "Content Control Settings"
+msgstr "Inhoud controle instellingen"
+
+#: classes/Admin/Widget/Settings.php:66
+msgid "Choose which roles can see this widget"
+msgstr "Kies de rollen die deze widget kunnen zien"
+
+#: classes/Admin/Widget/Settings.php:50
+msgid "Who can see this widget?"
+msgstr "Wie kan deze widget zien?"
+
+#: classes/Admin/Settings.php:283
+msgid "Settings updated."
+msgstr "Instellingen geüpdatet."
+
+#: classes/Admin/Settings/Restrictions.php:188
+msgid "http://example.com"
+msgstr "http://example.com"
+
+#: classes/Admin/Settings/Restrictions.php:187
+msgid "Redirect URL"
+msgstr "Omleiding URL"
+
+#: classes/Admin/Settings/Restrictions.php:175
+msgid "Custom URL"
+msgstr "Aangepaste URL"
+
+#: classes/Admin/Settings/Restrictions.php:174
+msgid "Home Page"
+msgstr "Homepage"
+
+#: classes/Admin/Settings/Restrictions.php:173
+msgid "Login & Back"
+msgstr "Login & terug"
+
+#: classes/Admin/Settings/Restrictions.php:170
+msgid "Where will they be taken?"
+msgstr "Waar worden ze naar toegeleid?"
+
+#: classes/Admin/Settings/Restrictions.php:160
+msgid "Enter a custom message to display to restricted users"
+msgstr "Vul een aangepast bericht aan beperkte gebruikers in"
+
+#: classes/Admin/Settings/Restrictions.php:151
+msgid "Override the default message?"
+msgstr "Overschrijf het standaard bericht"
+
+#: classes/Admin/Settings/Restrictions.php:145
+msgid "Show excerpts above access denied message?"
+msgstr "Samenvatting tonen boven bericht van toegang geweigerd?"
+
+#: classes/Admin/Settings/Restrictions.php:134
+msgid "Redirect"
+msgstr "Omleiden"
+
+#: classes/Admin/Settings/Restrictions.php:133
+msgid "Custom Message"
+msgstr "Aangepast bericht"
+
+#: classes/Admin/Settings/Restrictions.php:131
+msgid "Choose how to protect your content"
+msgstr "Kies hoe je je inhoud beschermt"
+
+#: classes/Admin/Settings/Restrictions.php:107
+msgid "Who can see this content?"
+msgstr "Wie kan deze inhoud zien?"
+
+#: classes/Admin/Settings/Restrictions.php:100
+msgid "Pages restricted to logged in users"
+msgstr "Pagina’s beperkt tot ingelogde gebruikers"
+
+#: classes/Admin/Settings/Restrictions.php:73
+msgid "No restrictions found."
+msgstr "Geen beperkingen gevonden"
+
+#: classes/Admin/Settings/Restrictions.php:57
+#: classes/Admin/Settings/Restrictions.php:68
+msgid "Overview"
+msgstr "Overzicht"
+
+#: classes/Admin/Settings/Restrictions.php:56
+#: classes/Admin/Settings/Restrictions.php:67
+#: classes/Admin/Settings/Restrictions.php:99
+msgid "Restriction Title"
+msgstr "Beperkingstitel"
+
+#: classes/Admin/Settings/Restrictions.php:55
+#: classes/Admin/Settings/Restrictions.php:66
+msgid "Priority"
+msgstr "Prioriteit"
+
+#: classes/Admin/Settings/Restrictions.php:52
+#: classes/Admin/Settings/Restrictions.php:63
+msgid "Select All"
+msgstr "Selecteer alles"
+
+#: classes/Admin/Settings/Restrictions.php:44
+#: classes/Admin/Settings/Restrictions.php:85
+msgid "Apply"
+msgstr "Toepassen"
+
+#: classes/Admin/Settings/Restrictions.php:42
+#: classes/Admin/Settings/Restrictions.php:83
+msgid "Move to Trash"
+msgstr "Naar Prullenbak verplaatsen"
+
+#: classes/Admin/Settings/Restrictions.php:41
+#: classes/Admin/Settings/Restrictions.php:82
+msgid "Bulk Actions"
+msgstr "Bulkacties"
+
+#: classes/Admin/Settings/Restrictions.php:39
+msgid "Select bulk action"
+msgstr "Bulkactie selecteren"
+
+#: classes/Admin/Settings/Restrictions.php:36
+msgid "Add a Restriction"
+msgstr "Voeg een beperking toe"
+
+#: classes/Admin/Footer_Templates.php:178
+#: classes/Admin/Setting_Callbacks.php:421
+msgid "Deactivate License"
+msgstr "Deactiveer licentie"
+
+#: classes/Admin/Setting_Callbacks.php:359
+msgid "Upload File"
+msgstr "Bestand uploaden"
+
+#: classes/Admin/Setting_Callbacks.php:265
+msgid "Choose Icon"
+msgstr "Kies het pictogram"
+
+#: classes/Admin/Setting_Callbacks.php:197
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "De callback-functie die wordt gebruikt voor de instelling <strong>%s</strong> ontbreekt."
+
+#. Plugin Name of the plugin
+#: classes/Admin/Pages.php:29
+msgid "Content Control"
+msgstr "Content Control"
+
+#: classes/Admin/Footer_Templates.php:452
+msgid "Remove Condition"
+msgstr "Voorwaarde verwijderen"
+
+#: classes/Admin/Footer_Templates.php:430
+msgid "and"
+msgstr "en"
+
+#: classes/Admin/Footer_Templates.php:430
+msgctxt "aria-label for add new AND condition button"
+msgid "Add another AND condition group"
+msgstr "Voeg nog een AND-conditiegroep toe"
+
+#: classes/Admin/Footer_Templates.php:426
+#: classes/Admin/Footer_Templates.php:437
+msgid "or"
+msgstr "of"
+
+#: classes/Admin/Footer_Templates.php:426
+msgctxt "aria-label for add new OR condition button"
+msgid "Add another OR condition"
+msgstr "Voeg nog een OR-voorwaarde toe"
+
+#: classes/Admin/Footer_Templates.php:407
+#: classes/Admin/Footer_Templates.php:441
+msgid "Is Not"
+msgstr "Is niet"
+
+#: classes/Admin/Footer_Templates.php:405
+#: classes/Admin/Footer_Templates.php:439
+msgid "Enable the Not Operand"
+msgstr "Schakel de Niet-operand in"
+
+#: classes/Admin/Footer_Templates.php:403
+msgid "Choose a content type to get started."
+msgstr "Kies een Inhoudstype om te starten"
+
+#: classes/Admin/Footer_Templates.php:388
+msgid "When users visit your site, the plugin will check the viewed content against your selection below and permit or deny access."
+msgstr "Als gebruikers je site bezoeken, zal de plugin de opgezochte inhoud controleren tegen de onderstaande selectie en toegang toekennen of ontkennen."
+
+#: classes/Admin/Footer_Templates.php:379
+msgid "Apply this restriction if the user views content that is:"
+msgstr "Pas deze beperking toe als de gebruiker de inhoud ziet die:"
+
+#: classes/Admin/Footer_Templates.php:503
+msgid "All Users"
+msgstr "Alle gebruikers"
+
+#: classes/Admin/Footer_Templates.php:495
+#: classes/Admin/Settings/Restrictions.php:111
+#: classes/Admin/Widget/Settings.php:41
+msgid "Logged In Users"
+msgstr "Ingelogde gebruikers"
+
+#: classes/Admin/Footer_Templates.php:492
+#: classes/Admin/Settings/Restrictions.php:112
+#: classes/Admin/Widget/Settings.php:40
+msgid "Logged Out Users"
+msgstr "Uitgelogde gebruikers"
+
+#: classes/Admin/Footer_Templates.php:490 classes/Admin/Widget/Settings.php:39
+msgid "Everyone"
+msgstr "Iedereen"
+
+#: classes/Admin/Footer_Templates.php:484
+msgid "Trash"
+msgstr "Prullenbak"
+
+#: classes/Admin/Footer_Templates.php:484
+msgctxt "Trash button label for restriction table"
+msgid "Delete “{{data.title}}!”"
+msgstr "Verwijder  “{{data.title}}!”"
+
+#: classes/Admin/Footer_Templates.php:481
+msgid "Edit"
+msgstr "Bewerken"
+
+#: classes/Admin/Footer_Templates.php:481
+msgctxt "Edit button label for restriction table"
+msgid "Edit “{{data.title}}”"
+msgstr "Bewerk “{{data.title}}”"
+
+#: classes/Admin/Footer_Templates.php:466
+msgid "Select restriction"
+msgstr "Selecteer beperking"
+
+#: classes/Admin/Footer_Templates.php:311
+msgid "Close"
+msgstr "Sluiten"
+
+#: classes/Admin/Assets.php:71
+msgid "Update"
+msgstr "Update"
+
+#: classes/Admin/Assets.php:70
+msgid "Add"
+msgstr "Toevoegen"
+
+#: classes/Admin/Assets.php:69
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: classes/Admin/Assets.php:68
+msgid "Save"
+msgstr "Opslaan"
+
+#: classes/Admin/Assets.php:65
+msgid "Not"
+msgstr "Niet"
+
+#: classes/Admin/Assets.php:64 classes/Admin/Footer_Templates.php:406
+#: classes/Admin/Footer_Templates.php:440
+msgid "Is"
+msgstr "Is"
+
+#: classes/Admin/Assets.php:60
+msgid "Use this to modify a restrictions settings."
+msgstr "Gebruik dit om de restrictie-instellingen aan te passen"
+
+#: classes/Admin/Assets.php:59
+msgid "Restriction Editor"
+msgstr "Restrictie Editor"
+
+#: classes/Admin/Assets.php:56
+msgid "Are you sure you want to delete this restriction?"
+msgstr "Weet je zeker dat je deze restrictie wil verwijderen ?"

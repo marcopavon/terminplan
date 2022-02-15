@@ -2,8 +2,8 @@
 Contributors: CopyDeletePosts, copydelete
 Tags: Duplicate post, Copy posts, Copy pages, Duplicate posts, Duplicate pages, Clone posts, Clone pages, Delete posts, Delete pages, Duplicator, copy post, copy page
 Requires at least: 4.6
-Tested up to: 5.7.1
-Stable tag: 1.1.7
+Tested up to: 5.8
+Stable tag: 1.1.8
 License: GPLv3
 Requires PHP: 5.6
 
@@ -88,6 +88,7 @@ Just try it out! You'll love it :)
 
 This plugin is part of the Inisev product family - [check out our other products](https://inisev.com).
 
+
 == Installation ==
 
 = Admin Installer via search =
@@ -149,6 +150,12 @@ Copy Delete Posts WordPress plugin doesn’t store any site visitor information 
 8. Copy from Gutenberg editor
 
 == Changelog ==
+
+= 1.1.8 =
+* Performance adjustements for PHP 8
+* Plugin prepared for translation
+* Improvements for ACF plugin kind
+* Fixed activation/deactivation issues for Pro
 
 = 1.1.7 =
 * Banner fixes
@@ -236,5 +243,8 @@ Copy Delete Posts WordPress plugin doesn’t store any site visitor information 
 * Initial release
 
 == Upgrade Notice ==
-= 1.1.7 =
-* Banner fixes
+= 1.1.8 =
+* Performance adjustements for PHP 8
+* Plugin prepared for translation
+* Improvements for ACF plugin kind
+* Fixed activation/deactivation issues for Pro

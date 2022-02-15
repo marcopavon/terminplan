@@ -1,0 +1,337 @@
+# Translation of Plugins - Theme My Login - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Theme My Login - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-12 01:15:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Theme My Login - Development (trunk)\n"
+
+#: includes/forms.php:264
+msgid "Confirm new password"
+msgstr "新しいパスワード (再入力)"
+
+#: includes/ms-functions.php:376 includes/forms.php:154 includes/forms.php:275
+msgid "Strength indicator"
+msgstr "パスワード強度"
+
+#: includes/forms.php:253
+msgid "New password"
+msgstr "新しいパスワード"
+
+#: includes/ms-functions.php:1080
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: includes/ms-functions.php:150
+msgid "Next"
+msgstr "次へ"
+
+#: includes/ms-functions.php:140
+msgid "Just a username, please."
+msgstr "ユーザー登録のみ。"
+
+#: includes/ms-functions.php:139
+msgid "Gimme a site!"
+msgstr "サイトを作成 ! "
+
+#: includes/ms-functions.php:105
+msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
+msgstr "登録完了のメールをこのアドレスに送ります。(次に進む前にメールアドレスをもう一度確認してください)"
+
+#: includes/ms-functions.php:104
+msgid "Email&nbsp;Address:"
+msgstr "メールアドレス:"
+
+#: includes/ms-functions.php:82
+msgid "(Must be at least 4 characters, letters and numbers only.)"
+msgstr "(4文字以上の半角英数字のみ)"
+
+#: includes/ms-functions.php:779
+msgid "Get your own %s account in seconds"
+msgstr "%s のアカウントをいますぐ取得"
+
+#: includes/ms-functions.php:195
+msgid "Signup"
+msgstr "サインアップ"
+
+#: includes/ms-functions.php:232
+msgid "Create Site"
+msgstr "サイトを追加"
+
+#: includes/ms-functions.php:311
+msgid "No"
+msgstr "いいえ"
+
+#: includes/ms-functions.php:310
+msgid "Yes"
+msgstr "はい"
+
+#: includes/ms-functions.php:315
+msgid "Allow search engines to index this site."
+msgstr "検索エンジンによるサイトのインデックスを許可する。"
+
+#: includes/ms-functions.php:307
+msgid "Privacy:"
+msgstr "プライバシー:"
+
+#: includes/ms-functions.php:292
+msgid "Site Title:"
+msgstr "サイトのタイトル:"
+
+#: includes/ms-functions.php:251 includes/ms-functions.php:272
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
+msgstr "4字以上のアルファベットと数字のみが使えます。変更はできませんので慎重に選んでください !"
+
+#: includes/ms-functions.php:250 includes/ms-functions.php:271
+msgid "Your address will be %s."
+msgstr "あなたのアドレスは %s になります。"
+
+#: includes/ms-functions.php:271
+msgid "domain"
+msgstr "ドメイン"
+
+#: includes/ms-functions.php:250
+msgid "sitename"
+msgstr "サイト名"
+
+#: includes/ms-functions.php:277
+msgid "Site Domain:"
+msgstr "サイトドメイン:"
+
+#: includes/ms-functions.php:874
+msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
+msgstr "すてきなサイトドメインを使用しない場合は、新しいユーザーのために残しておいてください。それではどうぞ！"
+
+#: includes/ms-functions.php:866
+msgid "Sites you are already a member of:"
+msgstr "既にメンバーになっているサイト:"
+
+#: includes/ms-functions.php:862
+msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr "おかえりなさい、%s さん。下のフォームに必要事項を記入して、<strong>アカウントに別のサイトを追加する</strong>ことができます。あなたが持つことができるサイトの数に制限はありませんので、あなたの心ゆくまで作成し、ただし責任を持って書き込んでください！"
+
+#: includes/ms-functions.php:858
+msgid "Get <em>another</em> %s site in seconds"
+msgstr "<em>他の</em> %s サイトをいますぐ取得"
+
+#: includes/forms.php:223
+msgid "Get New Password"
+msgstr "新しいパスワードを取得する"
+
+#: includes/forms.php:66
+msgid "Remember Me"
+msgstr "ログイン情報を保存"
+
+#: includes/functions.php:784 includes/functions.php:791 includes/forms.php:105
+msgid "Username"
+msgstr "ユーザー名"
+
+#: admin/settings.php:157 admin/settings.php:177
+msgid "Default"
+msgstr "デフォルト"
+
+#: includes/actions.php:32
+msgid "Log in"
+msgstr "ログイン"
+
+#: includes/actions.php:516
+msgid "Registration complete. You may now log in."
+msgstr "登録完了しました。ログインしてください。"
+
+#: includes/ms-functions.php:366 includes/forms.php:144
+msgid "Confirm Password"
+msgstr "パスワードの確認"
+
+#: includes/ms-functions.php:356 includes/forms.php:53 includes/forms.php:134
+msgid "Password"
+msgstr "パスワード"
+
+#. translators: Password reset email subject. %s: Site name
+#: includes/compat.php:110
+msgid "[%s] Password Reset"
+msgstr "[%s] パスワードリセット"
+
+#: includes/compat.php:97
+msgid "To reset your password, visit the following address:"
+msgstr "パスワードをリセットするには、以下へアクセスしてください。"
+
+#: includes/compat.php:96
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "もしこれが間違いだった場合は、このメールを無視すれば何も起こりません。"
+
+#. translators: %s: user login
+#: includes/compat.php:95
+msgid "Username: %s"
+msgstr "ユーザー名: %s"
+
+#: includes/actions.php:522
+msgid "Your password has been reset."
+msgstr "パスワードがリセットされました。"
+
+#: includes/actions.php:509 includes/actions.php:596
+msgid "User registration is currently not allowed."
+msgstr "ユーザー登録は現在許可されていません。"
+
+#: includes/actions.php:506
+msgid "You are now logged out."
+msgstr "ログアウトしました。"
+
+#: includes/actions.php:724
+msgid "The passwords do not match."
+msgstr "パスワードが一致しません。"
+
+#: includes/actions.php:676
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr "パスワードリセットリンクの有効期限が切れています。以下から新しいリンクをリクエストしてください。"
+
+#: includes/actions.php:674
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr "パスワードリセットのリンクが無効です。以下から新しいリンクをリクエストしてください。"
+
+#: includes/actions.php:69
+msgid "Reset Password"
+msgstr "パスワードリセット"
+
+#: includes/class-theme-my-login-widget.php:100 includes/actions.php:38
+#: includes/shortcodes.php:89
+msgid "Log Out"
+msgstr "ログアウト"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/class-theme-my-login-widget.php:23 admin/functions.php:67
+msgid "Theme My Login"
+msgstr "Theme My Login"
+
+#: includes/class-theme-my-login-widget.php:92 includes/actions.php:19
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: includes/actions.php:28 includes/forms.php:74 admin/settings.php:103
+msgid "Log In"
+msgstr "ログイン"
+
+#: includes/actions.php:58
+msgid "Lost Password"
+msgstr "パスワード紛失"
+
+#: includes/actions.php:48 includes/forms.php:180
+msgid "Register"
+msgstr "登録"
+
+#: includes/ms-functions.php:1094
+msgid "Password:"
+msgstr "パスワード:"
+
+#: includes/ms-functions.php:81 includes/ms-functions.php:1093
+msgid "Username:"
+msgstr "ユーザー名:"
+
+#: includes/ms-functions.php:1083
+msgid "An error occurred during the activation"
+msgstr "有効化中にエラーが発生しました"
+
+#: includes/ms-functions.php:1052 includes/ms-functions.php:1090
+msgid "Your account is now active!"
+msgstr "アカウントは現在有効です !"
+
+#: includes/ms-functions.php:389 admin/settings.php:515
+msgid "Activate"
+msgstr "有効化"
+
+#: includes/ms-functions.php:347
+msgid "Activation Key:"
+msgstr "アクティベーションキー:"
+
+#: includes/ms-functions.php:1044
+msgid "Activation Key Required"
+msgstr "アクティベーションキーが必須"
+
+#: includes/ms-functions.php:713
+msgid "You are logged in already. No need to register again!"
+msgstr "既にログインしています。再登録する必要はありません。"
+
+#: includes/ms-functions.php:711
+msgid "Sorry, new registrations are not allowed at this time."
+msgstr "新規登録は現在許可されていません。"
+
+#: includes/ms-functions.php:685
+msgid "The site %s is yours."
+msgstr "%sはあなたのサイトです。"
+
+#: includes/ms-functions.php:658
+msgid "Site registration has been disabled."
+msgstr "サイト登録が無効になっています。"
+
+#: includes/ms-functions.php:652
+msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
+msgstr "メールクライアントの迷惑メールやスパムメール受信箱を確認してみてください。ときどきメールが誤って処理されることがあります。"
+
+#: includes/ms-functions.php:651
+msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
+msgstr "もう少々お待ちください。時々私たちがコントロールできない理由でメールの配達が遅れることがあります。"
+
+#: includes/ms-functions.php:649
+msgid "If you haven&#8217;t received your email yet, there are a number of things you can do:"
+msgstr "確認メールがまだ届いていない場合、いくつか試せることがあります。"
+
+#: includes/ms-functions.php:647
+msgid "Still waiting for your email?"
+msgstr "認証メールがまだ届いていませんか ?"
+
+#: includes/ms-functions.php:646
+msgid "If you do not activate your site within two days, you will have to sign up again."
+msgstr "2日以内にサイトを有効化しなかった場合、再登録が必要になります。"
+
+#: includes/ms-functions.php:644
+msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgstr "ただし、サイトを利用する前に<strong>有効化する必要があります</strong>。"
+
+#: includes/ms-functions.php:643
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr "おめでとうございます ! 新しいサイト、%s の準備がほぼ整いました。"
+
+#: includes/ms-functions.php:629
+msgid "User registration has been disabled."
+msgstr "ユーザー登録は無効になっています。"
+
+#: includes/ms-functions.php:626
+msgid "If you do not activate your username within two days, you will have to sign up again."
+msgstr "2日以内にユーザー名を有効化しなかった場合、再登録が必要になります。"
+
+#: includes/ms-functions.php:624
+msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
+msgstr "ただし、新しいユーザー名を使用するには、<strong>このユーザー名を有効化する必要があります</strong>。"
+
+#: includes/ms-functions.php:623
+msgid "%s is your new username"
+msgstr "新しいユーザー名は %s です"
+
+#: includes/ms-functions.php:608
+msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr "新しいサイトの作成には、最初に<a href=\"%s\">ログイン</a>する必要があります。"
+
+#: includes/ms-functions.php:605
+msgid "Registration has been disabled."
+msgstr "登録機能は無効になっています。"
+
+#: admin/settings.php:158
+msgid "Username only"
+msgstr "ユーザー名のみ"
+
+#: admin/settings.php:150 admin/settings.php:155
+msgid "Login Type"
+msgstr "ログイン方法"
+
+#: admin/functions.php:78 admin/settings.php:98
+msgid "General"
+msgstr "一般"
+
+#: admin/functions.php:66 admin/functions.php:77
+msgid "Theme My Login Settings"
+msgstr "Theme My Login 設定"

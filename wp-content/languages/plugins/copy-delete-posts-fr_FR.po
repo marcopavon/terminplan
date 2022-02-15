@@ -1,0 +1,42 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-12 23:49:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: menu/configuration.php:952
+msgid "This will establish connection to the chat servers"
+msgstr "Cela établira une connexion avec les serveurs de discussion."
+
+#: menu/configuration.php:950
+msgid "Connect with support (click to load)"
+msgstr "Connecter avec le support (cliquez pour charger)"
+
+#. Author URI of the plugin
+msgid "https://copy-delete-posts.com/"
+msgstr "https://copy-delete-posts.com/"
+
+#. Author of the plugin
+msgid "Copy Delete Posts"
+msgstr "Copy Delete Posts"
+
+#. Description of the plugin
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "La meilleure solution pour créer facilement des duplicatas de vos publications et pages, et les supprimer en une seule fois."
+
+#. Plugin URI of the plugin
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php:415 copy-delete-posts.php:846
+#: copy-delete-posts.php:850
+msgid "Copy & Delete Posts"
+msgstr "Copy & Delete Posts"

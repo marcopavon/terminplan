@@ -18,7 +18,7 @@
 
 /**  MySQL Einstellungen - diese Angaben bekommst du von deinem Webhoster. */
 /**  Ersetze database_name_here mit dem Namen der Datenbank, die du verwenden möchtest. */
-define( 'DB_NAME', 'terminplan' );
+define( 'DB_NAME', 'ig' );
 
 /** Ersetze username_here mit deinem MySQL-Datenbank-Benutzernamen */
 define( 'DB_USER', 'root' );
@@ -82,3 +82,5 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+
+

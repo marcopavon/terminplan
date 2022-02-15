@@ -1,0 +1,42 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-11 01:11:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: menu/configuration.php:952
+msgid "This will establish connection to the chat servers"
+msgstr "这会监理起链接来进行聊天服务器"
+
+#: menu/configuration.php:950
+msgid "Connect with support (click to load)"
+msgstr "带有支持的链接 (点击加载)"
+
+#. Author URI of the plugin
+msgid "https://copy-delete-posts.com/"
+msgstr "https://copy-delete-posts.com/"
+
+#. Author of the plugin
+msgid "Copy Delete Posts"
+msgstr "复制删除文章"
+
+#. Description of the plugin
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "最好的解决方案是轻松复制您的文章和页面，并一次性删除它们。"
+
+#. Plugin URI of the plugin
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php:415 copy-delete-posts.php:846
+#: copy-delete-posts.php:850
+msgid "Copy & Delete Posts"
+msgstr "复制 & 删除 文章"

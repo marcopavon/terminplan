@@ -1,0 +1,337 @@
+# Translation of Plugins - Theme My Login - Development (trunk) in Danish
+# This file is distributed under the same license as the Plugins - Theme My Login - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-17 16:50:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Theme My Login - Development (trunk)\n"
+
+#: includes/forms.php:264
+msgid "Confirm new password"
+msgstr "Bekræft ny adgangskode"
+
+#: includes/ms-functions.php:376 includes/forms.php:154 includes/forms.php:275
+msgid "Strength indicator"
+msgstr "Styrkeindikator"
+
+#: includes/forms.php:253
+msgid "New password"
+msgstr "Ny adgangskode"
+
+#: includes/ms-functions.php:1080
+msgid "New Password"
+msgstr "Nyt kodeord"
+
+#: includes/ms-functions.php:150
+msgid "Next"
+msgstr "Næste"
+
+#: includes/ms-functions.php:140
+msgid "Just a username, please."
+msgstr "Kun et brugernavn, tak."
+
+#: includes/ms-functions.php:139
+msgid "Gimme a site!"
+msgstr "Lad mig få et site!"
+
+#: includes/ms-functions.php:105
+msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
+msgstr "Vi sender e-mailen vedr. din kontooprettelse til denne adresse. (Tjek venligst en ekstra gang, førend du fortsætter.)"
+
+#: includes/ms-functions.php:104
+msgid "Email&nbsp;Address:"
+msgstr "E-mailadresse"
+
+#: includes/ms-functions.php:82
+msgid "(Must be at least 4 characters, letters and numbers only.)"
+msgstr "(Skal være på mindst 4 tegn, kun bogstaver og tal.)"
+
+#: includes/ms-functions.php:779
+msgid "Get your own %s account in seconds"
+msgstr "Få din egen %s-konto på få sekunder"
+
+#: includes/ms-functions.php:195
+msgid "Signup"
+msgstr "Opret konto"
+
+#: includes/ms-functions.php:232
+msgid "Create Site"
+msgstr "Opret site"
+
+#: includes/ms-functions.php:311
+msgid "No"
+msgstr "Nej"
+
+#: includes/ms-functions.php:310
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/ms-functions.php:315
+msgid "Allow search engines to index this site."
+msgstr "Tillad søgemaskiner at indeksere dette site."
+
+#: includes/ms-functions.php:307
+msgid "Privacy:"
+msgstr "Privatliv:"
+
+#: includes/ms-functions.php:292
+msgid "Site Title:"
+msgstr "Sitetitel:"
+
+#: includes/ms-functions.php:251 includes/ms-functions.php:272
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
+msgstr "Skal være mindst 4 tegn, kun bogstaver og tal er gyldige. Det kan ikke ændres, så vælg med omhu!"
+
+#: includes/ms-functions.php:250 includes/ms-functions.php:271
+msgid "Your address will be %s."
+msgstr "Din adresse vil blive %s."
+
+#: includes/ms-functions.php:271
+msgid "domain"
+msgstr "domæne"
+
+#: includes/ms-functions.php:250
+msgid "sitename"
+msgstr "sitenavn"
+
+#: includes/ms-functions.php:277
+msgid "Site Domain:"
+msgstr "Sitedomæne:"
+
+#: includes/ms-functions.php:874
+msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
+msgstr "Hvis du ikke kommer til at bruge et godt domæne, så lad en anden bruger få den. Gå bare i krig!"
+
+#: includes/ms-functions.php:866
+msgid "Sites you are already a member of:"
+msgstr "Sites, du allerede er medlem af:"
+
+#: includes/ms-functions.php:862
+msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr "Velkommen tilbage, %s. Ved at udfylde formularen nedenfor kan du <strong>tilføje et andet site til din konto</strong>. Der er ikke nogen øvre grænse på, hvor mange sites du kan oprette, så bare opret alle dem, du har lyst til. Vær dit ansvar bevidst, når du skriver."
+
+#: includes/ms-functions.php:858
+msgid "Get <em>another</em> %s site in seconds"
+msgstr "Få <em>en anden</em> %s-site på få sekunder"
+
+#: includes/forms.php:223
+msgid "Get New Password"
+msgstr "Få et nyt kodeord"
+
+#: includes/forms.php:66
+msgid "Remember Me"
+msgstr "Husk mig"
+
+#: includes/functions.php:784 includes/functions.php:791 includes/forms.php:105
+msgid "Username"
+msgstr "Brugernavn"
+
+#: admin/settings.php:157 admin/settings.php:177
+msgid "Default"
+msgstr "Standard"
+
+#: includes/actions.php:32
+msgid "Log in"
+msgstr "Log ind"
+
+#: includes/actions.php:516
+msgid "Registration complete. You may now log in."
+msgstr "Registreringen er fuldført. Du kan nu logge ind."
+
+#: includes/ms-functions.php:366 includes/forms.php:144
+msgid "Confirm Password"
+msgstr "Bekræft kodeord"
+
+#: includes/ms-functions.php:356 includes/forms.php:53 includes/forms.php:134
+msgid "Password"
+msgstr "Kodeord"
+
+#. translators: Password reset email subject. %s: Site name
+#: includes/compat.php:110
+msgid "[%s] Password Reset"
+msgstr "[%s] Nulstilling af adgangskode"
+
+#: includes/compat.php:97
+msgid "To reset your password, visit the following address:"
+msgstr "For at nulstille din adgangskode skal du besøge den følgende adresse:"
+
+#: includes/compat.php:96
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Hvis det er en fejltagelse, skal du blot ignorere denne e-mail, så sker der ikke mere."
+
+#. translators: %s: user login
+#: includes/compat.php:95
+msgid "Username: %s"
+msgstr "Brugernavn: %s"
+
+#: includes/actions.php:522
+msgid "Your password has been reset."
+msgstr "Dit kodeord er blevet nulstillet"
+
+#: includes/actions.php:509 includes/actions.php:596
+msgid "User registration is currently not allowed."
+msgstr "Brugerregistrering er ikke muligt i øjeblikket."
+
+#: includes/actions.php:506
+msgid "You are now logged out."
+msgstr "Du er nu logget ud."
+
+#: includes/actions.php:724
+msgid "The passwords do not match."
+msgstr "Adgangskoderne er ikke ens."
+
+#: includes/actions.php:676
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr "Dit link til at nulstille adgangskode er udløbet. Bestil et nyt link nedenfor."
+
+#: includes/actions.php:674
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr "Dit link til at nulstille adgangskode ser ugyldigt ud. Bestil et nyt link nedenfor."
+
+#: includes/actions.php:69
+msgid "Reset Password"
+msgstr "Nulstil kodeord"
+
+#: includes/class-theme-my-login-widget.php:100 includes/actions.php:38
+#: includes/shortcodes.php:89
+msgid "Log Out"
+msgstr "Log ud"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/class-theme-my-login-widget.php:23 admin/functions.php:67
+msgid "Theme My Login"
+msgstr "Theme My Login"
+
+#: includes/class-theme-my-login-widget.php:92 includes/actions.php:19
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: includes/actions.php:28 includes/forms.php:74 admin/settings.php:103
+msgid "Log In"
+msgstr "Log ind"
+
+#: includes/actions.php:58
+msgid "Lost Password"
+msgstr "Glemt kodeord"
+
+#: includes/actions.php:48 includes/forms.php:180
+msgid "Register"
+msgstr "Opret bruger"
+
+#: includes/ms-functions.php:1094
+msgid "Password:"
+msgstr "Adgangskode:"
+
+#: includes/ms-functions.php:81 includes/ms-functions.php:1093
+msgid "Username:"
+msgstr "Brugernavn:"
+
+#: includes/ms-functions.php:1083
+msgid "An error occurred during the activation"
+msgstr "Der skete en fejl under aktiveringen"
+
+#: includes/ms-functions.php:1052 includes/ms-functions.php:1090
+msgid "Your account is now active!"
+msgstr "Din konto er nu aktiveret!"
+
+#: includes/ms-functions.php:389 admin/settings.php:515
+msgid "Activate"
+msgstr "Aktivér"
+
+#: includes/ms-functions.php:347
+msgid "Activation Key:"
+msgstr "Aktiveringsnøgle:"
+
+#: includes/ms-functions.php:1044
+msgid "Activation Key Required"
+msgstr "Aktiveringsnøgle påkrævet"
+
+#: includes/ms-functions.php:713
+msgid "You are logged in already. No need to register again!"
+msgstr "Du er allerede logget ind. Der er ingen grund til at oprette dig igen!"
+
+#: includes/ms-functions.php:711
+msgid "Sorry, new registrations are not allowed at this time."
+msgstr "Beklager, man kan ikke oprette brugerkonti for øjeblikket."
+
+#: includes/ms-functions.php:685
+msgid "The site %s is yours."
+msgstr "Sitet %s er dit."
+
+#: includes/ms-functions.php:658
+msgid "Site registration has been disabled."
+msgstr "Oprettelse af nye sites er deaktiveret."
+
+#: includes/ms-functions.php:652
+msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
+msgstr "Tjek mapperne med uønsket mail og spam i dit mailprogram. Sommetider ender e-mails her ved en fejltagelse."
+
+#: includes/ms-functions.php:651
+msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
+msgstr "Vent lidt længere. Sommetider kan modtagelse af en e-mail bliver forsinket af processer, vi ikke har kontrol over."
+
+#: includes/ms-functions.php:649
+msgid "If you haven&#8217;t received your email yet, there are a number of things you can do:"
+msgstr "Hvis du stadigvæk ikke har modtaget din e-mail, er der forskellige ting, du kan gøre:"
+
+#: includes/ms-functions.php:647
+msgid "Still waiting for your email?"
+msgstr "Venter du stadig på din e-mail?"
+
+#: includes/ms-functions.php:646
+msgid "If you do not activate your site within two days, you will have to sign up again."
+msgstr "Hvis du ikke aktiverer dit site inden for to dage, skal du oprette den forfra."
+
+#: includes/ms-functions.php:644
+msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgstr "Men førend du kan begynde at bruge dit site, <strong>skal du aktivere det</strong>."
+
+#: includes/ms-functions.php:643
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr "Tillykke! Dit nye site, %s, er næsten klar."
+
+#: includes/ms-functions.php:629
+msgid "User registration has been disabled."
+msgstr "Brugerkontooprettelse er deaktiveret."
+
+#: includes/ms-functions.php:626
+msgid "If you do not activate your username within two days, you will have to sign up again."
+msgstr "Hvis du ikke aktiverer dit brugernavn inden to dage, skal du oprette dig forfra som bruger."
+
+#: includes/ms-functions.php:624
+msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
+msgstr "Men førend du kan begynde at bruge dit nye brugernavn, <strong>skal du aktivere det</strong>."
+
+#: includes/ms-functions.php:623
+msgid "%s is your new username"
+msgstr "%s er dit nye brugernavn"
+
+#: includes/ms-functions.php:608
+msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr "Du skal først <a href=\"%s\">logge ind</a>. Dernæst kan du oprette et nyt site."
+
+#: includes/ms-functions.php:605
+msgid "Registration has been disabled."
+msgstr "Kontooprettelser er deaktiveret."
+
+#: admin/settings.php:158
+msgid "Username only"
+msgstr "Kun brugernavn"
+
+#: admin/settings.php:150 admin/settings.php:155
+msgid "Login Type"
+msgstr "Logintype"
+
+#: admin/functions.php:78 admin/settings.php:98
+msgid "General"
+msgstr "Generelt"
+
+#: admin/functions.php:66 admin/functions.php:77
+msgid "Theme My Login Settings"
+msgstr "Theme My Login-indstillinger"

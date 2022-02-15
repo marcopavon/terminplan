@@ -1,0 +1,5389 @@
+# Translation of Themes - OceanWP in Finnish
+# This file is distributed under the same license as the Themes - OceanWP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-26 07:17:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - OceanWP\n"
+
+#. Description of the theme
+msgid "OceanWP is the perfect theme for your project. Lightweight and highly extendable, it will enable you to create almost any type of website such a blog, portfolio, business website and WooCommerce storefront with a beautiful & professional design. Very fast, responsive, RTL & translation ready, best SEO practices, unique WooCommerce features to increase conversion and much more. You can even edit the settings on tablet & mobile so your site looks good on every device. Work with the most popular page builders as Elementor, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, etc... Developers will love his extensible codebase making it a joy to customize and extend. Best friend of Elementor & WooCommerce. Looking for a Multi-Purpose theme? Look no further! Check the demos to realize that it's the only theme you will ever need: https://oceanwp.org/demos/"
+msgstr "OceanWP on täydellinen teema projektillesi. Kevyt ja erittäin laajennettavissa oleva, se mahdollistaa sinun luoda melkein minkä tyyppinen sivusto tahansa kuten blogi, portfolio, yrityssivusto ja WooCommerce-verkkokauppa kauniilla ja ammattimaisella muotoilulla. Erittäin nopea, responsiivinen, oikealta vasemmalle tekstin ja käännöksiin valmis, parhaat hakukoneoptimointikäytännöt, ainutlaatuiset WooCommerce-ominaisuudet lisäävät konversioita ja paljon muuta. Voit jopa muokata asetuksia mobiililaitteille, joten sivustosi näyttää hyvältä joka laitteella. Toimii suosituimpien sivustonrakentajien kuten Elementorin, Beaver Builderin, Brizyn, Visual Composerin, Divin, SiteOriginin ja muiden kanssa. Kehittäjät tulevat rakastamaan laajennettavissa olevaa koodipohjaa, joka tekee mukauttamisesta ja laajentamisesta ilon. Elementorin ja WooCommercen paras ystävä. Etsitkö monikäyttöistä teemaa? Älä etsi enää! Katso demot tajutaksesi että tämä on ainut teema, jota ikinä tarvitset: https://oceanwp.org/demos/"
+
+#. Theme Name of the theme
+#: inc/helpers.php:3764
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#: inc/oceanwp-strings.php:45
+msgid "Name"
+msgstr "Nimi"
+
+#: inc/customizer/settings/blog.php:1732
+msgid "After"
+msgstr "Jälkeen"
+
+#: inc/customizer/settings/blog.php:1731
+msgid "Before"
+msgstr "Ennen"
+
+#: comments.php:44
+msgid "Comment"
+msgstr "Kommentti"
+
+#: partials/header/search-replace.php:20 partials/header/search-overlay.php:17
+msgid "Close search form"
+msgstr "Sulje hakulomake"
+
+#: inc/oceanwp-strings.php:41
+msgid "Click to edit your profile"
+msgstr "Napsauta muokataksesi profiiliasi"
+
+#: inc/helpers.php:3281
+msgid "Enter your website URL (optional)"
+msgstr "Kirjoita sivustosi verkko-osoite/URL (valinnainen)"
+
+#: inc/helpers.php:3279
+msgid "Enter your email address to comment"
+msgstr "Kirjoita sähköpostiosoitteesi kommentoidaksesi"
+
+#: inc/helpers.php:3277
+msgid "Enter your name or username to comment"
+msgstr "Kirjoita nimesi tai käyttäjätunnuksesi kommentoidaksesi"
+
+#: inc/customizer/settings/blog.php:865 inc/customizer/settings/blog.php:1497
+msgid "Reading Time"
+msgstr "Lukuaika"
+
+#: inc/customizer/settings/blog.php:1726
+msgid "Comment Form Position"
+msgstr "Kommentointilomakkeen sijainti"
+
+#: partials/entry/meta.php:55 partials/single/meta.php:61
+msgid "Reading time:"
+msgstr "Lukuaika:"
+
+#: sidebar.php:15
+msgid "Primary Sidebar"
+msgstr "Pääsivupalkki"
+
+#: woocommerce/share.php:35
+msgid "Share on Pinterest (opens in a new tab)"
+msgstr "Jaa Pinterestissä (aukeaa uudella välilehdellä)"
+
+#: woocommerce/share.php:28
+msgid "Share on Twitter (opens in a new tab)"
+msgstr "Jaa Twitterissä (aukeaa uudella välilehdellä)"
+
+#: woocommerce/share.php:21
+msgid "Share on Facebook (opens in a new tab)"
+msgstr "Jaa Facebookissa (aukeaa uudella välilehdellä)"
+
+#: comments.php:101 comments.php:114
+msgid "Next comment"
+msgstr "Seuraava kommentti"
+
+#: comments.php:100 comments.php:113
+msgid "Previous comment"
+msgstr "Edellinen kommentti"
+
+#: sidebar-left.php:12
+msgid "Secondary Sidebar"
+msgstr "Toissijainen sivupalkki"
+
+#: inc/oceanwp-strings.php:36
+msgid "Type then hit enter to search"
+msgstr "Syotä hakusana ja paina enter "
+
+#: inc/oceanwp-strings.php:53
+msgid "Read more articles"
+msgstr "Lue lisää artikkeleita"
+
+#: partials/header/social.php:134 partials/topbar/social.php:116
+msgid "Skype (opens in your application)"
+msgstr "Skype (avautuu sovelluksessasi)"
+
+#: partials/header/social.php:107 partials/topbar/social.php:90
+msgid "Social links"
+msgstr "Somelinkit"
+
+#: partials/entry/meta.php:59 partials/single/meta.php:65
+msgid "Post comments:"
+msgstr "Artikkelin kommentit:"
+
+#: partials/entry/meta.php:51 partials/single/meta.php:57
+msgid "Post category:"
+msgstr "Artikkelin kategoria:"
+
+#: partials/entry/meta.php:43 partials/single/meta.php:49
+msgid "Post published:"
+msgstr "Artikkeli julkaistu:"
+
+#: partials/entry/meta.php:39 partials/single/meta.php:45
+msgid "Post author:"
+msgstr "Artikkelin kirjoittaja:"
+
+#: partials/entry/meta.php:31
+msgid "Post details:"
+msgstr "Artikkelin tiedot:"
+
+#: partials/mobile/mobile-fullscreen-search.php:21
+msgid "Mobile Search"
+msgstr "Mobiilihaku"
+
+#: inc/oceanwp-strings.php:67
+msgid "Submit search"
+msgstr "Lähetä haku"
+
+#: partials/header/search-replace.php:29 partials/header/search-overlay.php:28
+#: searchform.php:24 inc/oceanwp-strings.php:66
+msgid "Search for:"
+msgstr "Hae:"
+
+#: inc/oceanwp-strings.php:31
+msgid "Skip to content"
+msgstr "Siirry suoraan sisältöön"
+
+#: woocommerce/share.php:42
+msgid "Share by email (opens in a new tab)"
+msgstr "Jaa sähköpostilla (aukeaa uudella välilehdellä)"
+
+#: inc/helpers.php:3346
+msgid "Go to the next page"
+msgstr "Siirry seuraavalle sivulle"
+
+#: inc/helpers.php:3345
+msgid "Go to the previous page"
+msgstr "Siirry edelliselle sivulle"
+
+#: inc/helpers.php:1842
+msgid "Search website"
+msgstr "Etsi sivustolta"
+
+#: inc/oceanwp-strings.php:57
+msgid "Close quick preview"
+msgstr "Sulje pikaesikatselu"
+
+#: inc/customizer/settings/blog.php:864 inc/customizer/settings/blog.php:1496
+msgid "Modified Date"
+msgstr "Muokkauspäivämäärä"
+
+#: partials/header/social.php:136 partials/topbar/social.php:118
+msgid "Send email (opens in your application)"
+msgstr "Lähetä sähköpostia (avautuu sovelluksessasi)"
+
+#: partials/header/social.php:121 partials/topbar/social.php:104
+msgid "(opens in a new tab)"
+msgstr "(aukeaa uudella välilehdellä)"
+
+#: partials/header/style/vertical-header-search.php:21
+msgid "Vertical Header Search"
+msgstr "Pystysuoran otsakkeen haku"
+
+#: partials/header/style/medium-header-search.php:23
+msgid "Medium Header Search"
+msgstr "Keskikokoisen otsakkeen haku"
+
+#: partials/scroll-top.php:26
+msgid "Scroll to the top of the page"
+msgstr "Vieritä sivun yläreunaan"
+
+#: partials/entry/meta.php:47 partials/single/meta.php:53
+msgid "Post last modified:"
+msgstr "Artikkelia viimeksi muokattu:"
+
+#: inc/oceanwp-strings.php:65
+msgid "Close mobile menu"
+msgstr "Sulje mobiilivalikko"
+
+#: woocommerce/owp-off-canvas-sidebar.php:18
+msgid "Close off canvas panel"
+msgstr "Sulje piirtoalueen ulkopuolinen paneeli"
+
+#: partials/single/tags.php:15
+msgid "Tags: "
+msgstr "Avainsanat: "
+
+#: inc/customizer/settings/general.php:1991
+msgid "Show Item Title"
+msgstr "Näytä kohteen otsikko"
+
+#: inc/customizer/settings/woocommerce.php:1981
+msgid "Title HTML Tag"
+msgstr "Otsikon HTML-tagi"
+
+#: inc/customizer/settings/general.php:2079
+msgid "Text"
+msgstr "Teksti"
+
+#: inc/customizer/settings/woocommerce.php:1498
+msgid "Products Style"
+msgstr "Tuotteiden tyyli"
+
+#: inc/customizer/settings/general.php:2219
+msgid "Shop Page"
+msgstr "Kauppasivu"
+
+#: inc/customizer/settings/general.php:2253
+msgid "Portfolio Page"
+msgstr "Portfoliosivu"
+
+#: inc/customizer/settings/general.php:2244
+msgid "Portfolio Taxonomy"
+msgstr "Portfolion luokittelu"
+
+#: inc/customizer/settings/general.php:2210
+msgid "Products Taxonomy"
+msgstr "Tuotteiden luokittelu"
+
+#: inc/customizer/settings/general.php:2188
+msgid "Blog Page"
+msgstr "Blogisivu"
+
+#: inc/customizer/settings/general.php:2179
+msgid "Posts Taxonomy"
+msgstr "Artikkelien luokittelu"
+
+#: inc/customizer/settings/general.php:2073
+msgid "Home Item"
+msgstr "Etusivun kohde"
+
+#: inc/customizer/settings/general.php:2047
+msgid "Breadcrumb Separator"
+msgstr "Linkkipolun jakaja"
+
+#: inc/customizer/settings/general.php:1966
+msgid "Enable Breadcrumbs"
+msgstr "Ota käyttöön linkkipolku"
+
+#: inc/customizer/settings/woocommerce.php:1435
+msgid "Add Close Button"
+msgstr "Lisää sulkemispainike"
+
+#: inc/customizer/settings/learndash.php:280
+#: inc/customizer/settings/learndash.php:450
+#: inc/customizer/settings/learndash.php:620
+#: inc/customizer/settings/edd.php:1159 inc/customizer/settings/edd.php:1567
+#: inc/customizer/settings/lifterlms.php:361
+#: inc/customizer/settings/lifterlms.php:477
+#: inc/customizer/settings/lifterlms.php:593
+#: inc/customizer/settings/blog.php:197 inc/customizer/settings/blog.php:1052
+#: inc/customizer/settings/general.php:952
+#: inc/customizer/settings/general.php:1273
+#: inc/customizer/settings/woocommerce.php:1208
+#: inc/customizer/settings/woocommerce.php:1960
+msgid "Mobile Sidebar Order"
+msgstr "Mobiilisivupalkin järjestys"
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Seuraava suositeltu lisäosa on tällä hetkellä poissa käytöstä: %1$s."
+msgstr[1] "Seuraavat suositellut lisäosat ovat tällä hetkellä poissa käytöstä: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Seuraava vaadittu lisäosa on tällä hetkellä poissa käytöstä: %1$s."
+msgstr[1] "Seuraavat vaaditut lisäosat ovat tällä hetkellä poissa käytöstä: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tälle teemalle suositellaan seuraavaa lisäosaa: %1$s."
+msgstr[1] "Tälle teemalle suositellaan seuraavia lisäosia: %1$s."
+
+#: inc/customizer/settings/woocommerce.php:1504
+msgid "Default Style"
+msgstr "Oletustyyli"
+
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:113
+msgid "Both Sidebars"
+msgstr "Molemmat sivupalkit"
+
+#: inc/customizer/settings/general.php:2476
+msgid "Bottom Position (px)"
+msgstr "Alasijainti (px)"
+
+#: inc/customizer/settings/general.php:2154
+msgid "Translation for \"Search results for\""
+msgstr "Käännös lauseelle \"Hakutulokset kyselylle\""
+
+#: inc/customizer/settings/general.php:2128
+msgid "Translation for \"404 Not Found\""
+msgstr "Käännös lauseelle \"404 ei löytynyt\""
+
+#: inc/customizer/settings/general.php:2102
+msgid "Translation for Homepage"
+msgstr "Käännös kotisivulle"
+
+#: inc/customizer/settings/woocommerce.php:4709
+msgid "Single Product: Add To Cart"
+msgstr "Yksittäinen tuote: lisää ostoskoriin"
+
+#: inc/customizer/settings/woocommerce.php:3927
+msgid "Hover: Wishlist Hover Color"
+msgstr "Osoitettaessa: toivelistan väri osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3910
+msgid "Hover: Wishlist Color"
+msgstr "Osoitettaessa: toivelistan väri"
+
+#: inc/customizer/settings/woocommerce.php:3893
+msgid "Hover: Wishlist Hover Background"
+msgstr "Osoitettaessa: toivelistan tausta osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3876
+msgid "Hover: Wishlist Background"
+msgstr "Osoitettaessa: toivelistan tausta"
+
+#: inc/customizer/settings/woocommerce.php:3842
+msgid "Hover: Quick View Color"
+msgstr "Osoitettaessa: pikanäkymän väri"
+
+#: inc/customizer/settings/woocommerce.php:3859
+msgid "Hover: Quick View Hover Color"
+msgstr "Osoitettaessa: pikanäkymän väri osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3825
+msgid "Hover: Quick View Hover Background"
+msgstr "Osoitettaessa: pikanäkymän tausta osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3808
+msgid "Hover: Quick View Background"
+msgstr "Osoitettaessa: pikanäkymän tausta"
+
+#: inc/customizer/settings/woocommerce.php:3791
+msgid "Hover: Thumbnails Border Color"
+msgstr "Osoitettaessa: pienoiskuvan reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:1505
+msgid "Hover Style"
+msgstr "Tyyli osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:1469
+msgid "Close Button Color: Hover"
+msgstr "Sulkemispainikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:63
+msgid "Remove Custom WooCommerce Features"
+msgstr "Poista mukautetut WooCommercen ominaisuudet"
+
+#: inc/customizer/settings/learndash.php:287
+#: inc/customizer/settings/learndash.php:457
+#: inc/customizer/settings/learndash.php:627
+#: inc/customizer/settings/edd.php:1166 inc/customizer/settings/edd.php:1574
+#: inc/customizer/settings/lifterlms.php:368
+#: inc/customizer/settings/lifterlms.php:484
+#: inc/customizer/settings/lifterlms.php:600
+#: inc/customizer/settings/blog.php:204 inc/customizer/settings/blog.php:1059
+#: inc/customizer/settings/general.php:959
+#: inc/customizer/settings/general.php:1280
+#: inc/customizer/settings/woocommerce.php:1215
+#: inc/customizer/settings/woocommerce.php:1967
+msgid "Sidebar / Content"
+msgstr "Sivupalkki/sisältö"
+
+#: inc/customizer/settings/learndash.php:286
+#: inc/customizer/settings/learndash.php:456
+#: inc/customizer/settings/learndash.php:626
+#: inc/customizer/settings/edd.php:1165 inc/customizer/settings/edd.php:1573
+#: inc/customizer/settings/lifterlms.php:367
+#: inc/customizer/settings/lifterlms.php:483
+#: inc/customizer/settings/lifterlms.php:599
+#: inc/customizer/settings/blog.php:203 inc/customizer/settings/blog.php:1058
+#: inc/customizer/settings/general.php:958
+#: inc/customizer/settings/general.php:1279
+#: inc/customizer/settings/woocommerce.php:1214
+#: inc/customizer/settings/woocommerce.php:1966
+msgid "Content / Sidebar"
+msgstr "Sisältö/sivupalkki"
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Seuraava lisäosa on päivitettävä uusimpaan versioon, jotta voidaan varmistaa mahdollisimman hyvä yhteensopivuus tämän teeman kanssa: %1$s."
+msgstr[1] "Seuraavat lisäosat on päivitettävä uusimpiin versioihin, jotta voidaan varmistaa mahdollisimman hyvä yhteensopivuus tämän teeman kanssa: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tämä teema vaatii seuraavan lisäosan: %1$s."
+msgstr[1] "Tämä teema vaatii seuraavat lisäosat: %1$s."
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:337 inc/customizer/settings/general.php:2144
+msgid "Search results for"
+msgstr "Hakutulokset kyselylle"
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Päivitys saatavilla lisäosaan: %1$s."
+msgstr[1] "Päivityksiä saatavilla lisäosiin: %1$s."
+
+#: inc/customizer/settings/woocommerce.php:64
+msgid "Remove all the custom WooCommerce features added for OceanWP, you will have the default plugin features."
+msgstr "Poista kaikki mukautetut OceanWP:hen lisätyt WooCommercen ominaisuudet, tulet saamaan lisäosan oletustoiminnot."
+
+#: inc/customizer/settings/learndash.php:710
+msgid "Heading Background Color"
+msgstr "Otsikon taustaväri"
+
+#: inc/customizer/settings/learndash.php:685
+msgid "Heading Color"
+msgstr "Otsikon väri"
+
+#: inc/customizer/settings/learndash.php:662
+msgid "Table"
+msgstr "Taulukko"
+
+#: inc/customizer/settings/learndash.php:479
+msgid "Lesson/Topic"
+msgstr "Oppitunti/aihe"
+
+#: inc/customizer/settings/learndash.php:46
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/third/class-learndash.php:222
+msgid "LearnDash Take Course Button"
+msgstr "LearnDashin suorita kurssi -painike"
+
+#: inc/third/class-learndash.php:211
+msgid "LearnDash Table Item"
+msgstr "LearnDashin taulukkokohde"
+
+#: inc/third/class-learndash.php:200
+msgid "LearnDash Table Heading"
+msgstr "LearnDashin taulukon otsikko"
+
+#: inc/third/class-learndash.php:189
+msgid "LearnDash Titles"
+msgstr "LearnDashin otsikot"
+
+#: inc/customizer/settings/learndash.php:808
+msgid "Incomplete Color"
+msgstr "Keskeneräinen väri"
+
+#: inc/customizer/settings/learndash.php:784
+msgid "Complete Color"
+msgstr "Valmis väri"
+
+#: inc/customizer/settings/learndash.php:760
+msgid "Item Hover Color"
+msgstr "Kohteen väri osoitettaessa"
+
+#: inc/customizer/settings/learndash.php:735
+msgid "Item Color"
+msgstr "Kohteen väri"
+
+#: inc/customizer/settings/blog.php:662
+msgid "Date Color"
+msgstr "Päivämäärän väri"
+
+#: inc/woocommerce/woocommerce-config.php:801
+msgid "View products"
+msgstr "Näytä tuotteet"
+
+#: inc/customizer/settings/woocommerce.php:277
+msgid "Original"
+msgstr "Alkuperäinen"
+
+#: inc/customizer/settings/woocommerce.php:271
+msgid "Login/Register Style"
+msgstr "Kirjautumisen/rekisteröitymisen tyyli"
+
+#: inc/customizer/settings/woocommerce.php:278
+msgid "Side by Side"
+msgstr "Vierekkäin"
+
+#: inc/customizer/settings/woocommerce.php:256
+msgid "My Account Page"
+msgstr "Tilini-sivu"
+
+#: inc/woocommerce/woocommerce-config.php:2096
+msgid "Sale!"
+msgstr "Tarjous!"
+
+#: inc/woocommerce/woocommerce-config.php:2092
+msgid "%s"
+msgstr "%s"
+
+#: inc/oceanwp-strings.php:61
+msgid "Next Product"
+msgstr "Seuraava tuote"
+
+#: inc/oceanwp-strings.php:62
+msgid "Previous Product"
+msgstr "Edellinen tuote"
+
+#: inc/customizer/settings/lifterlms.php:1075
+msgid "Sub Title Color"
+msgstr "Alaotsikon väri"
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2328
+msgid "%s is a required field."
+msgstr "%s on vaadittu kenttä."
+
+#. translators: %s: email address
+#: inc/woocommerce/woocommerce-config.php:2301
+msgid "%s is not a valid email address."
+msgstr "‌‌%s ei ole kelvollinen sähköpostiosoite."
+
+#. translators: %s: phone number
+#: inc/woocommerce/woocommerce-config.php:2292
+msgid "%s is not a valid phone number."
+msgstr "‌‌%s ei ole kelvollinen puhelinnumero."
+
+#: inc/woocommerce/woocommerce-config.php:2283
+msgid "%s is not a valid postcode / ZIP."
+msgstr "‌‌%s ei ole kelvollinen postinumero."
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2274
+msgid "Billing %s"
+msgstr "Laskutus %s"
+
+#. translators: %s: field name
+#: inc/woocommerce/woocommerce-config.php:2270
+msgid "Shipping %s"
+msgstr "Toimitus %s"
+
+#: inc/customizer/settings/lifterlms.php:40
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/customizer/settings/lifterlms.php:497
+#: inc/customizer/settings/lifterlms.php:1198
+msgid "Lesson"
+msgstr "Oppitunti"
+
+#: inc/customizer/settings/learndash.php:309
+#: inc/customizer/settings/lifterlms.php:381
+#: inc/customizer/settings/lifterlms.php:1045
+msgid "Course"
+msgstr "Kurssi"
+
+#: inc/customizer/settings/lifterlms.php:214
+msgid "Syllabus"
+msgstr "Opetusohjelma"
+
+#: inc/customizer/settings/lifterlms.php:213
+msgid "Progress"
+msgstr "Edistyminen"
+
+#: inc/customizer/settings/lifterlms.php:190
+#: inc/customizer/settings/lifterlms.php:204
+msgid "Course Details"
+msgstr "Kurssin tiedot"
+
+#: inc/customizer/settings/lifterlms.php:167
+msgid "Membership Columns"
+msgstr "Jäsenyyssarakkeet"
+
+#: inc/customizer/settings/lifterlms.php:132
+msgid "Courses Columns"
+msgstr "Kurssisarakkeet"
+
+#: inc/customizer/settings/learndash.php:102
+#: inc/customizer/settings/lifterlms.php:92
+msgid "Distraction Free Learning"
+msgstr "Häiriötön oppiminen"
+
+#. translators: 1: state field 2: valid states
+#: inc/woocommerce/woocommerce-config.php:2321
+msgid "%1$s is not valid. Please enter one of the following: %2$s"
+msgstr "%1$s ei ole kelvollinen. Ole hyvä ja kirjoita yksi seuraavista: %2$s"
+
+#: inc/third/class-lifterlms.php:450
+msgid "LifterLMS Buy Button"
+msgstr "LifterLMS ostopainike"
+
+#: inc/third/class-lifterlms.php:439
+msgid "LifterLMS Lesson Title"
+msgstr "LifterLMS oppitunnin otsikko"
+
+#: inc/third/class-lifterlms.php:428
+msgid "LifterLMS Section Title"
+msgstr "LifterLMS osion otsikko"
+
+#: inc/third/class-lifterlms.php:417
+msgid "LifterLMS Course/Lesson Title"
+msgstr "LifterLMS kurssin/oppitunnin otsikko"
+
+#: inc/third/class-lifterlms.php:313
+msgid "Both Sidebar"
+msgstr "Molemmat sivupalkit"
+
+#: inc/third/class-lifterlms.php:299
+msgid "OceanWP Theme Setting"
+msgstr "OceanWP-teeman asetus"
+
+#: inc/customizer/settings/lifterlms.php:1183
+msgid "Section Title Background"
+msgstr "Osion otsikon tausta"
+
+#: inc/customizer/settings/lifterlms.php:1168
+msgid "Section Title Color"
+msgstr "Osion otsikon väri"
+
+#: inc/customizer/settings/learndash.php:832
+#: inc/customizer/settings/lifterlms.php:1152
+msgid "Progress Bar Color"
+msgstr "Edistymispalkin väri"
+
+#: inc/customizer/settings/lifterlms.php:1107
+msgid "Meta Link/SubTitle Color"
+msgstr "Metalinkin/alaotsikon väri"
+
+#: inc/customizer/settings/lifterlms.php:1031
+msgid "Meta Color"
+msgstr "Meta-väri"
+
+#: inc/customizer/settings/lifterlms.php:1015
+#: inc/customizer/settings/lifterlms.php:1137
+msgid "Author Color"
+msgstr "Kirjoittajan väri"
+
+#: inc/customizer/settings/lifterlms.php:623
+msgid "Courses/Memberships"
+msgstr "Kurssit/jäsenyydet"
+
+#: inc/customizer/settings/learndash.php:139
+#: inc/customizer/settings/lifterlms.php:265
+msgid "Global"
+msgstr "Globaali"
+
+#: inc/customizer/settings/lifterlms.php:226
+msgid "Membership Details"
+msgstr "Jäsenyystiedot"
+
+#: inc/edd/edd-helpers.php:201
+msgid "Add to Cart"
+msgstr "Lisää ostoskoriin"
+
+#: inc/edd/edd-config.php:506
+msgid "EDD Product Price"
+msgstr "EDD-tuotteen hinta"
+
+#: inc/edd/edd-config.php:495
+msgid "EDD Product Title"
+msgstr "EDD-tuotteen otsikko"
+
+#: inc/edd/edd-config.php:124
+msgid "EDD Sidebar"
+msgstr "EDD-sivupalkki"
+
+#: inc/customizer/settings/edd.php:1329
+msgid "Button"
+msgstr "Painike"
+
+#: inc/customizer/settings/edd.php:1330
+msgid "Options"
+msgstr "Asetukset"
+
+#: inc/edd/edd-helpers.php:198
+msgid "View Details"
+msgstr "Näytä tiedot"
+
+#: inc/edd/edd-config.php:516
+msgid "EDD Product Add To Cart"
+msgstr "Lisää ostoskoriin EDD-tuote"
+
+#: inc/customizer/settings/edd.php:1622
+msgid "Display Add to Cart Button"
+msgstr "Näytä lisää ostoskoriin -painike"
+
+#: inc/customizer/settings/edd.php:1324
+msgid "Variable Product Button"
+msgstr "Säädettävä tuote -painike"
+
+#: inc/customizer/settings/edd.php:859
+msgid "Subtotal Border Color"
+msgstr "Välisumman reunan väri"
+
+#: inc/customizer/settings/edd.php:834
+msgid "Subtotal Background Color"
+msgstr "Välisumman taustaväri"
+
+#: inc/customizer/settings/edd.php:734
+msgid "Product Title Color"
+msgstr "Tuotteen otsikon väri"
+
+#: inc/customizer/settings/edd.php:80
+msgid "Custom EDD Sidebar"
+msgstr "Mukautettu EDD-sivupalkki"
+
+#: inc/customizer/settings/edd.php:46
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/customizer/customizer.php:135
+msgid "Premium Addons Available"
+msgstr "Maksullisia lisäosia saatavilla"
+
+#: functions.php:599
+msgid "Default Sidebar"
+msgstr "Oletussivupalkki"
+
+#: inc/customizer/settings/edd.php:106
+msgid "Display the cart when a edd is added, work in the shop and the single edd pages if ajax is enabled."
+msgstr "Näytä ostoskori kun EDD-tuote lisätään, toimii kaupassa ja yksittäisten EDD-tuotteiden sivulla jos Ajax on otettu käyttöön."
+
+#: functions.php:601
+msgid "Widgets in this area will be displayed in the left or right sidebar area if you choose the Left or Right Sidebar layout."
+msgstr "Tämän alueen vimpaimet näytetään sivupalkin vasemmalla tai oikealla olevalla alueella jos valitset vasemman tai oikean sivupalkin asettelun."
+
+#: functions.php:614
+msgid "Widgets in this area are used in the left sidebar region if you use the Both Sidebars layout."
+msgstr "Tämän alueen vimpaimia käytetään vasemman sivupalkin alueella jos käytät molemmat sivupalkit -asettelua."
+
+#: inc/customizer/settings/typography.php:502
+msgid "You can add: px-em-%"
+msgstr "Voit lisätä: px-em-%"
+
+#: inc/customizer/settings/woocommerce.php:2134
+msgid "Big"
+msgstr "Iso"
+
+#: inc/customizer/settings/woocommerce.php:2064
+msgid "Image Width (%)"
+msgstr "Kuvan leveys (%)"
+
+#: inc/customizer/settings/general.php:1302
+msgid "OpenGraph"
+msgstr "OpenGraph"
+
+#: inc/customizer/settings/woocommerce.php:2135
+msgid "Very Big"
+msgstr "Erittäin iso"
+
+#: inc/customizer/settings/woocommerce.php:2127
+msgid "Add To Cart Button Style"
+msgstr "Lisää ostoskoriin -painikkeen tyyli"
+
+#: inc/customizer/settings/header.php:3445
+msgid "Cart / Logo / Link"
+msgstr "Ostoskori/logo/linkki"
+
+#: inc/customizer/settings/header.php:3444
+msgid "Logo / Cart / Link"
+msgstr "Logo/ostoskori/linkki"
+
+#: inc/customizer/settings/general.php:1401
+msgid "Facebook App ID"
+msgstr "Facebookin App ID"
+
+#: inc/customizer/settings/general.php:1351
+msgid "Twitter Username"
+msgstr "Twitter-käyttäjätunnus"
+
+#: inc/customizer/settings/general.php:1376
+msgid "Facebook Page URL"
+msgstr "Facebook-sivun verkko-osoite/URL"
+
+#: inc/customizer/settings/woocommerce.php:2295
+msgid "Section"
+msgstr "Osio"
+
+#: inc/customizer/settings/woocommerce.php:2085
+msgid "Summary Width (%)"
+msgstr "Yhteenvedon leveys (%)"
+
+#: inc/customizer/settings/edd.php:257
+#: inc/customizer/settings/woocommerce.php:425
+msgid "Bag Icon Color"
+msgstr "Ostoskassikuvakkeen väri"
+
+#: inc/customizer/settings/edd.php:283
+#: inc/customizer/settings/woocommerce.php:442
+msgid "Bag Icon Hover Color"
+msgstr "Ostoskassikuvakkeen väri osoitettaessa"
+
+#: inc/customizer/settings/edd.php:309
+#: inc/customizer/settings/woocommerce.php:459
+msgid "Bag Icon Count Color"
+msgstr "Ostoskassikuvakkeen lukumäärän väri"
+
+#: inc/customizer/settings/edd.php:335
+#: inc/customizer/settings/woocommerce.php:476
+msgid "Bag Icon Hover Count Color"
+msgstr "Ostoskassikuvakkeen lukumäärän väri osoitettaessa"
+
+#: inc/customizer/settings/edd.php:230
+#: inc/customizer/settings/woocommerce.php:407
+msgid "Bag Icon Display Total"
+msgstr "Näytä ostoskassikuvakkeen kokonaismäärä"
+
+#: inc/customizer/settings/edd.php:201
+#: inc/customizer/settings/woocommerce.php:387
+msgid "Bag Style"
+msgstr "Ostoskassin tyyli"
+
+#: inc/customizer/settings/typography.php:283
+msgid "Disable Google Fonts"
+msgstr "Poista käytöstä Google-kirjasimet"
+
+#: inc/customizer/settings/header.php:3446
+msgid "Link / Logo / Cart"
+msgstr "Linkki/logo/ostoskori"
+
+#: inc/customizer/settings/general.php:1326
+msgid "Enable OpenGraph"
+msgstr "Ota käyttöön OpenGraph"
+
+#: inc/customizer/settings/edd.php:202
+#: inc/customizer/settings/woocommerce.php:388
+msgid "This setting rep^lace the cart icon by a bag with the items count in it."
+msgstr "Tämä asetus korvaa ostoskorikuvakkeen kassikuvakkeella, jossa on tuotteiden lukumäärä numerona."
+
+#: inc/customizer/settings/general.php:1303
+msgid "This is information taken by social media when a link is shared"
+msgstr "Sosiaalinen media käyttää tätä tietoa, kun linkki jaetaan"
+
+#: inc/customizer/settings/edd.php:909
+#: inc/customizer/settings/woocommerce.php:875
+msgid "Total Price Color"
+msgstr "Kokonaishinnan väri"
+
+#: inc/customizer/settings/woocommerce.php:128
+msgid "Dropdown"
+msgstr "Pudotusvalikko"
+
+#: inc/customizer/settings/woocommerce.php:121
+msgid "Choose the WooCommerce Categories widget style."
+msgstr "Valitse WooCommercen kategoriat -vimpaimen tyyli."
+
+#: inc/customizer/settings/woocommerce.php:120
+msgid "Categories Widget Style"
+msgstr "Kategoriat-vimpaimen tyyli"
+
+#: inc/customizer/settings/woocommerce.php:202
+msgid "On Sale Badge"
+msgstr "Tarjouksessa-tunnusmerkki"
+
+#: inc/customizer/settings/woocommerce.php:237
+msgid "On Sale Badge Content"
+msgstr "Tarjouksessa-tunnusmerkin sisältö"
+
+#: inc/customizer/settings/woocommerce.php:243
+msgid "On Sale Text"
+msgstr "Tarjouksessa-teksti"
+
+#: inc/woocommerce/woocommerce-config.php:2146
+msgid "Or"
+msgstr "Tai"
+
+#: inc/oceanwp-strings.php:60
+msgid "Out of stock"
+msgstr "Loppu varastosta"
+
+#: inc/oceanwp-strings.php:59
+msgid "Selected:"
+msgstr "Valitut:"
+
+#: inc/customizer/settings/woocommerce.php:2877
+msgid "Timeline Number: Color"
+msgstr "Aikajanan numero: väri"
+
+#: inc/customizer/settings/woocommerce.php:2860
+msgid "Timeline Number: Background"
+msgstr "Aikajanan numero: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2843
+msgid "Timeline: Color"
+msgstr "Aikajana: väri"
+
+#: inc/customizer/settings/woocommerce.php:2826
+msgid "Timeline: Background"
+msgstr "Aikajana: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2804
+msgid "Timeline Style"
+msgstr "Aikajanan tyyli"
+
+#: woocommerce/quick-view-image.php:56
+msgid "Placeholder"
+msgstr "Paikanvaraaja"
+
+#: woocommerce/checkout/form-multistep-checkout.php:96
+msgid "Prev"
+msgstr "Edellinen"
+
+#: woocommerce/checkout/form-multistep-checkout.php:93
+msgid "Back to cart"
+msgstr "Takaisin ostoskoriin"
+
+#: woocommerce/checkout/checkout-timeline.php:65
+msgid "Payment Info"
+msgstr "Maksutiedot"
+
+#: woocommerce/checkout/checkout-timeline.php:58
+msgid "Shipping"
+msgstr "Toimitus"
+
+#: woocommerce/checkout/checkout-timeline.php:51
+msgid "Billing"
+msgstr "Laskutus"
+
+#: woocommerce/cart/mini-cart.php:112
+msgid "No products in the cart."
+msgstr "Ei tuotteita ostoskorissa."
+
+#: woocommerce/cart/mini-cart.php:73
+msgid "Remove this item"
+msgstr "Poista tämä kohde"
+
+#: inc/woocommerce/woocommerce-config.php:2148
+msgid "Register"
+msgstr "Rekisteröidy"
+
+#: inc/customizer/settings/woocommerce.php:1418
+msgid "Filter Button Text"
+msgstr "Suodatinpainikkeen teksti"
+
+#: inc/helpers.php:3898 inc/customizer/settings/woocommerce.php:1412
+#: inc/woocommerce/woocommerce-config.php:937
+msgid "Filter"
+msgstr "Suodatin"
+
+#: inc/customizer/settings/woocommerce.php:1401
+msgid "Display Filter Button"
+msgstr "Näytä suodatinpainike"
+
+#: inc/customizer/settings/edd.php:178
+#: inc/customizer/settings/woocommerce.php:372
+msgid "Display On All Devices"
+msgstr "Näytä kaikilla laitteilla"
+
+#: inc/customizer/settings/woocommerce.php:350
+msgid "Display Mini Cart On Mobile"
+msgstr "Näytä miniostoskori mobiililaitteilla"
+
+#: inc/customizer/settings/woocommerce.php:244
+msgid "Percentage"
+msgstr "Prosenttiosuus"
+
+#: inc/customizer/settings/woocommerce.php:224
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: inc/customizer/settings/woocommerce.php:223
+#: inc/customizer/settings/woocommerce.php:2811
+msgid "Square"
+msgstr "Neliö"
+
+#: inc/customizer/settings/woocommerce.php:140
+msgid "Wishlist"
+msgstr "Toivelista"
+
+#: inc/customizer/settings/woocommerce.php:950
+msgid "Cart Button Border Color"
+msgstr "Ostoskoripainikkeen reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:920
+msgid "Cart Button Color"
+msgstr "Ostoskoripainikkeen väri"
+
+#: inc/customizer/settings/woocommerce.php:890
+msgid "Cart Button Background"
+msgstr "Ostoskoripainikkeen tausta"
+
+#: inc/customizer/settings/edd.php:632
+#: inc/customizer/settings/woocommerce.php:680
+msgid "Spacious"
+msgstr "Tilava"
+
+#: inc/customizer/settings/edd.php:631
+#: inc/customizer/settings/woocommerce.php:679
+msgid "Compact"
+msgstr "Tiivis"
+
+#: inc/customizer/settings/woocommerce.php:217
+msgid "On Sale Badge Style"
+msgstr "Tarjouksessa-tunnusmerkin tyyli"
+
+#: inc/oceanwp-strings.php:58
+msgid "Select Options"
+msgstr "Valitse asetukset"
+
+#: inc/customizer/settings/woocommerce.php:2272
+msgid "Tabs"
+msgstr "Välilehdet"
+
+#: inc/woocommerce/woocommerce-config.php:2133
+#: woocommerce/checkout/checkout-timeline.php:43
+msgid "Login"
+msgstr "Kirjaudu"
+
+#: inc/woocommerce/woocommerce-config.php:781
+#: woocommerce/checkout/form-multistep-checkout.php:97
+msgid "I don&rsquo;t have an account"
+msgstr "Minulla ei ole tiliä"
+
+#: inc/woocommerce/woocommerce-config.php:795
+msgid "View cart"
+msgstr "Näytä ostoskori"
+
+#: inc/customizer/settings/woocommerce.php:5010
+msgid "Login/Register Links: Color"
+msgstr "Kirjautumis-/rekisteröitymislinkit: väri"
+
+#: inc/customizer/settings/woocommerce.php:4580
+msgid "Single Product: Product Navigation"
+msgstr "Yksittäinen tuote: tuotteiden selaus"
+
+#: inc/customizer/settings/woocommerce.php:4295
+msgid "Widgets Border Color"
+msgstr "Vimpainten reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:2928
+msgid "Timeline Active: Color"
+msgstr "Aikajana käytössä: väri"
+
+#: inc/customizer/settings/woocommerce.php:2911
+msgid "Timeline Active: Background"
+msgstr "Aikajana käytössä: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2787
+msgid "Multi-Step Checkout"
+msgstr "Usean vaiheen kassa"
+
+#: woocommerce/checkout/form-multistep-checkout.php:53
+msgid "You must be logged in before proceeding to checkout."
+msgstr "Sinun täytyy olla kirjautuneena ennen kassalle siirtymistä."
+
+#: inc/customizer/settings/woocommerce.php:4170
+msgid "Button: Hover Color"
+msgstr "Painike: väri osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:4154
+msgid "Button: Color"
+msgstr "Painike: väri"
+
+#: inc/customizer/settings/woocommerce.php:4138
+msgid "Button: Hover Background"
+msgstr "Painike: tausta osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:4122
+msgid "Button: Background"
+msgstr "Painike: tausta"
+
+#: inc/customizer/settings/woocommerce.php:4107 inc/oceanwp-strings.php:56
+msgid "Quick View"
+msgstr "Pikanäkymä"
+
+#: inc/customizer/settings/edd.php:1986
+#: inc/customizer/settings/lifterlms.php:763
+#: inc/customizer/settings/woocommerce.php:3424
+msgid "Image Margin (px)"
+msgstr "Kuvan marginaali (px)"
+
+#: inc/customizer/settings/woocommerce.php:2894
+msgid "Timeline Number: Border Color"
+msgstr "Aikajanan numero: reunan väri"
+
+#: inc/customizer/settings/edd.php:1709
+#: inc/customizer/settings/lifterlms.php:76
+#: inc/customizer/settings/woocommerce.php:2771
+msgid "Distraction Free Checkout"
+msgstr "Häiriötön kassa"
+
+#: inc/customizer/settings/edd.php:1665 inc/customizer/settings/edd.php:1686
+msgid "Checkout Page"
+msgstr "Kassasivu"
+
+#: inc/customizer/settings/woocommerce.php:2742
+msgid "Cart: Cross-Sells Columns"
+msgstr "Ostoskori: ristimyyntisarakkeet"
+
+#: inc/customizer/settings/woocommerce.php:2722
+msgid "Cart: Cross-Sells Count"
+msgstr "Ostoskori: ristimyyntien lukumäärä"
+
+#: inc/customizer/settings/woocommerce.php:2706
+msgid "Distraction Free Cart"
+msgstr "Häiriötön ostoskori"
+
+#: inc/customizer/settings/woocommerce.php:2680
+msgid "Add To Cart Hover: Color"
+msgstr "Lisää ostoskoriin osoitettaessa: väri"
+
+#: inc/customizer/settings/woocommerce.php:2663
+msgid "Add To Cart: Color"
+msgstr "Lisää ostoskoriin: väri"
+
+#: inc/customizer/settings/woocommerce.php:2646
+msgid "Add To Cart Hover: Background"
+msgstr "Lisää ostoskoriin osoitettaessa: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2629
+msgid "Add To Cart: Background"
+msgstr "Lisää ostoskoriin: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2612
+msgid "Quantity Input: Color"
+msgstr "Lukumäärän syöttö: väri"
+
+#: inc/customizer/settings/woocommerce.php:2595
+msgid "Quantity Input: Background"
+msgstr "Lukumäärän syöttö: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2578
+msgid "Quantity Buttons Hover: Color"
+msgstr "Lukumääräpainikkeet osoitettaessa: väri"
+
+#: inc/customizer/settings/woocommerce.php:2561
+msgid "Quantity Buttons: Color"
+msgstr "Lukumääräpainikkeet: väri"
+
+#: inc/customizer/settings/woocommerce.php:2544
+msgid "Quantity Buttons Hover: Background"
+msgstr "Lukumääräpainikkeet osoitettaessa: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2527
+msgid "Quantity Buttons: Background"
+msgstr "Lukumääräpainikkeet: tausta"
+
+#: inc/customizer/settings/woocommerce.php:2455
+msgid "Display Floating Bar"
+msgstr "Näytä leijuva palkki"
+
+#: inc/customizer/settings/woocommerce.php:2441
+msgid "Floating Bar"
+msgstr "Leijuva palkki"
+
+#: inc/customizer/settings/woocommerce.php:2329
+msgid "Up-Sells & Related Items"
+msgstr "Ylimyynnit ja liittyvät kohteet"
+
+#: inc/customizer/settings/woocommerce.php:2287
+msgid "Tabs Layout"
+msgstr "Välilehtien asettelu"
+
+#: inc/customizer/settings/woocommerce.php:2112
+#: inc/customizer/settings/woocommerce.php:2293
+msgid "Horizontal"
+msgstr "Vaakasuora"
+
+#: inc/customizer/settings/woocommerce.php:2106
+msgid "Thumbnails Layout"
+msgstr "Pienoiskuvien asettelu"
+
+#: inc/customizer/settings/woocommerce.php:2047
+msgid "Enable Ajax Add To Cart"
+msgstr "Ota käyttöön Ajax- lisää ostoskoriin"
+
+#: inc/customizer/settings/edd.php:1597
+#: inc/customizer/settings/woocommerce.php:2031
+msgid "Display Product Navigation"
+msgstr "Näytä tuotenavigointi"
+
+#: inc/customizer/settings/edd.php:1294
+#: inc/customizer/settings/woocommerce.php:1582
+msgid "Content Alignment"
+msgstr "Sisällön tasaus"
+
+#: inc/customizer/settings/woocommerce.php:1565
+msgid "Display Quick View Button"
+msgstr "Näytä pikanäkymäpainike"
+
+#: inc/customizer/settings/woocommerce.php:1102
+msgid "Divider Color"
+msgstr "Erottimen väri"
+
+#: inc/customizer/settings/woocommerce.php:1039
+msgid "Mobile Cart Sidebar Styling"
+msgstr "Mobiiliostoskorin sivupalkin tyyli"
+
+#: inc/customizer/settings/woocommerce.php:965
+msgid "Cart Button Border Color: Hover"
+msgstr "Ostoskoripainikkeen reunan väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:935
+msgid "Cart Button Color: Hover"
+msgstr "Ostoskoripainikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:905
+msgid "Cart Button Background: Hover"
+msgstr "Ostoskoripainikkeen tausta: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:685
+#: inc/customizer/settings/woocommerce.php:715
+msgid "Dropdown Background Color"
+msgstr "Pudotusvalikon taustaväri"
+
+#: inc/customizer/settings/woocommerce.php:374
+msgid "Disabled Only On Desktop"
+msgstr "Pois käytöstä vain pöytäkoneella"
+
+#: inc/customizer/settings/edd.php:179
+#: inc/customizer/settings/woocommerce.php:373
+msgid "Disabled On All Devices"
+msgstr "Pois käytöstä kaikilla laitteilla"
+
+#: inc/customizer/settings/woocommerce.php:187
+msgid "Add Wishlist Icon In Header"
+msgstr "Lisää toivelistaikoni otsakkeeseen"
+
+#: inc/customizer/settings/edd.php:105
+#: inc/customizer/settings/woocommerce.php:99
+msgid "Display Cart When Product Added"
+msgstr "Näytä ostoskori, kun tuote on lisätty"
+
+#: inc/customizer/settings/header.php:341
+msgid "Content After Header"
+msgstr "Sisältö otsakkeen jälkeen"
+
+#: woocommerce/checkout/form-multistep-checkout.php:26
+msgid "If you have already registered, please, enter your details in the boxes below. If you are a new customer, please, go to the Billing &amp; Shipping section."
+msgstr "Jos olet jo rekisteröitynyt ole hyvä ja kirjoita tietosi alla oleviin laatikoihin. Jos olet uusi asiakas, ole hyvä ja siirry laskutus ja toimitus -osioon."
+
+#: inc/woocommerce/woocommerce-config.php:892
+msgid "Widgets in this area are used in the off canvas sidebar. To enable the Off Canvas filter, go to the WooCommerce > Archives section of the customizer and enable the Display Filter Button option."
+msgstr "Tämän alueen vimpaimia käytetään piirtoalueen ulkopuolisessa sivupalkissa. Ottaaksesi käyttöön piirtoalueen ulkopuolisen suodattimen, siiryy WooCommerce > arkisto osioon muokkaimessa ja ota käyttöön näytä suodatinpainike -valinta."
+
+#: inc/woocommerce/woocommerce-config.php:891
+msgid "Off-Canvas Filters"
+msgstr "Piirtoalueen ulkopuoliset suodattimet"
+
+#: inc/customizer/settings/woocommerce.php:4264
+msgid "Off Canvas Sidebar"
+msgstr "Piirtoalueen ulkopuolinen sivupalkki"
+
+#: inc/customizer/settings/woocommerce.php:4250
+msgid "Modal Close Button: Color"
+msgstr "Keskusteluikkunan sulkemispainike: väri"
+
+#: inc/customizer/settings/woocommerce.php:4234
+msgid "Modal: Background"
+msgstr "Keskusteluikkuna: tausta"
+
+#: inc/customizer/settings/woocommerce.php:4218
+msgid "Overlay Spinner: Inner Color"
+msgstr "Peitteen pyörittäjä: sisempi väri"
+
+#: inc/customizer/settings/woocommerce.php:4202
+msgid "Overlay Spinner: Outside Color"
+msgstr "Peitteen pyörittäjä: ulompi väri"
+
+#: inc/customizer/settings/woocommerce.php:4186
+msgid "Overlay: Background"
+msgstr "Peite: tausta"
+
+#: inc/customizer/settings/woocommerce.php:3127
+msgid "Off Canvas Filter Hover Border Color"
+msgstr "Piirtoalueen ulkopuolisen suodattimen reunan väri osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3095
+msgid "Off Canvas Filter Border Color"
+msgstr "Piirtoalueen ulkopuolisen suodattimen reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:3111
+msgid "Off Canvas Filter Hover Color"
+msgstr "Piirtoalueen ulkopuolisen suodattimen väri osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3079
+msgid "Off Canvas Filter Color"
+msgstr "Piirtoalueen ulkopuolisen suodattimen väri"
+
+#: inc/customizer/settings/woocommerce.php:2456
+msgid "The floating bar is to display the add to cart button when you scroll to increase conversions."
+msgstr "Leijuvaa palkkia käytetään näyttämään lisää ostoskoriin -painike vieritettäessä, jotta saadaan lisättyä konversioita."
+
+#: inc/customizer/settings/woocommerce.php:2310
+msgid "Only work for the horizontal tabs layout"
+msgstr "Toimii vain vaakasuorien välilehtien asettelun kanssa"
+
+#: inc/customizer/settings/woocommerce.php:1387
+msgid "Off Canvas Filtering"
+msgstr "Piirtoalueen ulkopuolinen suodatus"
+
+#: inc/customizer/settings/woocommerce.php:141
+msgid "You need to activate the %1$sTI WooCommerce Wishlist%2$s plugin to add a wishlist button and icon"
+msgstr "Sinun täytyy ottaa käyttöön %1$sTI WooCommerce toivelista%2$s -lisäosa lisätäksesi toivelistan painikkeen ja kuvakkeen"
+
+#: inc/customizer/settings/woocommerce.php:100
+msgid "Display the cart when a product is added, work in the shop and the single product pages if ajax is enabled."
+msgstr "Näytä ostoskori kun tuote lisätään, toimii kaupassa ja yksittäisten tuotteiden sivuilla jos Ajax on otettu käyttöön."
+
+#: inc/customizer/settings/general.php:86
+msgid "Custom File"
+msgstr "Mukautettu tiedosto"
+
+#: inc/customizer/settings/general.php:85
+msgid "WP Head"
+msgstr "WP Head"
+
+#: inc/customizer/settings/general.php:78
+msgid "Styling Options Location"
+msgstr "Tyylin asetusten sijainti"
+
+#: inc/customizer/settings/general.php:79
+msgid "If you choose Custom File, a CSS file will be created in your uploads folder."
+msgstr "Jos valitset mukautetun tiedoston, CSS-tiedosto luodaan uploads-kansioosi."
+
+#: inc/customizer/settings/header.php:1432
+msgid "This field is to control the width where you want to collapse the header."
+msgstr "Tämä kenttä säätelee leveyttä, jolloin otsake piilotetaan."
+
+#: inc/customizer/settings/header.php:1431
+msgid "Collapse Width (px)"
+msgstr "Piilotusleveys (px)"
+
+#: inc/woocommerce/woocommerce-config.php:2426
+msgid "WooCommerce Product Price"
+msgstr "WooCommerce tuotteen hinta"
+
+#: inc/customizer/settings/woocommerce.php:1796
+msgid "Pagination Style"
+msgstr "Sivutuksen tyyli"
+
+#: inc/customizer/settings/blog.php:1430
+msgid "Full Width Content"
+msgstr "Täyden leveyden sisältö"
+
+#: inc/customizer/settings/topbar.php:335
+msgid "Place your content here"
+msgstr "Aseta sisältösi tähän"
+
+#: inc/customizer/settings/header.php:2189
+msgid "Choose a template created in Theme Panel > My Library to replace the navigation."
+msgstr "Valitse pohja, joka on luotu sijainnissa teeman ohjauspaneeli > kirjastoni korvaamaan navigointi."
+
+#: inc/customizer/settings/header.php:2062
+msgid "Select a retina logo twice the normal logo size."
+msgstr "Valitse retinalogo, joka on kaksi kertaa normaalia logoa suurempi."
+
+#: inc/customizer/settings/header.php:540
+msgid "Select a custom retina logo (twice the logo size) when the menu is opened."
+msgstr "Valitse mukautettu retinalogo (kaksi kertaa normaalia logoa suurempi) kun valikko avataan."
+
+#: inc/walker/menu-walker.php:291
+msgid "Latest in"
+msgstr "Uusimmat"
+
+#: inc/customizer/settings/header.php:1794
+#: inc/customizer/settings/header.php:3215
+msgid "Border Radius"
+msgstr "Reunan säde"
+
+#: inc/customizer/settings/header.php:1776
+msgid "Border Width"
+msgstr "Reunan leveys"
+
+#: inc/customizer/settings/header.php:1580
+msgid "Logo Position"
+msgstr "Logon sijainti"
+
+#: inc/customizer/settings/header.php:827
+msgid "Closer Spacing"
+msgstr "Tiiviimpi välistys"
+
+#: inc/customizer/settings/header.php:826
+msgid "Centered Menus"
+msgstr "Keskitetyt valikot"
+
+#: inc/customizer/settings/header.php:825
+msgid "Wider Spacing"
+msgstr "Väljempi välistys"
+
+#: inc/customizer/settings/header.php:819
+msgid "Menus Position"
+msgstr "Valikoiden sijainti"
+
+#: inc/customizer/settings/header.php:800
+msgid "Left Menu"
+msgstr "Vasen valikko"
+
+#: inc/customizer/settings/header.php:785
+msgid "Center Header Settings"
+msgstr "Keskimmäisen otsakkeen asetukset"
+
+#: inc/customizer/settings/header.php:539
+msgid "Retina Logo (optional)"
+msgstr "Retina-logo (valinnainen)"
+
+#: inc/customizer/settings/header.php:505
+#: inc/customizer/settings/header.php:841
+#: inc/customizer/settings/header.php:872
+#: inc/customizer/settings/header.php:1359
+msgid "Add Transparent Header"
+msgstr "Lisää läpinäkyvä otsake"
+
+#: inc/helpers.php:3412 inc/customizer/settings/blog.php:763
+#: inc/customizer/settings/woocommerce.php:1828
+#: inc/woocommerce/woocommerce-config.php:572
+msgid "End of content"
+msgstr "Sisällön loppu"
+
+#: inc/customizer/settings/blog.php:610
+msgid "Comments Color"
+msgstr "Kommenttien väri"
+
+#: inc/customizer/settings/edd.php:1380 inc/customizer/settings/blog.php:529
+msgid "Custom Image Height (px)"
+msgstr "Mukautettu kuvan korkeus (px)"
+
+#: inc/customizer/settings/edd.php:1352 inc/customizer/settings/blog.php:502
+msgid "Custom Image Width (px)"
+msgstr "Mukautettu kuvan leveys (px)"
+
+#: inc/customizer/settings/blog.php:473
+msgid "Vertical Position"
+msgstr "Pystysuora sijainti"
+
+#: inc/customizer/settings/blog.php:443
+msgid "Image Position"
+msgstr "Kuvan sijainti"
+
+#: inc/customizer/settings/footer-widgets.php:277
+#: inc/customizer/settings/blog.php:241 inc/customizer/settings/blog.php:1096
+#: inc/customizer/settings/general.php:1484
+#: inc/customizer/settings/woocommerce.php:1995
+#: inc/customizer/settings/sidebar.php:185
+msgid "p"
+msgstr "p"
+
+#: inc/customizer/settings/footer-widgets.php:276
+#: inc/customizer/settings/blog.php:240 inc/customizer/settings/blog.php:1095
+#: inc/customizer/settings/general.php:1483
+#: inc/customizer/settings/woocommerce.php:1994
+#: inc/customizer/settings/sidebar.php:184
+msgid "span"
+msgstr "span"
+
+#: inc/customizer/settings/footer-widgets.php:275
+#: inc/customizer/settings/blog.php:239 inc/customizer/settings/blog.php:1094
+#: inc/customizer/settings/general.php:1482
+#: inc/customizer/settings/woocommerce.php:1993
+#: inc/customizer/settings/sidebar.php:183
+msgid "div"
+msgstr "div"
+
+#: inc/customizer/settings/footer-widgets.php:274
+#: inc/customizer/settings/blog.php:238 inc/customizer/settings/blog.php:1093
+#: inc/customizer/settings/general.php:1481
+#: inc/customizer/settings/woocommerce.php:1992
+#: inc/customizer/settings/sidebar.php:182
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/settings/footer-widgets.php:273
+#: inc/customizer/settings/blog.php:237 inc/customizer/settings/blog.php:1092
+#: inc/customizer/settings/general.php:1480
+#: inc/customizer/settings/woocommerce.php:1991
+#: inc/customizer/settings/sidebar.php:181
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/settings/footer-widgets.php:272
+#: inc/customizer/settings/blog.php:236 inc/customizer/settings/blog.php:1091
+#: inc/customizer/settings/general.php:1479
+#: inc/customizer/settings/woocommerce.php:1990
+#: inc/customizer/settings/sidebar.php:180
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/settings/footer-widgets.php:271
+#: inc/customizer/settings/blog.php:235 inc/customizer/settings/blog.php:1090
+#: inc/customizer/settings/general.php:1478
+#: inc/customizer/settings/woocommerce.php:1989
+#: inc/customizer/settings/sidebar.php:179
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/settings/footer-widgets.php:270
+#: inc/customizer/settings/blog.php:234 inc/customizer/settings/blog.php:1089
+#: inc/customizer/settings/general.php:1477
+#: inc/customizer/settings/woocommerce.php:1988
+#: inc/customizer/settings/sidebar.php:178
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/settings/footer-widgets.php:269
+#: inc/customizer/settings/blog.php:233 inc/customizer/settings/blog.php:1088
+#: inc/customizer/settings/general.php:1476
+#: inc/customizer/settings/woocommerce.php:1987
+#: inc/customizer/settings/sidebar.php:177
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/settings/footer-widgets.php:263
+#: inc/customizer/settings/blog.php:227 inc/customizer/settings/blog.php:1082
+#: inc/customizer/settings/general.php:1470
+#: inc/customizer/settings/sidebar.php:171
+msgid "Heading Tag"
+msgstr "Otsikkotagi"
+
+#: inc/customizer/settings/header.php:4036
+msgid "Select Your Menu"
+msgstr "Valitse valikkosi"
+
+#: inc/customizer/settings/edd.php:2639
+#: inc/customizer/settings/woocommerce.php:4059
+#: inc/customizer/settings/woocommerce.php:4822
+msgid "Double"
+msgstr "Tupla"
+
+#: inc/customizer/settings/blog.php:1173
+#: inc/customizer/settings/general.php:1563
+msgid "Title/Breadcrumb Position"
+msgstr "Otsikon/linkkipolun sijainti"
+
+#: inc/woocommerce/woocommerce-config.php:2436
+msgid "WooCommerce Product Add To Cart"
+msgstr "WooCommerce tuote lisää ostoskoriin"
+
+#: inc/customizer/settings/edd.php:2689
+#: inc/customizer/settings/woocommerce.php:4091
+#: inc/customizer/settings/woocommerce.php:4854
+msgid "Add To Cart Border: Radius"
+msgstr "Lisää ostoskoriin reuna: säde"
+
+#: inc/customizer/settings/edd.php:2664
+#: inc/customizer/settings/woocommerce.php:4075
+#: inc/customizer/settings/woocommerce.php:4838
+msgid "Add a custom border size. px - em - %."
+msgstr "Lisää mukautettu reunan koko. px-em-%"
+
+#: inc/customizer/settings/edd.php:2663
+#: inc/customizer/settings/woocommerce.php:4074
+#: inc/customizer/settings/woocommerce.php:4837
+msgid "Add To Cart Border: Size"
+msgstr "Lisää ostoskoriin reuna: koko"
+
+#: inc/customizer/settings/edd.php:2641
+#: inc/customizer/settings/woocommerce.php:4061
+#: inc/customizer/settings/woocommerce.php:4824
+msgid "Dotted"
+msgstr "Pisteviiva"
+
+#: inc/customizer/settings/edd.php:2640
+#: inc/customizer/settings/woocommerce.php:4060
+#: inc/customizer/settings/woocommerce.php:4823
+msgid "Dashed"
+msgstr "Katkoviiva"
+
+#: inc/customizer/settings/edd.php:2638
+#: inc/customizer/settings/woocommerce.php:4058
+#: inc/customizer/settings/woocommerce.php:4821
+msgid "Solid"
+msgstr "Kiinteä"
+
+#: inc/customizer/settings/edd.php:2631
+#: inc/customizer/settings/woocommerce.php:4051
+#: inc/customizer/settings/woocommerce.php:4814
+msgid "Add To Cart Border: Style"
+msgstr "Lisää ostoskoriin reuna: tyyli"
+
+#: inc/customizer/settings/edd.php:2506
+#: inc/customizer/settings/woocommerce.php:3971
+#: inc/customizer/settings/woocommerce.php:4738
+msgid "Add To Cart Background Color: Hover"
+msgstr "Lisää ostoskoriin taustaväri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:2482
+#: inc/customizer/settings/woocommerce.php:3956
+#: inc/customizer/settings/woocommerce.php:4723
+msgid "Add To Cart Background Color"
+msgstr "Lisää ostoskoriin taustaväri"
+
+#: inc/customizer/settings/edd.php:2459
+#: inc/customizer/settings/woocommerce.php:3942
+msgid "Product Entry: Add To Cart"
+msgstr "Tuotemerkintä: lisää ostoskoriin"
+
+#: inc/customizer/settings/header.php:3418
+msgid "Enter a max height for your responsive logo."
+msgstr "Kirjoita maksimikorkeus responsiiviselle logollesi."
+
+#: inc/customizer/settings/header.php:3417
+msgid "Logo Max Height (px)"
+msgstr "Logon maksimikorkeus (px)"
+
+#: inc/customizer/settings/header.php:3402
+msgid "Select a custom responsive logo for tablet and mobile."
+msgstr "Valitse mukautettu responsiivinen logo tableteille ja mobiililaitteille."
+
+#: inc/customizer/settings/header.php:3281
+msgid "Social Hover: Color"
+msgstr "Some osoitettaessa: väri"
+
+#: inc/customizer/settings/header.php:3265
+msgid "Social: Color"
+msgstr "Some: väri"
+
+#: inc/customizer/settings/header.php:3249
+msgid "Social Hover: Background Color"
+msgstr "Some osoitettaessa: taustaväri"
+
+#: inc/customizer/settings/header.php:3233
+msgid "Social: Background Color"
+msgstr "Some: taustaväri"
+
+#: inc/customizer/settings/header.php:3187
+msgid "Margin (px)"
+msgstr "Marginaali (px)"
+
+#: inc/customizer/settings/header.php:2970
+msgid "Enable Social Menu"
+msgstr "Ota käyttöön Some-valikko"
+
+#: inc/customizer/settings/header.php:2956
+msgid "Social Menu"
+msgstr "Some-valikko"
+
+#: inc/customizer/settings/header.php:1913
+msgid "Button Color: Hover"
+msgstr "Painikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:1777
+#: inc/customizer/settings/header.php:1795
+#: inc/customizer/settings/header.php:3216 inc/customizer/settings/edd.php:2690
+#: inc/customizer/settings/woocommerce.php:4092
+#: inc/customizer/settings/woocommerce.php:4855
+msgid "Add a custom border radius. px - em - %."
+msgstr "Lisää mukautettu reunan säde. px-em-%"
+
+#: inc/customizer/settings/header.php:1759
+msgid "Display Search Form"
+msgstr "Näytä hakulomake"
+
+#: inc/customizer/settings/header.php:1729
+msgid "Sub Menu Links Background Color: Hover"
+msgstr "Alavalikon linkkien taustaväri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:1712
+msgid "Sub Menu Links Background Color"
+msgstr "Alavalikon linkkien taustaväri"
+
+#: inc/customizer/settings/header.php:1696
+msgid "Sub Menu Links Color: Hover"
+msgstr "Alavalikon linkkien väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:1679
+msgid "Sub Menu Links Color"
+msgstr "Alavalikon linkkien väri"
+
+#: inc/customizer/settings/header.php:1662
+msgid "Sub Menu Background Color"
+msgstr "Alavalikon taustaväri"
+
+#: inc/customizer/settings/header.php:1645
+msgid "Menu Items Border Color"
+msgstr "Valikon kohteiden reunan väri"
+
+#: inc/customizer/settings/header.php:1602
+msgid "Menu Items Top/Bottom Padding (px)"
+msgstr "Valikon kohteiden ylä-/alareunan täyte (px)"
+
+#: inc/customizer/settings/header.php:1525
+msgid "Inner Padding (px)"
+msgstr "Sisäinen täyte (px)"
+
+#: inc/customizer/settings/header.php:1413
+msgid "Custom Hamburger Button Color"
+msgstr "Mukautettu hampurilaispainikkeen väri"
+
+#: inc/customizer/settings/header.php:1395
+msgid "Closed Header"
+msgstr "Suljettu otsake"
+
+#: inc/customizer/settings/header.php:1377
+msgid "Add Header Shadow"
+msgstr "Lisää otsakkeen varjo"
+
+#: inc/customizer/settings/header.php:1340
+msgid "Select Bottom Template"
+msgstr "Valitse alapuolen pohja"
+
+#: inc/customizer/settings/header.php:1306
+msgid "Vertical Header Settings"
+msgstr "Pystysuoran otsakkeen asetukset"
+
+#: inc/customizer/settings/header.php:92
+#: inc/customizer/settings/woocommerce.php:2113
+#: inc/customizer/settings/woocommerce.php:2294
+msgid "Vertical"
+msgstr "Pystysuora"
+
+#: inc/customizer/settings/general.php:669
+msgid "Widgets Padding"
+msgstr "Vimpainten reunatäyte"
+
+#: inc/customizer/settings/general.php:642
+msgid "Add a custom content padding. px - em - %."
+msgstr "Lisää mukautettu sisällön reunatäyte. px-em-%."
+
+#: inc/customizer/settings/general.php:670
+msgid "Add a custom widgets padding. px - em - %."
+msgstr "Lisää mukautettu vimpainten reunatäyte. px-em-%."
+
+#: inc/customizer/settings/general.php:641
+msgid "Content Padding"
+msgstr "Sisällön reunatäyte"
+
+#: inc/customizer/settings/general.php:482
+msgid "Separate"
+msgstr "Erillinen"
+
+#: inc/customizer/settings/footer-widgets.php:156
+msgid "Add a parallax effect to your footer."
+msgstr "Lisää parallaksi-tehoste alapalkkiisi."
+
+#: inc/customizer/settings/footer-widgets.php:155
+msgid "Parallax Footer Effect"
+msgstr "Alapalkin parallaksi-tehoste"
+
+#: inc/customizer/settings/blog.php:801
+#: inc/customizer/settings/woocommerce.php:1852
+msgid "Infinite Scroll: Error Text"
+msgstr "Loputon vieritys: virheteksti"
+
+#: inc/helpers.php:3417 inc/customizer/settings/blog.php:790
+#: inc/customizer/settings/woocommerce.php:1846
+#: inc/woocommerce/woocommerce-config.php:577
+msgid "No more pages to load"
+msgstr "Ei enää lisää sivuja ladattavaksi"
+
+#: inc/customizer/settings/blog.php:774
+#: inc/customizer/settings/woocommerce.php:1834
+msgid "Infinite Scroll: Last Text"
+msgstr "Loputon vieritys: viimeinen teksti"
+
+#: inc/customizer/settings/blog.php:636
+msgid "Comments Hover Color"
+msgstr "Kommenttien väri osoitettaessa"
+
+#: inc/customizer/settings/blog.php:584
+msgid "Category Hover Color"
+msgstr "Kategorian väri osoitettaessa"
+
+#: inc/customizer/settings/learndash.php:249
+#: inc/customizer/settings/learndash.php:419
+#: inc/customizer/settings/learndash.php:589
+#: inc/customizer/settings/edd.php:1128 inc/customizer/settings/edd.php:1536
+#: inc/customizer/settings/lifterlms.php:339
+#: inc/customizer/settings/lifterlms.php:455
+#: inc/customizer/settings/lifterlms.php:571
+#: inc/customizer/settings/blog.php:166 inc/customizer/settings/blog.php:1021
+#: inc/customizer/settings/general.php:921
+#: inc/customizer/settings/general.php:1242
+#: inc/customizer/settings/woocommerce.php:1186
+#: inc/customizer/settings/woocommerce.php:1938
+msgid "Both Sidebars: Sidebars Width (%)"
+msgstr "Molemmat sivupalkit: sivupalkkien leveys (%)"
+
+#: inc/customizer/settings/learndash.php:218
+#: inc/customizer/settings/learndash.php:388
+#: inc/customizer/settings/learndash.php:558
+#: inc/customizer/settings/edd.php:1097 inc/customizer/settings/edd.php:1505
+#: inc/customizer/settings/lifterlms.php:317
+#: inc/customizer/settings/lifterlms.php:433
+#: inc/customizer/settings/lifterlms.php:549
+#: inc/customizer/settings/blog.php:135 inc/customizer/settings/blog.php:990
+#: inc/customizer/settings/general.php:890
+#: inc/customizer/settings/general.php:1211
+#: inc/customizer/settings/woocommerce.php:1164
+#: inc/customizer/settings/woocommerce.php:1916
+msgid "Both Sidebars: Content Width (%)"
+msgstr "Molemmat sivupalkit: sisällön leveys (%)"
+
+#: inc/customizer/settings/learndash.php:195
+#: inc/customizer/settings/learndash.php:365
+#: inc/customizer/settings/learndash.php:535
+#: inc/customizer/settings/edd.php:1074 inc/customizer/settings/edd.php:1482
+#: inc/customizer/settings/lifterlms.php:303
+#: inc/customizer/settings/lifterlms.php:419
+#: inc/customizer/settings/lifterlms.php:535
+#: inc/customizer/settings/blog.php:112 inc/customizer/settings/blog.php:967
+#: inc/customizer/settings/general.php:867
+#: inc/customizer/settings/general.php:1188
+#: inc/customizer/settings/woocommerce.php:1150
+#: inc/customizer/settings/woocommerce.php:1902
+msgid "Content / Sidebar / Sidebar"
+msgstr "Sisältö/sivupalkki/sivupalkki"
+
+#: inc/customizer/settings/learndash.php:194
+#: inc/customizer/settings/learndash.php:364
+#: inc/customizer/settings/learndash.php:534
+#: inc/customizer/settings/edd.php:1073 inc/customizer/settings/edd.php:1481
+#: inc/customizer/settings/lifterlms.php:302
+#: inc/customizer/settings/lifterlms.php:418
+#: inc/customizer/settings/lifterlms.php:534
+#: inc/customizer/settings/blog.php:111 inc/customizer/settings/blog.php:966
+#: inc/customizer/settings/general.php:866
+#: inc/customizer/settings/general.php:1187
+#: inc/customizer/settings/woocommerce.php:1149
+#: inc/customizer/settings/woocommerce.php:1901
+msgid "Sidebar / Content / Sidebar"
+msgstr "Sivupalkki/sisältö/sivupalkki"
+
+#: inc/customizer/settings/learndash.php:193
+#: inc/customizer/settings/learndash.php:363
+#: inc/customizer/settings/learndash.php:533
+#: inc/customizer/settings/edd.php:1072 inc/customizer/settings/edd.php:1480
+#: inc/customizer/settings/lifterlms.php:301
+#: inc/customizer/settings/lifterlms.php:417
+#: inc/customizer/settings/lifterlms.php:533
+#: inc/customizer/settings/blog.php:110 inc/customizer/settings/blog.php:965
+#: inc/customizer/settings/general.php:865
+#: inc/customizer/settings/general.php:1186
+#: inc/customizer/settings/woocommerce.php:1148
+#: inc/customizer/settings/woocommerce.php:1900
+msgid "Sidebar / Sidebar / Content"
+msgstr "Sivupalkki/sivupalkki/sisältö"
+
+#: inc/customizer/settings/learndash.php:187
+#: inc/customizer/settings/learndash.php:357
+#: inc/customizer/settings/learndash.php:527
+#: inc/customizer/settings/edd.php:1066 inc/customizer/settings/edd.php:1474
+#: inc/customizer/settings/lifterlms.php:295
+#: inc/customizer/settings/lifterlms.php:411
+#: inc/customizer/settings/lifterlms.php:527
+#: inc/customizer/settings/blog.php:104 inc/customizer/settings/blog.php:959
+#: inc/customizer/settings/general.php:859
+#: inc/customizer/settings/general.php:1180
+#: inc/customizer/settings/woocommerce.php:1142
+#: inc/customizer/settings/woocommerce.php:1894
+msgid "Both Sidebars: Style"
+msgstr "Molemmat sivupalkit: tyyli"
+
+#: inc/helpers.php:3829
+msgid "Minus"
+msgstr "Miinus"
+
+#: inc/helpers.php:3827
+msgid "Elastic"
+msgstr "Elastinen"
+
+#: inc/helpers.php:3816
+msgid "3D XY"
+msgstr "3D XY"
+
+#: inc/helpers.php:3815
+msgid "3D Y Reverse"
+msgstr "3D Y käänteinen"
+
+#: inc/helpers.php:3814
+msgid "3D Y"
+msgstr "3D Y"
+
+#: inc/helpers.php:3813
+msgid "3D X Reverse"
+msgstr "3D X käänteinen"
+
+#: inc/helpers.php:3840
+msgid "Vortex Reverse"
+msgstr "Pyörre käänteinen"
+
+#: inc/helpers.php:3839
+msgid "Vortex"
+msgstr "Pyörre"
+
+#: inc/helpers.php:3838
+msgid "Squeeze"
+msgstr "Rutistus"
+
+#: inc/helpers.php:3837
+msgid "Stand Reverse"
+msgstr "Seisonta käänteinen"
+
+#: inc/helpers.php:3836
+msgid "Stand"
+msgstr "Seisonta"
+
+#: inc/helpers.php:3835
+msgid "Spring Reverse"
+msgstr "Jousi käänteinen"
+
+#: inc/helpers.php:3834
+msgid "Spring"
+msgstr "Jousi"
+
+#: inc/helpers.php:3833
+msgid "Spin Reverse"
+msgstr "Pyörähdys käänteinen"
+
+#: inc/helpers.php:3832
+msgid "Spin"
+msgstr "Pyörähdys"
+
+#: inc/helpers.php:3831
+msgid "Slider Reverse"
+msgstr "Liuku käänteinen"
+
+#: inc/helpers.php:3830
+msgid "Slider"
+msgstr "Liuku"
+
+#: inc/helpers.php:3828
+msgid "Elastic Reverse"
+msgstr "Elastinen käänteinen"
+
+#: inc/helpers.php:3826
+msgid "Collapse Reverse"
+msgstr "Romahdus käänteinen"
+
+#: inc/helpers.php:3825
+msgid "Collapse"
+msgstr "Romahdus"
+
+#: inc/helpers.php:3824
+msgid "Boring"
+msgstr "Tylsä"
+
+#: inc/helpers.php:3823
+msgid "Arrowturn Reverse"
+msgstr "Nuolikäännös käänteinen"
+
+#: inc/helpers.php:3822
+msgid "Arrowturn"
+msgstr "Nuolikäännös"
+
+#: inc/helpers.php:3821
+msgid "Arrowalt Reverse"
+msgstr "Nuoli vaihtoehtoinen käänteinen"
+
+#: inc/helpers.php:3820
+msgid "Arrowalt"
+msgstr "Nuoli vaihtoehtoinen"
+
+#: inc/helpers.php:3819
+msgid "Arrow Reverse"
+msgstr "Nuoli käänteinen"
+
+#: inc/helpers.php:3818 inc/customizer/settings/woocommerce.php:2810
+msgid "Arrow"
+msgstr "Nuoli"
+
+#: inc/helpers.php:3817
+msgid "3D XY Reverse"
+msgstr "3D XY käänteinen"
+
+#: inc/helpers.php:3812
+msgid "3D X"
+msgstr "3D X"
+
+#: inc/helpers.php:3811
+msgid "Default Icon"
+msgstr "Oletuskuvake"
+
+#: inc/customizer/settings/general.php:3893
+msgid "All Post Types"
+msgstr "Kaikki artikkelityypit"
+
+#: inc/customizer/settings/header.php:3528
+msgid "Close Menu Text"
+msgstr "Valikon sulkemisteksti"
+
+#: partials/mobile/mobile-icon.php:45 partials/mobile/mobile-dropdown.php:72
+#: inc/helpers.php:3892 inc/customizer/settings/header.php:3522
+msgid "Close"
+msgstr "Sulje"
+
+#: inc/customizer/settings/header.php:2293
+msgid "Backlighting"
+msgstr "Taustavalaisu"
+
+#: inc/customizer/settings/general.php:3680
+msgid "Blank Page"
+msgstr "Tyhjä sivu"
+
+#: inc/customizer/settings/topbar.php:321
+msgid "Choose a template created in Theme Panel > My Library to replace the content."
+msgstr "Valitse pohja, joka on luotu sijainnissa teeman ohjauspaneeli > kirjastoni korvaamaan sisältö."
+
+#: inc/customizer/settings/header.php:3581
+msgid "Custom Hamburger Button: Color"
+msgstr "Mukautettu hampurilaispainike: väri"
+
+#: inc/customizer/settings/header.php:3563
+msgid "Custom Hamburger Button"
+msgstr "Mukautettu hampurilaispainike"
+
+#: inc/customizer/settings/header.php:2292
+msgid "Underline & Overline"
+msgstr "Alleviivaus ja yliviivaus"
+
+#: inc/customizer/settings/header.php:2291
+msgid "X Marks The Spot"
+msgstr "X merkkaa paikkaa"
+
+#: inc/customizer/settings/header.php:2289
+msgid "Circular Reveal"
+msgstr "Pyöreä paljastus"
+
+#: inc/customizer/settings/header.php:2288
+msgid "Overline & Fixed Underline"
+msgstr "Yliviivaa ja kiinteä alaviiva"
+
+#: inc/customizer/settings/header.php:2287
+msgid "Brackets"
+msgstr "Sulkeet"
+
+#: inc/customizer/settings/header.php:2286
+msgid "Underline Down"
+msgstr "Alleviivaa alas"
+
+#: inc/customizer/settings/header.php:2285
+msgid "Underline Up"
+msgstr "Alleviivaa ylös"
+
+#: inc/customizer/settings/header.php:2284
+msgid "Underline From Left"
+msgstr "Alleviivaa vasemmalta"
+
+#: inc/customizer/settings/header.php:857
+msgid "Medium Header Settings"
+msgstr "Keskikokoisen otsakkeen asetukset"
+
+#: inc/customizer/settings/header.php:490
+msgid "Full Screen Header Settings"
+msgstr "Koko ruudun otsakkeen asetukset"
+
+#: inc/customizer/settings/header.php:387
+msgid "Top Menu Header Settings"
+msgstr "Ylävalikon otsakkeen asetukset"
+
+#: inc/customizer/settings/header.php:357
+msgid "Transparent Header Settings"
+msgstr "Läpinäkyvän otsakkeen asetukset"
+
+#: inc/customizer/settings/general.php:1102
+msgid "Search Posts Per Page"
+msgstr "Etsi artikkeleita sivuittain"
+
+#: inc/customizer/settings/header.php:2277
+msgid "Links Effect"
+msgstr "Linkkien tehoste"
+
+#: inc/customizer/settings/header.php:2307
+#: inc/customizer/settings/header.php:2324
+msgid "Links Effect: Color"
+msgstr "Linkkien tehoste: väri"
+
+#: inc/customizer/settings/header.php:2283
+msgid "No Effect"
+msgstr "Ei tehostetta"
+
+#. translators: 1: Admin URL 2: </a>
+#: partials/none.php:17
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "Oletko valmis julkaisemaan ensimmäisen artikkelisi? %1$sAloita täältä%2$s."
+
+#: inc/walker/init.php:71
+msgid "Template"
+msgstr "Pohja"
+
+#: inc/customizer/settings/header.php:3345
+msgid "From 320px"
+msgstr "Alkaen 320 px"
+
+#: inc/customizer/settings/header.php:3344
+msgid "From 480px"
+msgstr "Alkaen 480 px"
+
+#: inc/customizer/settings/header.php:3341
+msgid "From 1080px"
+msgstr "Alkaen 1080 px"
+
+#: inc/customizer/settings/header.php:3340
+msgid "From 1280px"
+msgstr "Alkaen 1280 px"
+
+#: inc/customizer/settings/header.php:3343
+msgid "From 767px"
+msgstr "Alkaen 767 px"
+
+#: inc/customizer/settings/header.php:3342
+msgid "From 959px"
+msgstr "Alkaen 959 px"
+
+#: inc/customizer/settings/header.php:2120
+msgid "Max Height (px)"
+msgstr "Maksimikorkeus (px)"
+
+#: inc/customizer/settings/edd.php:1653 inc/customizer/settings/blog.php:1559
+#: inc/customizer/settings/blog.php:1646
+#: inc/customizer/settings/general.php:2187
+#: inc/customizer/settings/general.php:2218
+#: inc/customizer/settings/general.php:2252
+msgid "Tag"
+msgstr "Avainsana"
+
+#: inc/walker/init.php:71
+msgid "Theme Panel > My Library"
+msgstr "Teeman ohjauspaneeli > kirjastoni"
+
+#: inc/customizer/settings/header.php:3971
+msgid "Searchbar Border Color: Hover"
+msgstr "Hakupalkin reunan väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:3890
+msgid "Links Background Color: Hover"
+msgstr "Linkkien reunan väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:3760
+msgid "Styling: Mobile Menu"
+msgstr "Tyyli: mobiilivalikko"
+
+#: inc/customizer/settings/header.php:3631
+msgid "Drop Down Max Height (px)"
+msgstr "Pudotusvalikon maksimikorkeus (px)"
+
+#: inc/customizer/settings/header.php:3473
+msgid "Mobile Menu Style"
+msgstr "Mobiilivalikon tyyli"
+
+#: inc/customizer/settings/header.php:3358
+msgid "Custom Media Query"
+msgstr "Mukautettu mediakysely"
+
+#: inc/customizer/settings/header.php:3346
+msgid "Custom media query"
+msgstr "Mukautettu mediakysely"
+
+#: inc/customizer/settings/header.php:3333
+msgid "Breakpoints"
+msgstr "Raja-arvot"
+
+#: inc/customizer/settings/header.php:907
+msgid "Stick Only The Menu"
+msgstr "Kiinnitä vain valikko"
+
+#: inc/customizer/settings/header.php:108
+#: inc/customizer/settings/header.php:1321
+#: inc/customizer/settings/header.php:2188
+#: inc/customizer/settings/header.php:2986
+#: inc/customizer/settings/topbar.php:320
+#: inc/customizer/settings/footer-widgets.php:185
+#: inc/customizer/settings/general.php:3737
+msgid "Select Template"
+msgstr "Valitse pohja"
+
+#: inc/customizer/settings/blog.php:1640
+msgid "Related Posts Taxonomy"
+msgstr "Liittyvien artikkeleiden luokittelu"
+
+#: inc/customizer/settings/edd.php:1647 inc/customizer/settings/blog.php:1553
+msgid "Next/Prev Taxonomy"
+msgstr "Seuraava/edellinen luokittelu"
+
+#: inc/customizer/settings/blog.php:688
+msgid "Add 500 to display full content"
+msgstr "Lisää 500 näyttääksesi koko sisällön"
+
+#: inc/customizer/settings/edd.php:112 inc/customizer/settings/edd.php:208
+#: inc/customizer/settings/woocommerce.php:70
+#: inc/customizer/settings/woocommerce.php:106
+#: inc/customizer/settings/woocommerce.php:311
+#: inc/customizer/settings/woocommerce.php:394
+#: inc/customizer/settings/woocommerce.php:1665
+#: inc/customizer/settings/woocommerce.php:1767
+#: inc/customizer/settings/woocommerce.php:2211
+#: inc/customizer/settings/woocommerce.php:2389
+#: inc/customizer/settings/woocommerce.php:2462
+msgid "No"
+msgstr "Ei"
+
+#: inc/customizer/settings/edd.php:111 inc/customizer/settings/edd.php:207
+#: inc/customizer/settings/woocommerce.php:69
+#: inc/customizer/settings/woocommerce.php:105
+#: inc/customizer/settings/woocommerce.php:310
+#: inc/customizer/settings/woocommerce.php:393
+#: inc/customizer/settings/woocommerce.php:1664
+#: inc/customizer/settings/woocommerce.php:1766
+#: inc/customizer/settings/woocommerce.php:2210
+#: inc/customizer/settings/woocommerce.php:2388
+#: inc/customizer/settings/woocommerce.php:2461
+msgid "Yes"
+msgstr "Kyllä"
+
+#: inc/customizer/settings/woocommerce.php:290
+msgid "Category Page"
+msgstr "Kategorioiden sivu"
+
+#: inc/customizer/settings/woocommerce.php:2383
+msgid "Display Related Items"
+msgstr "Näytä aiheeseen liittyvät kohteet"
+
+#: inc/customizer/settings/woocommerce.php:304
+msgid "Display Featured Image"
+msgstr "Näytä korostettu kuva"
+
+#: inc/customizer/controls/text/class-control-text.php:119
+#: inc/customizer/controls/text/class-control-text.php:125
+#: inc/customizer/controls/text/class-control-text.php:131
+#: inc/customizer/controls/typo/class-control-typo.php:156
+#: inc/customizer/controls/typo/class-control-typo.php:225
+#: inc/customizer/controls/typo/class-control-typo.php:237
+msgid "px - em - rem"
+msgstr "px-em-rem"
+
+#: inc/customizer/controls/typo/class-control-typo.php:62
+msgid "Letter Spacing"
+msgstr "Kirjainten välistys"
+
+#: inc/customizer/settings/typography.php:501
+#: inc/customizer/controls/typo/class-control-typo.php:57
+msgid "Font Size"
+msgstr "Kirjasinkoko"
+
+#: inc/third/class-beaver-themer.php:147
+msgid "Before Footer"
+msgstr "Ennen alapalkkia"
+
+#: inc/third/class-beaver-themer.php:141
+msgid "After Sidebar"
+msgstr "Sivupalkin jälkeen"
+
+#: inc/third/class-beaver-themer.php:96
+msgid "After Page"
+msgstr "Sivun jälkeen"
+
+#: inc/third/class-beaver-themer.php:95
+msgid "Before Page"
+msgstr "Ennen sivua"
+
+#: inc/third/class-beaver-themer.php:93
+msgid "Page"
+msgstr "Sivu"
+
+#: inc/third/class-beaver-themer.php:150
+msgid "After Footer"
+msgstr "Alapalkin jälkeen"
+
+#: inc/third/class-beaver-themer.php:149
+msgid "After Footer Inner"
+msgstr "Alapalkin jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:148
+msgid "Before Footer Inner"
+msgstr "Ennen alapalkkia sisempi"
+
+#: inc/third/class-beaver-themer.php:140
+msgid "After Sidebar Inner"
+msgstr "Sivupalkin jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:139
+msgid "Before Sidebar Inner"
+msgstr "Ennen sivupalkkia sisempi"
+
+#: inc/third/class-beaver-themer.php:138
+msgid "Before Sidebar"
+msgstr "Ennen sivupalkkia"
+
+#: inc/third/class-beaver-themer.php:132
+msgid "After Content"
+msgstr "Sisällön jälkeen"
+
+#: inc/third/class-beaver-themer.php:131
+msgid "After Content Inner"
+msgstr "Sisällön jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:130
+msgid "Before Content Inner"
+msgstr "Ennen sisältöä sisempi"
+
+#: inc/third/class-beaver-themer.php:129
+msgid "Before Content"
+msgstr "Ennen sisältöä"
+
+#: inc/third/class-beaver-themer.php:123
+msgid "After Page Header"
+msgstr "Sivun otsakkeen jälkeen"
+
+#: inc/third/class-beaver-themer.php:122
+msgid "After Page Header Inner"
+msgstr "Sivun otsakkeen jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:121
+msgid "Before Page Header Inner"
+msgstr "Ennen sivun otsaketta sisempi"
+
+#: inc/third/class-beaver-themer.php:120
+msgid "Before Page Header"
+msgstr "Ennen sivun otsaketta"
+
+#: inc/third/class-beaver-themer.php:118
+msgid "Page Header"
+msgstr "Sivun otsake"
+
+#: inc/third/class-beaver-themer.php:114
+msgid "After Header"
+msgstr "Otsakkeen jälkeen"
+
+#: inc/third/class-beaver-themer.php:113
+msgid "After Header Inner"
+msgstr "Otsakkeen jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:112
+msgid "Before Header Inner"
+msgstr "Ennen otsaketta sisempi"
+
+#: inc/third/class-beaver-themer.php:111
+msgid "Before Header"
+msgstr "Ennen otsaketta"
+
+#: inc/third/class-beaver-themer.php:105
+msgid "After Top Bar"
+msgstr "Yläpalkin jälkeen"
+
+#: inc/third/class-beaver-themer.php:104
+msgid "After Top Bar Inner"
+msgstr "Yläpalkin jälkeen sisempi"
+
+#: inc/third/class-beaver-themer.php:103
+msgid "Before Top Bar Inner"
+msgstr "Ennen yläpalkkia sisempi"
+
+#: inc/third/class-beaver-themer.php:102
+msgid "Before Top Bar"
+msgstr "Ennen yläpalkkia"
+
+#: partials/edd/single.php:57 inc/oceanwp-strings.php:48
+#: inc/oceanwp-strings.php:49
+msgid "Continue Reading"
+msgstr "Jatka lukemista"
+
+#: inc/oceanwp-strings.php:39
+msgid "Log out of this account"
+msgstr "Kirjaudu ulos tältä tililtä"
+
+#: comments.php:101 comments.php:114 partials/edd/single.php:54
+#: inc/woocommerce/woocommerce-config.php:782
+#: woocommerce/checkout/form-multistep-checkout.php:97
+msgid "Next"
+msgstr "Seuraava"
+
+#: comments.php:100 comments.php:113 partials/edd/single.php:53
+msgid "Previous"
+msgstr "Edellinen"
+
+#. Template Name of the theme
+msgid "Landing Page"
+msgstr "Saapumissivu"
+
+#: woocommerce/result-count.php:66
+msgid "All"
+msgstr "Kaikki"
+
+#: woocommerce/result-count.php:63
+msgid "View:"
+msgstr "Näytä:"
+
+#: inc/oceanwp-strings.php:50
+msgid "You Might Also Like"
+msgstr "Saattaisit myös pitää"
+
+#: inc/oceanwp-strings.php:51
+msgid "Next Post"
+msgstr "Seuraava artikkeli"
+
+#: partials/single/author-bio.php:37 partials/single/author-bio.php:49
+msgid "Visit Author Page"
+msgstr "Vieraile kirjoittajan sivulla"
+
+#: partials/page/article.php:24 partials/single/content.php:23
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: inc/woocommerce/woocommerce-helpers.php:121
+#: woocommerce/loop/thumbnail/featured-image.php:84
+#: woocommerce/loop/thumbnail/featured-image.php:90
+msgid "Placeholder Image"
+msgstr "Paikkamerkkikuva"
+
+#: inc/woocommerce/woocommerce-config.php:2415
+msgid "WooCommerce Product Title"
+msgstr "WooCommerce tuotteen otsikko"
+
+#: inc/edd/edd-config.php:392 inc/woocommerce/woocommerce-config.php:1969
+msgid "Your cart"
+msgstr "Ostoskorisi"
+
+#: inc/woocommerce/woocommerce-config.php:1439
+msgid "Logout"
+msgstr "Kirjaudu ulos"
+
+#: inc/woocommerce/woocommerce-config.php:1430
+msgid "Welcome!"
+msgstr "Tervetuloa!"
+
+#: inc/woocommerce/woocommerce-config.php:1122
+msgid "Out of Stock"
+msgstr "Loppu varastosta"
+
+#: inc/woocommerce/woocommerce-config.php:963
+msgid "List view"
+msgstr "Listanäkymä"
+
+#: inc/woocommerce/woocommerce-config.php:962
+msgid "Grid view"
+msgstr "Ruudukkonäkymä"
+
+#: inc/walker/init.php:127
+msgid "Select Widget Area"
+msgstr "Valitse vimpainalue"
+
+#: inc/walker/init.php:125
+msgid "Mega Menu Widget Area"
+msgstr "Megavalikon vimpainalue"
+
+#: inc/walker/init.php:113
+msgid "Megamenu columns (from 1 to 6)"
+msgstr "Megamenun sarakkeet (1 - 6)"
+
+#: inc/walker/init.php:108
+msgid "Megamenu auto width?"
+msgstr "Megamenun automaattinen leveys?"
+
+#: inc/walker/init.php:102
+msgid "Enable megamenu"
+msgstr "Ota käyttöön megavalikko"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Ota käyttöön"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Päivitä"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Asenna"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Päivitystä koskeva viesti lisäosan tekijältä:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Ota käyttöön %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Päivitä %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Asenna %2$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Ulkoinen lähde"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress-varasto"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Suositeltu"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Vaadittu"
+
+#. translators: %s: version number
+#: inc/plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1121
+#: inc/plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ja"
+
+#: inc/plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Lisäosan etäpaketti sisältää useamman kuin yhden tiedoston, mutta niitä ei ole pakattu kansioon."
+
+#: inc/plugins/class-tgm-plugin-activation.php:934
+#: inc/plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Ota yhteyttä lisäosan tekijään ja pyydä häntä paketoimaan lisäosa WordPressin ohjeiden mukaisesti."
+
+#: inc/plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Päivitys vaaditaan"
+
+#: inc/plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Tämä lisäosa täytyy päivittää, jotta se on yhteensopiva teemasi kanssa."
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Hylkää tämä ilmoitus"
+
+#: inc/helpers.php:3991 inc/oceanwp-strings.php:46
+msgid "Email"
+msgstr "Sähköposti"
+
+#: inc/helpers.php:3987
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/helpers.php:3983
+msgid "Tripadvisor"
+msgstr "Tripadvisor"
+
+#: inc/helpers.php:3979
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/helpers.php:3975
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/helpers.php:3971
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/helpers.php:3967
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/helpers.php:3963
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/helpers.php:3959
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/helpers.php:3955
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/helpers.php:3951
+msgid "Github"
+msgstr "Github"
+
+#: inc/helpers.php:3947
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/helpers.php:3943
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/helpers.php:3939
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/helpers.php:3935
+msgid "VK"
+msgstr "VK"
+
+#: inc/helpers.php:3931
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/helpers.php:3927
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/helpers.php:3923
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/helpers.php:3919
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/helpers.php:3381 inc/helpers.php:3433
+#: inc/woocommerce/woocommerce-config.php:592
+msgid "Older Posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/helpers.php:3378 inc/helpers.php:3432
+#: inc/woocommerce/woocommerce-config.php:591
+msgid "Newer Posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/helpers.php:3236
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa tarkastusta."
+
+#: inc/helpers.php:3224
+msgid "edit"
+msgstr "muokkaa"
+
+#: inc/helpers.php:3215
+msgid "%s "
+msgstr "%s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Päivitettäviä lisäosia ei ole tällä hetkellä saatavilla."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Asennettavia lisäosia ei ole tällä hetkellä saatavilla."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Lisäosia ei ole valittu päivitettäväksi. Toimenpiteitä ei suoritettu."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Lisäosia ei ole valittu asennettavaksi. Toimenpiteitä ei suoritettu."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Tila"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versio"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tyyppi"
+
+#: inc/customizer/settings/general.php:1077
+#: inc/plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Lähde"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Lisäosa"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Saatavilla oleva versio:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Vaadittu vähimmäisversio:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Asennettu versio:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tuntematon"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Päivitystä suositellaan"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Vaatii päivityksen"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Vaadittu päivitys ei ole saatavilla"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Käytössä"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Ei asennettu"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Esipakattu"
+
+#: inc/plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Palaa vaadittujen lisäosien asennustoimintoon"
+
+#: inc/plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Aloita lisäosan päivitys"
+msgstr[1] "Aloita lisäosien päivitys"
+
+#: inc/plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Aloita lisäosan asentaminen"
+msgstr[1] "Aloita lisäosien asentaminen"
+
+#: inc/plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Jokin meni vikaan lisäosan API:in liittyen."
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Päivitetään lisäosaa: %s"
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Asennetaan lisäosaa: %s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Asenna lisäosia"
+
+#: inc/plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Asenna vaaditut lisäosat"
+
+#: inc/helpers.php:3197
+msgid "(Edit)"
+msgstr "(Muokkaa)"
+
+#: inc/helpers.php:3197
+msgid "Pingback:"
+msgstr "Paluuviite:"
+
+#: inc/helpers.php:3083
+msgid "Related Posts"
+msgstr "Aiheeseen liittyvät artikkelit"
+
+#: inc/helpers.php:3082
+msgid "Author Box"
+msgstr "Kirjoittajalaatikko"
+
+#: inc/helpers.php:3081
+msgid "Next/Prev Links"
+msgstr "Seuraava/Edellinen-linkit"
+
+#: inc/helpers.php:3079
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: inc/helpers.php:2994
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: inc/helpers.php:2164
+msgid "articles"
+msgstr "artikkelit"
+
+#: inc/helpers.php:2164
+msgid "This author has written"
+msgstr "Tämä kirjoittaja on kirjoittanut"
+
+#: inc/helpers.php:2159
+msgid "You searched for:"
+msgstr "Etsit hakusanalla:"
+
+#: inc/helpers.php:2096
+msgid "404: Page Not Found"
+msgstr "404: Sivua ei löytynyt"
+
+#: inc/helpers.php:2074
+msgctxt "Page title yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/helpers.php:2069
+msgctxt "Page title monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/helpers.php:2069
+msgid "Monthly Archives: %s"
+msgstr "Kuukausittainen arkisto:%s"
+
+#: inc/helpers.php:2064
+msgid "Daily Archives: %s"
+msgstr "Päivittäinen arkisto: %s"
+
+#: inc/helpers.php:2046
+msgid "Search Results Found"
+msgstr "Hakutuloksia löytyi"
+
+#: inc/helpers.php:2033
+msgid "Recent Posts"
+msgstr "Viimeisimmät artikkelit"
+
+#: inc/helpers.php:1774 inc/oceanwp-strings.php:34
+msgid "Type your search"
+msgstr "Kirjoita hakulause"
+
+#: inc/customizer/settings/woocommerce.php:5563
+msgid "Payment Box Color"
+msgstr "Maksulaatikon väri"
+
+#: inc/customizer/settings/edd.php:2786
+#: inc/customizer/settings/woocommerce.php:2757
+#: inc/customizer/settings/woocommerce.php:5324
+msgid "Checkout"
+msgstr "Kassa"
+
+#: inc/customizer/settings/woocommerce.php:2691
+#: inc/customizer/settings/woocommerce.php:5216
+#: inc/woocommerce/woocommerce-config.php:864
+msgid "Cart"
+msgstr "Ostoskori"
+
+#: inc/customizer/settings/edd.php:124
+#: inc/customizer/settings/woocommerce.php:319
+msgid "Menu Cart"
+msgstr "Valikon ostoskori"
+
+#: inc/customizer/settings/woocommerce.php:83
+msgid "Custom WooCommerce Sidebar"
+msgstr "Mukautettu WooCommerce-sivupalkki"
+
+#: inc/customizer/settings/woocommerce.php:40
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/settings/typography.php:619
+msgid "Font Color"
+msgstr "Kirjasimen väri"
+
+#: inc/customizer/settings/typography.php:585
+msgid "Letter Spacing (px)"
+msgstr "Kirjainten välistys (px)"
+
+#: inc/customizer/settings/typography.php:541
+#: inc/customizer/controls/typo/class-control-typo.php:61
+msgid "Line Height"
+msgstr "Rivikorkeus"
+
+#: inc/customizer/settings/typography.php:469
+#: inc/customizer/settings/edd.php:2637 inc/customizer/settings/blog.php:900
+#: inc/customizer/settings/blog.php:1531
+#: inc/customizer/settings/general.php:2185
+#: inc/customizer/settings/general.php:2216
+#: inc/customizer/settings/general.php:2250
+#: inc/customizer/settings/woocommerce.php:4057
+#: inc/customizer/settings/woocommerce.php:4820
+msgid "None"
+msgstr "Ei mitään"
+
+#: inc/customizer/settings/typography.php:468
+#: inc/customizer/controls/typo/class-control-typo.php:338
+msgid "Uppercase"
+msgstr "Isot kirjaimet"
+
+#: inc/customizer/settings/typography.php:467
+#: inc/customizer/controls/typo/class-control-typo.php:337
+msgid "Lowercase"
+msgstr "Pienet kirjaimet"
+
+#: inc/customizer/settings/typography.php:466
+#: inc/customizer/controls/typo/class-control-typo.php:336
+msgid "Capitalize"
+msgstr "Iso alkukirjain"
+
+#: inc/customizer/settings/typography.php:458
+#: inc/customizer/controls/typo/class-control-typo.php:60
+msgid "Text Transform"
+msgstr "Tekstin muotoilu"
+
+#: inc/customizer/settings/typography.php:440
+#: inc/customizer/controls/typo/class-control-typo.php:321
+msgid "Italic"
+msgstr "Kursivointi"
+
+#: inc/customizer/settings/typography.php:439
+#: inc/customizer/settings/woocommerce.php:2133
+#: inc/customizer/controls/typo/class-control-typo.php:320
+msgid "Normal"
+msgstr "Normaali"
+
+#: inc/customizer/settings/typography.php:431
+#: inc/customizer/controls/typo/class-control-typo.php:59
+msgid "Font Style"
+msgstr "Kirjasintyyli"
+
+#: inc/customizer/settings/typography.php:414
+#: inc/customizer/controls/typo/class-control-typo.php:305
+msgid "Black: 900"
+msgstr "Musta: 900"
+
+#: inc/customizer/settings/typography.php:413
+#: inc/customizer/controls/typo/class-control-typo.php:304
+msgid "Extra Bold: 800"
+msgstr "Erittäin lihavoitu: 800"
+
+#: inc/customizer/settings/typography.php:412
+#: inc/customizer/controls/typo/class-control-typo.php:303
+msgid "Bold: 700"
+msgstr "Lihavoitu: 700"
+
+#: inc/customizer/settings/typography.php:411
+#: inc/customizer/controls/typo/class-control-typo.php:302
+msgid "Semibold: 600"
+msgstr "Puolilihavoitu: 600"
+
+#: inc/customizer/settings/typography.php:410
+#: inc/customizer/controls/typo/class-control-typo.php:301
+msgid "Medium: 500"
+msgstr "Keskiverto: 500"
+
+#: inc/customizer/settings/typography.php:409
+#: inc/customizer/controls/typo/class-control-typo.php:300
+msgid "Normal: 400"
+msgstr "Normaali: 400"
+
+#: inc/customizer/settings/typography.php:408
+#: inc/customizer/controls/typo/class-control-typo.php:299
+msgid "Book: 300"
+msgstr "Kirja: 300"
+
+#: inc/customizer/settings/typography.php:407
+#: inc/customizer/controls/typo/class-control-typo.php:298
+msgid "Light: 200"
+msgstr "Kevyt: 200"
+
+#: inc/customizer/settings/typography.php:406
+#: inc/customizer/controls/typo/class-control-typo.php:297
+msgid "Thin: 100"
+msgstr "Ohut: 100"
+
+#: inc/customizer/settings/typography.php:398
+msgid "Important: Not all fonts support every font-weight."
+msgstr "Tärkeää: Kaikki kirjasimet eivät tue jokaista kirjasinpainoa."
+
+#: inc/customizer/settings/typography.php:397
+#: inc/customizer/controls/typo/class-control-typo.php:58
+msgid "Font Weight"
+msgstr "Kirjasimen paksuus"
+
+#: inc/customizer/settings/typography.php:375
+#: inc/customizer/controls/typo/class-control-typo.php:56
+msgid "Font Family"
+msgstr "Kirjasinperhe"
+
+#: inc/customizer/settings/typography.php:299
+msgid "Font Subsets"
+msgstr "Kirjasimen osajoukko"
+
+#: inc/customizer/settings/typography.php:260
+msgid "Typography"
+msgstr "Typografia"
+
+#: inc/customizer/settings/typography.php:230
+msgid "Footer Menu"
+msgstr "Alapalkin valikko"
+
+#: inc/customizer/settings/typography.php:220
+msgid "Footer Copyright"
+msgstr "Alapalkin tekijänoikeusteksti"
+
+#: inc/third/class-gutenberg.php:54 inc/customizer/settings/typography.php:46
+msgid "Body"
+msgstr "Sisältö"
+
+#: inc/third/class-beaver-themer.php:127 inc/helpers.php:2993
+#: inc/helpers.php:3078 inc/customizer/settings/topbar.php:306
+#: inc/customizer/settings/topbar.php:340
+msgid "Content"
+msgstr "Sisältö"
+
+#: inc/customizer/settings/typography.php:205
+#: inc/customizer/settings/sidebar.php:150
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: inc/customizer/settings/header.php:1630
+#: inc/customizer/settings/header.php:3731
+msgid "Link"
+msgstr "Linkki"
+
+#: inc/customizer/settings/header.php:1629
+#: inc/customizer/settings/header.php:3730 inc/customizer/settings/edd.php:366
+#: inc/customizer/settings/general.php:2078
+#: inc/customizer/settings/woocommerce.php:498
+msgid "Icon"
+msgstr "Kuvake"
+
+#: partials/mobile/mobile-fullscreen.php:78
+#: partials/mobile/mobile-sidr-close.php:25 inc/helpers.php:3893
+#: inc/customizer/settings/header.php:3701
+msgid "Close Menu"
+msgstr "Sulje valikko"
+
+#: inc/customizer/settings/header.php:3745
+msgid "Mobile Menu Search"
+msgstr "Mobiilivalikon haku"
+
+#: inc/customizer/settings/header.php:3670
+msgid "Close Menu Button"
+msgstr "Sulje valikko -painike"
+
+#: inc/customizer/settings/header.php:3610
+msgid "Direction"
+msgstr "Suunta"
+
+#: inc/customizer/settings/header.php:3015
+msgid "Dark"
+msgstr "Tumma"
+
+#: inc/customizer/settings/header.php:3012
+msgid "Simple"
+msgstr "Yksinkertainen"
+
+#: inc/customizer/settings/header.php:2650
+#: inc/customizer/settings/header.php:3480
+msgid "Drop Down"
+msgstr "Alasvetovalikko"
+
+#: inc/customizer/settings/header.php:2649
+msgid "Disabled"
+msgstr "Pois käytöstä"
+
+#: inc/customizer/settings/header.php:87
+msgid "Transparent"
+msgstr "Läpinäkyvä"
+
+#: inc/customizer/settings/header.php:86
+#: inc/customizer/settings/header.php:3014
+msgid "Minimal"
+msgstr "Minimaalinen"
+
+#: inc/customizer/settings/typography.php:268
+#: inc/customizer/settings/learndash.php:57
+#: inc/customizer/settings/learndash.php:79
+#: inc/customizer/settings/header.php:58 inc/customizer/settings/topbar.php:48
+#: inc/customizer/settings/edd.php:57 inc/customizer/settings/lifterlms.php:48
+#: inc/customizer/settings/lifterlms.php:62
+#: inc/customizer/settings/woocommerce.php:48
+msgid "General"
+msgstr "Yleinen"
+
+#: inc/third/class-beaver-themer.php:109 inc/customizer/settings/header.php:47
+msgid "Header"
+msgstr "Otsake"
+
+#: inc/customizer/settings/general.php:3391
+msgid "Theme Buttons"
+msgstr "Teeman painikkeet"
+
+#: inc/customizer/settings/header.php:3060
+#: inc/customizer/settings/topbar.php:435
+#: inc/customizer/settings/general.php:2747
+#: inc/customizer/settings/general.php:3118
+msgid "Font Size (px)"
+msgstr "Kirjasimen koko (px)"
+
+#: inc/customizer/settings/header.php:90
+#: inc/customizer/settings/header.php:1102
+#: inc/customizer/settings/header.php:1586
+#: inc/customizer/settings/header.php:2262 inc/customizer/settings/edd.php:1300
+#: inc/customizer/settings/blog.php:479 inc/customizer/settings/blog.php:1179
+#: inc/customizer/settings/general.php:1569
+#: inc/customizer/settings/general.php:2723
+#: inc/customizer/settings/woocommerce.php:1588
+#: inc/customizer/settings/woocommerce.php:2316
+msgid "Center"
+msgstr "Keskitetty"
+
+#: inc/customizer/settings/general.php:2716
+msgid "Align"
+msgstr "Tasaus"
+
+#: inc/customizer/settings/general.php:2693
+#: inc/customizer/settings/woocommerce.php:1782
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: inc/customizer/settings/header.php:2376
+#: inc/customizer/settings/header.php:2551
+#: inc/customizer/settings/topbar.php:278
+#: inc/customizer/settings/general.php:2330
+#: inc/customizer/settings/woocommerce.php:747
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: inc/customizer/settings/general.php:2024
+msgid "Under Title"
+msgstr "Otsikon alla"
+
+#: inc/customizer/settings/typography.php:167
+#: inc/customizer/settings/general.php:1943
+msgid "Breadcrumbs"
+msgstr "Navigaatiopolku"
+
+#: inc/customizer/settings/header.php:146
+#: inc/customizer/settings/header.php:168
+#: inc/customizer/settings/header.php:1118
+#: inc/customizer/settings/header.php:3380
+#: inc/customizer/settings/general.php:1732
+msgid "Height (px)"
+msgstr "Korkeus (px)"
+
+#: inc/customizer/settings/edd.php:1266
+#: inc/customizer/settings/general.php:1537
+#: inc/customizer/settings/woocommerce.php:1523
+msgid "Image"
+msgstr "Kuva"
+
+#: inc/customizer/settings/general.php:1516
+msgid "Hidden"
+msgstr "Piilotettu"
+
+#: inc/customizer/settings/general.php:1514
+msgid "Centered Minimal"
+msgstr "Keskitetty minimaalinen"
+
+#: inc/customizer/settings/general.php:1513
+msgid "Centered"
+msgstr "Keskitetty"
+
+#: inc/customizer/settings/header.php:80 inc/customizer/settings/topbar.php:120
+#: inc/customizer/settings/edd.php:393 inc/customizer/settings/edd.php:625
+#: inc/customizer/settings/general.php:1506
+#: inc/customizer/settings/woocommerce.php:516
+#: inc/customizer/settings/woocommerce.php:673
+msgid "Style"
+msgstr "Tyyli"
+
+#: inc/customizer/settings/typography.php:147
+#: inc/customizer/settings/general.php:1416
+msgid "Page Title"
+msgstr "Sivun otsikko"
+
+#: inc/customizer/settings/general.php:1130
+msgid "Custom Sidebar"
+msgstr "Mukautettu sivuvalikko"
+
+#: inc/customizer/settings/general.php:1054
+msgid "Search Result Page"
+msgstr "Hakutulossivu"
+
+#: inc/customizer/settings/general.php:1019
+msgid "Content Padding (px)"
+msgstr "Sisällön reunatäyte (px)"
+
+#: inc/customizer/settings/general.php:811
+msgid "Pages"
+msgstr "Sivut"
+
+#: inc/customizer/settings/general.php:758
+msgid "Sidebar Width (%)"
+msgstr "Sivupalkin leveys (%)"
+
+#: inc/customizer/settings/general.php:728
+msgid "Content Width (%)"
+msgstr "Sisällön leveys (%)"
+
+#: inc/customizer/settings/general.php:480
+msgid "Wide"
+msgstr "Leveä"
+
+#: inc/customizer/settings/footer-widgets.php:131
+#: inc/customizer/settings/footer-widgets.php:161
+#: inc/customizer/settings/general.php:3686
+msgid "On"
+msgstr "Käytössä"
+
+#: inc/customizer/settings/header.php:1965
+#: inc/customizer/settings/blog.php:1215
+#: inc/customizer/settings/general.php:265
+#: inc/customizer/settings/general.php:1605
+msgid "Center Left"
+msgstr "Keskiosan vasemmalla"
+
+#: inc/customizer/settings/header.php:1964
+#: inc/customizer/settings/blog.php:1214
+#: inc/customizer/settings/general.php:264
+#: inc/customizer/settings/general.php:1604
+msgid "Top Right"
+msgstr "Yläoikea"
+
+#: inc/customizer/settings/header.php:1963
+#: inc/customizer/settings/blog.php:1213
+#: inc/customizer/settings/general.php:263
+#: inc/customizer/settings/general.php:1603
+msgid "Top Center"
+msgstr "Yläosan keskellä"
+
+#: inc/customizer/settings/header.php:1962
+#: inc/customizer/settings/blog.php:1212
+#: inc/customizer/settings/general.php:262
+#: inc/customizer/settings/general.php:1602
+msgid "Top Left"
+msgstr "Ylävasen"
+
+#: inc/customizer/settings/header.php:1096
+#: inc/customizer/settings/header.php:1559
+#: inc/customizer/settings/header.php:1955
+#: inc/customizer/settings/header.php:2256
+#: inc/customizer/settings/blog.php:1204
+#: inc/customizer/settings/general.php:254
+#: inc/customizer/settings/general.php:1594
+#: inc/customizer/settings/general.php:2016
+#: inc/customizer/settings/general.php:2446
+msgid "Position"
+msgstr "Sijainti"
+
+#: inc/customizer/settings/header.php:2038
+#: inc/customizer/settings/blog.php:1318
+#: inc/customizer/settings/general.php:368
+#: inc/customizer/settings/general.php:1708
+msgid "Cover"
+msgstr "Kansi"
+
+#: inc/customizer/settings/header.php:2037
+#: inc/customizer/settings/blog.php:1317
+#: inc/customizer/settings/general.php:367
+#: inc/customizer/settings/general.php:1707
+msgid "Auto"
+msgstr "Automaattinen"
+
+#: inc/customizer/settings/header.php:2030
+#: inc/customizer/settings/blog.php:1309
+#: inc/customizer/settings/general.php:359
+#: inc/customizer/settings/general.php:1699
+msgid "Size"
+msgstr "Koko"
+
+#: inc/customizer/settings/header.php:2016
+#: inc/customizer/settings/blog.php:1286
+#: inc/customizer/settings/general.php:336
+#: inc/customizer/settings/general.php:1676
+msgid "Repeat-y"
+msgstr "Toisto-y"
+
+#: inc/customizer/settings/header.php:2015
+#: inc/customizer/settings/blog.php:1285
+#: inc/customizer/settings/general.php:335
+#: inc/customizer/settings/general.php:1675
+msgid "Repeat-x"
+msgstr "Toisto-x"
+
+#: inc/customizer/settings/header.php:2013
+#: inc/customizer/settings/blog.php:1283
+#: inc/customizer/settings/general.php:333
+#: inc/customizer/settings/general.php:1673
+msgid "No-repeat"
+msgstr "Ei toistoa"
+
+#: inc/customizer/settings/header.php:2006
+#: inc/customizer/settings/header.php:2014
+#: inc/customizer/settings/blog.php:1275 inc/customizer/settings/blog.php:1284
+#: inc/customizer/settings/general.php:325
+#: inc/customizer/settings/general.php:334
+#: inc/customizer/settings/general.php:1665
+#: inc/customizer/settings/general.php:1674
+msgid "Repeat"
+msgstr "Toisto"
+
+#: inc/customizer/settings/header.php:1992
+#: inc/customizer/settings/blog.php:1252
+#: inc/customizer/settings/general.php:302
+#: inc/customizer/settings/general.php:1642
+msgid "Fixed"
+msgstr "Kiinteä"
+
+#: inc/customizer/settings/header.php:1991
+#: inc/customizer/settings/blog.php:1251
+#: inc/customizer/settings/general.php:301
+#: inc/customizer/settings/general.php:1641
+msgid "Scroll"
+msgstr "Vieritys"
+
+#: inc/customizer/settings/header.php:1984
+#: inc/customizer/settings/blog.php:1243
+#: inc/customizer/settings/general.php:293
+#: inc/customizer/settings/general.php:1633
+msgid "Attachment"
+msgstr "Liite"
+
+#: inc/customizer/settings/header.php:1970
+#: inc/customizer/settings/blog.php:1220
+#: inc/customizer/settings/general.php:270
+#: inc/customizer/settings/general.php:1610
+msgid "Bottom Right"
+msgstr "Alaoikea"
+
+#: inc/customizer/settings/header.php:1969
+#: inc/customizer/settings/blog.php:1219
+#: inc/customizer/settings/general.php:269
+#: inc/customizer/settings/general.php:1609
+msgid "Bottom Center"
+msgstr "Alaosan keskellä"
+
+#: inc/customizer/settings/header.php:1968
+#: inc/customizer/settings/blog.php:1218
+#: inc/customizer/settings/general.php:268
+#: inc/customizer/settings/general.php:1608
+msgid "Bottom Left"
+msgstr "Alavasen"
+
+#: inc/customizer/settings/header.php:1967
+#: inc/customizer/settings/blog.php:1217
+#: inc/customizer/settings/general.php:267
+#: inc/customizer/settings/general.php:1607
+msgid "Center Right"
+msgstr "Keskiosan oikealla"
+
+#: inc/customizer/settings/header.php:1966
+#: inc/customizer/settings/blog.php:1216
+#: inc/customizer/settings/general.php:266
+#: inc/customizer/settings/general.php:1606
+msgid "Center Center"
+msgstr "Keskiosan keskellä"
+
+#: inc/customizer/settings/blog.php:1125
+msgid "Post Title"
+msgstr "Artikkelin otsikko"
+
+#: inc/customizer/settings/blog.php:1118
+msgid "Page Header Title"
+msgstr "Sivun otsakkeen otsikko"
+
+#: inc/customizer/settings/blog.php:912
+msgid "Single Post"
+msgstr "Yksittäinen artikkeli"
+
+#: inc/helpers.php:3084 inc/customizer/settings/blog.php:863
+#: inc/customizer/settings/blog.php:1495
+msgid "Comments"
+msgstr "Kommentit"
+
+#: inc/customizer/settings/blog.php:862 inc/customizer/settings/blog.php:1494
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: inc/customizer/settings/blog.php:861 inc/customizer/settings/blog.php:1493
+#: inc/customizer/settings/blog.php:1560
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: inc/customizer/settings/lifterlms.php:212
+#: inc/customizer/settings/blog.php:860 inc/customizer/settings/blog.php:1492
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: inc/helpers.php:2992 inc/helpers.php:3077
+#: inc/customizer/settings/lifterlms.php:211
+#: inc/customizer/settings/blog.php:853 inc/customizer/settings/blog.php:1485
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/settings/blog.php:319
+msgid "Images Size"
+msgstr "Kuvien koko"
+
+#: inc/customizer/settings/lifterlms.php:107
+#: inc/customizer/settings/blog.php:296
+msgid "Grid"
+msgstr "Ruudukko"
+
+#: inc/customizer/settings/blog.php:295
+msgid "Large Image"
+msgstr "Suuri kuva"
+
+#: inc/customizer/settings/blog.php:289
+msgid "Blog Style"
+msgstr "Blogin tyyli"
+
+#: inc/third/class-lifterlms.php:305 inc/customizer/settings/learndash.php:117
+#: inc/customizer/settings/learndash.php:162
+#: inc/customizer/settings/learndash.php:332
+#: inc/customizer/settings/learndash.php:502
+#: inc/customizer/settings/edd.php:1041 inc/customizer/settings/edd.php:1449
+#: inc/customizer/settings/lifterlms.php:251
+#: inc/customizer/settings/lifterlms.php:279
+#: inc/customizer/settings/lifterlms.php:395
+#: inc/customizer/settings/lifterlms.php:511
+#: inc/customizer/settings/blog.php:934 inc/customizer/settings/general.php:834
+#: inc/customizer/settings/general.php:1155
+#: inc/customizer/settings/general.php:3709
+#: inc/customizer/settings/woocommerce.php:1126
+#: inc/customizer/settings/woocommerce.php:1878
+msgid "Layout"
+msgstr "Asettelu"
+
+#: inc/customizer/settings/blog.php:57
+msgid "Blog Entries"
+msgstr "Blogin merkinnät"
+
+#: inc/helpers.php:2121 inc/customizer/settings/blog.php:46
+#: inc/customizer/settings/blog.php:1124
+msgid "Blog"
+msgstr "Blogi"
+
+#: inc/customizer/controls/typography/class-control-typography.php:87
+msgid "Google Fonts"
+msgstr "Google-kirjasimet"
+
+#: inc/customizer/controls/typography/class-control-typography.php:76
+msgid "Standard Fonts"
+msgstr "Peruskirjaisimet"
+
+#: inc/customizer/controls/typography/class-control-typography.php:66
+msgid "Custom Fonts"
+msgstr "Mukautetut kirjaisimet"
+
+#: inc/third/class-lifterlms.php:308 inc/customizer/settings/typography.php:405
+#: inc/customizer/settings/typography.php:438
+#: inc/customizer/settings/typography.php:465
+#: inc/customizer/settings/header.php:1961
+#: inc/customizer/settings/header.php:1990
+#: inc/customizer/settings/header.php:2012
+#: inc/customizer/settings/header.php:2036 inc/customizer/settings/blog.php:898
+#: inc/customizer/settings/blog.php:1211 inc/customizer/settings/blog.php:1250
+#: inc/customizer/settings/blog.php:1282 inc/customizer/settings/blog.php:1316
+#: inc/customizer/settings/blog.php:1529
+#: inc/customizer/settings/general.php:261
+#: inc/customizer/settings/general.php:300
+#: inc/customizer/settings/general.php:332
+#: inc/customizer/settings/general.php:366
+#: inc/customizer/settings/general.php:1512
+#: inc/customizer/settings/general.php:1601
+#: inc/customizer/settings/general.php:1640
+#: inc/customizer/settings/general.php:1672
+#: inc/customizer/settings/general.php:1706
+#: inc/customizer/settings/general.php:3855
+#: inc/customizer/settings/woocommerce.php:127
+#: inc/customizer/controls/typo/class-control-typo.php:255
+#: inc/customizer/controls/typo/class-control-typo.php:296
+#: inc/customizer/controls/typo/class-control-typo.php:319
+#: inc/customizer/controls/typo/class-control-typo.php:335
+#: inc/customizer/controls/typography/class-control-typography.php:60
+msgid "Default"
+msgstr "Oletus"
+
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:112
+msgid "100% Full Width"
+msgstr "100 % täysi leveys"
+
+#: inc/third/class-lifterlms.php:311
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:111
+msgid "Full Width"
+msgstr "Täysi leveys"
+
+#: inc/third/class-lifterlms.php:310
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:110
+#: functions.php:612
+msgid "Left Sidebar"
+msgstr "Vasen sivupalkki"
+
+#: inc/third/class-lifterlms.php:309
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:109
+msgid "Right Sidebar"
+msgstr "Oikea sivupalkki"
+
+#: inc/customizer/controls/dropdown-pages/class-control-dropdown-pages.php:61
+#: inc/customizer/customizer-helpers.php:45
+msgid "Select"
+msgstr "Valitse"
+
+#: inc/customizer/settings/header.php:1101
+#: inc/customizer/settings/header.php:1564
+#: inc/customizer/settings/header.php:1585
+#: inc/customizer/settings/header.php:2261
+#: inc/customizer/settings/header.php:3615 inc/customizer/settings/edd.php:1299
+#: inc/customizer/settings/blog.php:448 inc/customizer/settings/blog.php:1178
+#: inc/customizer/settings/general.php:1568
+#: inc/customizer/settings/general.php:2452
+#: inc/customizer/settings/general.php:2724
+#: inc/customizer/settings/woocommerce.php:1587
+#: inc/customizer/settings/woocommerce.php:2315
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:193
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:197
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:201
+msgid "Left"
+msgstr "Vasen"
+
+#: inc/customizer/settings/blog.php:480
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:192
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:196
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:200
+msgid "Bottom"
+msgstr "Ala"
+
+#: inc/customizer/settings/blog.php:478
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:190
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:194
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:198
+msgid "Top"
+msgstr "Ylä"
+
+#: inc/customizer/settings/header.php:1103
+#: inc/customizer/settings/header.php:1565
+#: inc/customizer/settings/header.php:1587
+#: inc/customizer/settings/header.php:2263
+#: inc/customizer/settings/header.php:3616 inc/customizer/settings/edd.php:1301
+#: inc/customizer/settings/blog.php:449 inc/customizer/settings/blog.php:1180
+#: inc/customizer/settings/general.php:1570
+#: inc/customizer/settings/general.php:2453
+#: inc/customizer/settings/general.php:2722
+#: inc/customizer/settings/woocommerce.php:1589
+#: inc/customizer/settings/woocommerce.php:2317
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:191
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:195
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:199
+msgid "Right"
+msgstr "Oikea"
+
+#: inc/customizer/settings/general.php:46
+msgid "General Options"
+msgstr "Yleiset asetukset"
+
+#: inc/customizer/settings/learndash.php:58
+#: inc/customizer/settings/learndash.php:118
+#: inc/customizer/settings/learndash.php:641 inc/customizer/settings/edd.php:58
+#: inc/customizer/settings/edd.php:125 inc/customizer/settings/lifterlms.php:49
+#: inc/customizer/settings/lifterlms.php:252
+#: inc/customizer/settings/lifterlms.php:610
+#: inc/customizer/settings/woocommerce.php:49
+#: inc/customizer/settings/woocommerce.php:320
+#: inc/customizer/settings/woocommerce.php:2692
+msgid "For some options, you must save and refresh your live site to preview changes."
+msgstr "Joidenkin asetusten kohdalla sinun tulee tallentaa ja päivittää pääsivustosi, jotta pääset esikatselemaan muutoksia."
+
+#: inc/customizer/settings/header.php:962
+msgid "Social Buttons"
+msgstr "Somepainikkeet"
+
+#: inc/customizer/settings/woocommerce.php:2309
+msgid "Tabs Position"
+msgstr "Välilehtien sijainti"
+
+#: inc/customizer/settings/header.php:402
+msgid "Menu Position"
+msgstr "Valikon sijainti"
+
+#: inc/customizer/settings/header.php:955
+#: inc/customizer/settings/header.php:3438 inc/customizer/settings/edd.php:1261
+#: inc/customizer/settings/blog.php:827 inc/customizer/settings/blog.php:1460
+#: inc/customizer/settings/woocommerce.php:1518
+msgid "Elements Positioning"
+msgstr "Elementtien sijoittelu"
+
+#: inc/customizer/settings/woocommerce.php:2008
+msgid "Summary Elements Positioning"
+msgstr "Yhteenvedon elementtien sijoittelu"
+
+#: partials/none.php:57
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Näyttää siltä, ettemme löydä etsimääsi."
+
+#: inc/oceanwp-strings.php:37 inc/oceanwp-strings.php:38
+msgid "Search..."
+msgstr "Hae..."
+
+#: partials/entry/meta.php:59 partials/entry/thumbnail-style/comments.php:21
+#: partials/single/meta.php:65
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: partials/entry/meta.php:59 partials/entry/thumbnail-style/comments.php:21
+#: partials/single/meta.php:65
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: partials/entry/meta.php:59 partials/entry/thumbnail-style/comments.php:21
+#: partials/single/meta.php:65
+msgid "0 Comments"
+msgstr "0 kommenttia"
+
+#: inc/woocommerce/woocommerce-config.php:338
+msgid "WooCommerce Sidebar"
+msgstr "Woocommerce sivupalkki"
+
+#: inc/walker/init.php:120
+msgid "Hide Mega menu heading?"
+msgstr "Piilota megavalikon otsikko?"
+
+#: inc/walker/init.php:95
+msgid "Display Latest Posts"
+msgstr "Näytä uusimmat artikkelit"
+
+#: inc/walker/init.php:88
+msgid "Disable link"
+msgstr "Poista käytöstä linkki"
+
+#: inc/walker/init.php:73
+msgid "Select A Template"
+msgstr "Valitse pohja"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Asennetaan lisäosaa %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Kaikki asennukset on suoritettu loppuun."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s asennettiin onnistuneesti."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Asennusprosessi on alkamassa. Tämä voi kestää hetken joillain palvelimilla, joten olethan kärsivällinen."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Asennetaan ja otetaan käyttöön lisäosaa %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Kaikki asennukset ja käyttöönotot on suoritettu loppuun."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Piilota tiedot"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Näytä tiedot"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s asennettu ja otettu käyttöön onnistuneesti."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Asennus- ja käyttöönottoprosessi käynnistyy. Tämä prosessi saattaa kestää jonkin aikaa, joten olethan kärsivällinen."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Kohteen %1$s asennus epäonnistui."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Tapahtui virhe asennettaessa %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Päivitetään lisäosaa %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Lisäosan käyttöönotto epäonnistui."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Käyttöönotettavia lisäosia ei ole saatavilla tällä hetkellä."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Lisäosia ei ole valittu käyttöönotettavaksi. Toimenpiteitä ei suoritettu."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Ei lisäosia asennettavaksi, päivitettäväksi tai käyttöönotettavaksi."
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Ottaaksesi käyttöön <span class=\"count\">(%s)</span>"
+msgstr[1] "Ottaaksesi käyttöön <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Päivitys saatavilla <span class=\"count\">(%s)</span>"
+msgstr[1] "Päivityksiä saatavilla <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Asentaaksesi <span class=\"count\">(%s)</span>"
+msgstr[1] "Asentaaksesi <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Kaikki <span class=\"count\">(%s)</span>"
+msgstr[1] "Kaikki <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Asennettu, mutta ei otettu käyttöön"
+
+#: inc/plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Lisäosan etäpaketti ei sisällä kansiota tarvittavalla polkutunnuksella ja uudelleen nimeäminen ei onnistunut."
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Ota yhteyttä sivuston ylläpitäjään saadaksesi apua."
+
+#: inc/plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Yksi tai useampi vaadittu tai suositeltu lisäosa odottaa asennusta, päivitystä tai käyttöönottoa."
+
+#. translators: 1: dashboard link.
+#: inc/plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Kaikki lisäosat asennettu ja otettu käyttöön onnistuneesti. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Lisäosaa ei otettu käyttöön. Tähän teemaan tarvitaan lisäosan %s uudempi versio. Päivitä lisäosa."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Toimenpiteitä ei suoritettu. Lisäosa %1$s oli jo käytössä."
+
+#: inc/plugins/class-tgm-plugin-activation.php:388
+#: inc/plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Seuraava lisäosa otettiin käyttöön onnistuneesti:"
+msgstr[1] "Seuraavat lisäosat otettiin käyttöön onnistuneesti:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+#: inc/plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Lisäosa otettiin käyttöön onnistuneesti."
+
+#: inc/plugins/class-tgm-plugin-activation.php:386
+#: inc/plugins/class-tgm-plugin-activation.php:827
+#: inc/plugins/class-tgm-plugin-activation.php:2533
+#: inc/plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Palaa ohjauspaneeliin"
+
+#: inc/plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Aloita lisäosan käyttöönotto"
+msgstr[1] "Aloita lisäosien käyttöönotto"
+
+#: inc/helpers.php:3894
+msgid "Copyright [oceanwp_date] - OceanWP Theme by Nick"
+msgstr "Copyright [oceanwp_date] - OceanWP teeman tekijä Nick"
+
+#: inc/helpers.php:3080
+msgid "Social Share"
+msgstr "Some-jako"
+
+#: inc/helpers.php:2074
+msgid "Yearly Archives: %s"
+msgstr "Vuosittainen arkisto: %s"
+
+#: inc/oceanwp-strings.php:32 inc/oceanwp-strings.php:33
+msgid "Search"
+msgstr "Haku"
+
+#: inc/customizer/settings/woocommerce.php:5547
+msgid "Payment Box Background"
+msgstr "Maksulaatikon tausta"
+
+#: comments.php:41
+msgid "Logged in as"
+msgstr "Kirjautuneena käyttäjänä"
+
+#: inc/customizer/settings/typography.php:209
+msgid "Footer Widget Heading"
+msgstr "Alapalkin vimpainotsikko"
+
+#: inc/customizer/settings/typography.php:195
+msgid "Sidebar Widget Heading"
+msgstr "Sivupalkin vimpainotsikko"
+
+#: inc/third/class-gutenberg.php:99 inc/customizer/settings/typography.php:91
+msgid "Heading 4 (H4)"
+msgstr "Otsikko 4 (H4)"
+
+#: inc/third/class-gutenberg.php:90 inc/customizer/settings/typography.php:82
+msgid "Heading 3 (H3)"
+msgstr "Otsikko 3 (H3)"
+
+#: inc/third/class-gutenberg.php:81 inc/customizer/settings/typography.php:73
+msgid "Heading 2 (H2)"
+msgstr "Otsikko 2 (H2)"
+
+#: inc/third/class-gutenberg.php:72 inc/customizer/settings/typography.php:64
+msgid "Heading 1 (H1)"
+msgstr "Otsikko 1 (H1)"
+
+#: inc/third/class-gutenberg.php:63 inc/customizer/settings/typography.php:55
+msgid "All Headings"
+msgstr "Kaikki otsikot"
+
+#: inc/customizer/settings/topbar.php:366
+msgid "Enable Social"
+msgstr "Ota käyttöön some"
+
+#: inc/customizer/settings/topbar.php:352
+msgid "Social"
+msgstr "Some"
+
+#: inc/customizer/settings/header.php:3013
+msgid "Colored"
+msgstr "Värikäs"
+
+#: inc/customizer/settings/general.php:3658
+msgid "404 Error Page"
+msgstr "404 virhesivu"
+
+#: inc/customizer/settings/footer-widgets.php:132
+#: inc/customizer/settings/footer-widgets.php:162
+#: inc/customizer/settings/general.php:3687
+msgid "Off"
+msgstr "Ei käytössä"
+
+#: inc/customizer/settings/woocommerce.php:5531
+msgid "Payment Methods Borders Color"
+msgstr "Maksutavat reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:5515
+msgid "Payment Methods Background"
+msgstr "Maksutavat tausta"
+
+#: inc/customizer/settings/woocommerce.php:5499
+msgid "Table Borders Color"
+msgstr "Taulukon reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:5483
+msgid "Table Titles Color"
+msgstr "Taulukon otsikon väri"
+
+#: inc/customizer/settings/woocommerce.php:5467
+msgid "Table Main Background"
+msgstr "Päätaulukon tausta"
+
+#: inc/customizer/settings/edd.php:2810
+#: inc/customizer/settings/woocommerce.php:5435
+msgid "Titles Color"
+msgstr "Otsikoiden väri"
+
+#: inc/customizer/settings/edd.php:2835
+#: inc/customizer/settings/woocommerce.php:5451
+msgid "Titles Border Bottom Color"
+msgstr "Otsikoiden alareunan väri"
+
+#: inc/customizer/settings/woocommerce.php:5419
+msgid "Notices Form: Border Color"
+msgstr "Huomautuslomake: reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:5403
+msgid "Notices: Link Color: Hover"
+msgstr "Huomautukset: linkkien väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:5387
+msgid "Notices: Link Color"
+msgstr "Huomautukset: linkkien väri"
+
+#: inc/customizer/settings/woocommerce.php:5371
+msgid "Notices: Color"
+msgstr "Huomautukset: väri"
+
+#: inc/customizer/settings/woocommerce.php:5355
+msgid "Notices: Icon Color"
+msgstr "Huomautukset: kuvakkeen väri"
+
+#: inc/customizer/settings/woocommerce.php:5339
+msgid "Notices: Borders Color"
+msgstr "Huomautukset: reunan väri"
+
+#: inc/customizer/settings/edd.php:3035
+#: inc/customizer/settings/woocommerce.php:5310
+msgid "Remove Button Color: Hover"
+msgstr "Poistopainikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:3010
+#: inc/customizer/settings/woocommerce.php:5294
+msgid "Remove Button Color"
+msgstr "Poistopainikkeen väri"
+
+#: inc/customizer/settings/edd.php:2985
+#: inc/customizer/settings/woocommerce.php:5279
+msgid "Cart Totals Table: Titles Color"
+msgstr "Ostoskorin summataulukko: otsikoiden väri"
+
+#: inc/customizer/settings/edd.php:2935
+#: inc/customizer/settings/woocommerce.php:5247
+msgid "Head Background"
+msgstr "Pää tausta"
+
+#: inc/customizer/settings/edd.php:2960
+#: inc/customizer/settings/woocommerce.php:5263
+msgid "Head Titles Color"
+msgstr "Pää otsikoiden väri"
+
+#: inc/customizer/settings/woocommerce.php:5202
+msgid "Addresses: Box Button color: Hover"
+msgstr "Osoitteet: laatikkopainikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:5186
+msgid "Addresses: Box Button color"
+msgstr "Osoitteet: laatikkopainikkeen väri"
+
+#: inc/customizer/settings/woocommerce.php:5170
+msgid "Addresses: Box Button Background: Hover"
+msgstr "Osoitteet: laatikkopainikkeen tausta: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:5154
+msgid "Addresses: Box Button Background"
+msgstr "Osoitteet: laatikkopainikkeen tausta"
+
+#: inc/customizer/settings/woocommerce.php:5138
+msgid "Addresses: Box Content Color"
+msgstr "Osoitteet: laatikkosisällön väri"
+
+#: inc/customizer/settings/woocommerce.php:5122
+msgid "Addresses: Box Title Border Bottom Color"
+msgstr "Osoitteet: laatikko-otsikon alareunan väri"
+
+#: inc/customizer/settings/woocommerce.php:5106
+msgid "Addresses: Box Title Color"
+msgstr "Osoitteet: laatikko-otsikon väri"
+
+#: inc/customizer/settings/woocommerce.php:5090
+msgid "Addresses: Box Background"
+msgstr "Osoitteet: laatikkotausta"
+
+#: inc/customizer/settings/woocommerce.php:5074
+msgid "Navigation: Links Color: Hover"
+msgstr "Navigaatio: linkkien väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:5058
+msgid "Navigation: Links Color"
+msgstr "Navigaatio: linkkien väri"
+
+#: inc/customizer/settings/woocommerce.php:5042
+msgid "Navigation: Icons Color"
+msgstr "Navigaatio: kuvakkeiden väri"
+
+#: inc/customizer/settings/woocommerce.php:5026
+msgid "Navigation: Borders Color"
+msgstr "Navigaatio: reunojen väri"
+
+#: inc/customizer/settings/woocommerce.php:4995
+msgid "Account"
+msgstr "Tili"
+
+#: inc/customizer/settings/woocommerce.php:4981
+msgid "Product Description: Color"
+msgstr "Tuotekuvaus: väri"
+
+#: inc/customizer/settings/woocommerce.php:4965
+msgid "Product Description: Title Color"
+msgstr "Tuotekuvaus: otsikon väri"
+
+#: inc/customizer/settings/woocommerce.php:4949
+msgid "Active Text Borders Color"
+msgstr "Aktiivisen tekstin reunojen väri"
+
+#: inc/customizer/settings/woocommerce.php:4933
+msgid "Active Text Color"
+msgstr "Aktiivisen tekstin väri"
+
+#: inc/customizer/settings/woocommerce.php:4917
+msgid "Text Color: Hover"
+msgstr "Tekstin väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:4870
+msgid "Single Product: Tabs"
+msgstr "Yksittäinen tuote: välilehdet"
+
+#: inc/customizer/settings/lifterlms.php:1122
+#: inc/customizer/settings/woocommerce.php:4516
+msgid "Meta Link Color: Hover"
+msgstr "Metalinkin väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:4500
+msgid "Meta Link Color"
+msgstr "Meta-linkin väri"
+
+#: inc/customizer/settings/lifterlms.php:1091
+#: inc/customizer/settings/woocommerce.php:4484
+msgid "Meta Title Color"
+msgstr "Meta-otsikon väri"
+
+#: inc/customizer/settings/woocommerce.php:4468
+msgid "Quantity Plus/Minus Border Color: Hover"
+msgstr "Lukumäärän lisäys/vähennys reunan väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:4452
+msgid "Quantity Plus/Minus Color: Hover"
+msgstr "Lukumäärän lisäys/vähennys väri: osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:4436
+msgid "Quantity Plus/Minus Color"
+msgstr "Lukumäärän lisäys/vähennys väri"
+
+#: inc/customizer/settings/woocommerce.php:4404
+msgid "Quantity Border Color Focus"
+msgstr "Lukumäärän reunan väri kohdennettuna"
+
+#: inc/customizer/settings/woocommerce.php:4388
+msgid "Quantity Border Color"
+msgstr "Lukumäärän reunan väri"
+
+#: inc/customizer/settings/edd.php:2763 inc/customizer/settings/edd.php:2910
+#: inc/customizer/settings/lifterlms.php:1229
+#: inc/customizer/settings/woocommerce.php:4372
+msgid "Description Color"
+msgstr "Kuvauksen väri"
+
+#: inc/customizer/settings/edd.php:1427 inc/customizer/settings/edd.php:2714
+#: inc/customizer/settings/woocommerce.php:1864
+#: inc/customizer/settings/woocommerce.php:4309
+msgid "Single Product"
+msgstr "Yksittäinen tuote"
+
+#: inc/customizer/settings/edd.php:2606
+#: inc/customizer/settings/woocommerce.php:4035
+#: inc/customizer/settings/woocommerce.php:4798
+msgid "Add To Cart Border Color: Hover"
+msgstr "Lisää ostoskoriin reunan väri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:2581
+#: inc/customizer/settings/woocommerce.php:4019
+#: inc/customizer/settings/woocommerce.php:4783
+msgid "Add To Cart Border Color"
+msgstr "Lisää ostoskoriin reunan väri"
+
+#: inc/customizer/settings/edd.php:2556
+#: inc/customizer/settings/woocommerce.php:4003
+#: inc/customizer/settings/woocommerce.php:4768
+msgid "Add To Cart Color: Hover"
+msgstr "Lisää ostoskoriin väri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:2531
+#: inc/customizer/settings/woocommerce.php:3987
+#: inc/customizer/settings/woocommerce.php:4753
+msgid "Add To Cart Color"
+msgstr "Lisää ostoskoriin väri"
+
+#: inc/customizer/settings/woocommerce.php:3725
+#: inc/customizer/settings/woocommerce.php:4356
+msgid "Del Price Color"
+msgstr "Poista hinta väri"
+
+#: inc/customizer/settings/edd.php:2411
+#: inc/customizer/settings/lifterlms.php:999
+#: inc/customizer/settings/woocommerce.php:3693
+msgid "Title Color: Hover"
+msgstr "Otsikon väri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:2386 inc/customizer/settings/edd.php:2738
+#: inc/customizer/settings/lifterlms.php:984
+#: inc/customizer/settings/lifterlms.php:1059
+#: inc/customizer/settings/lifterlms.php:1213
+#: inc/customizer/settings/woocommerce.php:1086
+#: inc/customizer/settings/woocommerce.php:2493
+#: inc/customizer/settings/woocommerce.php:3677
+#: inc/customizer/settings/woocommerce.php:4324
+msgid "Title Color"
+msgstr "Otsikon väri"
+
+#: inc/customizer/settings/edd.php:2361
+#: inc/customizer/settings/woocommerce.php:3661
+msgid "Category Color: Hover"
+msgstr "Kategorian väri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:2336 inc/customizer/settings/blog.php:558
+#: inc/customizer/settings/woocommerce.php:3645
+msgid "Category Color"
+msgstr "Kategorian väri"
+
+#: inc/customizer/settings/edd.php:1745
+#: inc/customizer/settings/woocommerce.php:3285
+msgid "Product Entry"
+msgstr "Tuotemerkintä"
+
+#: inc/customizer/settings/woocommerce.php:3271
+msgid "Number of Products Border Color"
+msgstr "Tuotteiden lukumäärän reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:3255
+msgid "Number of Products Inactive Color"
+msgstr "Epäaktiivisen tuotteiden lukumäärän väri"
+
+#: inc/customizer/settings/woocommerce.php:3239
+msgid "Number of Products Color"
+msgstr "Tuotteiden lukumäärän väri"
+
+#: inc/customizer/settings/woocommerce.php:3223
+msgid "Select Border Color"
+msgstr "Valitse reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:3207
+msgid "Select Color"
+msgstr "Valitse väri"
+
+#: inc/customizer/settings/woocommerce.php:3191
+msgid "Grid/List Active Color"
+msgstr "Ruudukko/luettelo aktiivinen väri"
+
+#: inc/customizer/settings/woocommerce.php:3175
+msgid "Grid/List Hover Color"
+msgstr "Ruudukko/luettelo väri osoitettaessa"
+
+#: inc/customizer/settings/woocommerce.php:3159
+msgid "Grid/List Border Color"
+msgstr "Ruudukko/luettelo reunan väri"
+
+#: inc/customizer/settings/woocommerce.php:3143
+msgid "Grid/List Color"
+msgstr "Ruudukon/luettelon väri"
+
+#: inc/customizer/settings/woocommerce.php:3063
+msgid "Border Top/Bottom Color"
+msgstr "Ylä-/alareunan väri"
+
+#: inc/customizer/settings/woocommerce.php:3048
+msgid "Product Entry: Toolbar"
+msgstr "Tuotemerkintä: työkalupalkki"
+
+#: inc/customizer/settings/woocommerce.php:3034
+msgid "Stars Color"
+msgstr "Tähtien väri"
+
+#: inc/customizer/settings/woocommerce.php:3018
+msgid "Stars Color Before"
+msgstr "Tähtien väri ennen"
+
+#: inc/customizer/settings/woocommerce.php:2986
+msgid "Out of Stock Background"
+msgstr "Loppu varastosta -tausta"
+
+#: inc/customizer/settings/woocommerce.php:3002
+msgid "Out of Stock Color"
+msgstr "Loppu varastosta -väri"
+
+#: inc/customizer/settings/woocommerce.php:2970
+msgid "On Sale Color"
+msgstr "Tarjouksessa-väri"
+
+#: inc/customizer/settings/woocommerce.php:2954
+msgid "On Sale Background"
+msgstr "Tarjouksessa-tausta"
+
+#: inc/customizer/settings/learndash.php:640
+#: inc/customizer/settings/edd.php:1724
+#: inc/customizer/settings/lifterlms.php:609
+#: inc/customizer/settings/woocommerce.php:2939
+msgid "Advanced Styling"
+msgstr "Edistyneet tyyliasetukset"
+
+#: inc/customizer/settings/woocommerce.php:2422
+msgid "Related Products Columns"
+msgstr "Liittyvät tuotteet -sarakkeet"
+
+#: inc/customizer/settings/woocommerce.php:2402
+msgid "Related Items Count"
+msgstr "Liittyvien kohteiden lukumäärä"
+
+#: inc/customizer/settings/woocommerce.php:2018
+msgid "Product Meta"
+msgstr "Tuotteen metatiedot"
+
+#: inc/customizer/settings/woocommerce.php:2017
+msgid "Quantity & Add To Cart"
+msgstr "Lukumäärä ja lisää koriin"
+
+#: inc/customizer/settings/woocommerce.php:2016
+msgid "Excerpt"
+msgstr "Ote"
+
+#: inc/customizer/settings/edd.php:1269
+#: inc/customizer/settings/woocommerce.php:1526
+#: inc/customizer/settings/woocommerce.php:2015
+msgid "Price"
+msgstr "Hinta"
+
+#: inc/customizer/settings/woocommerce.php:2014
+msgid "Rating"
+msgstr "Arvostelu"
+
+#: inc/helpers.php:2990 inc/helpers.php:3075
+#: inc/customizer/settings/lifterlms.php:209
+#: inc/customizer/settings/lifterlms.php:240
+#: inc/customizer/settings/woocommerce.php:1549
+msgid "Featured Image"
+msgstr "Korostettu kuva"
+
+#: inc/customizer/settings/woocommerce.php:1543
+msgid "Product Entry Media"
+msgstr "Tuotemerkinnän media"
+
+#: inc/customizer/settings/edd.php:1271
+#: inc/customizer/settings/woocommerce.php:1529
+msgid "Add To Cart Button"
+msgstr "Lisää ostoskoriin -painike"
+
+#: inc/customizer/settings/edd.php:1270
+#: inc/customizer/settings/lifterlms.php:210
+msgid "Description"
+msgstr "Kuvaus"
+
+#: inc/helpers.php:2991 inc/helpers.php:3076
+#: inc/customizer/settings/edd.php:1268
+#: inc/customizer/settings/woocommerce.php:1525
+#: inc/customizer/settings/woocommerce.php:2013
+msgid "Title"
+msgstr "Otsikko"
+
+#: inc/customizer/settings/edd.php:1267 inc/customizer/settings/edd.php:1652
+#: inc/customizer/settings/blog.php:1558 inc/customizer/settings/blog.php:1645
+#: inc/customizer/settings/general.php:2186
+#: inc/customizer/settings/general.php:2217
+#: inc/customizer/settings/general.php:2251
+#: inc/customizer/settings/woocommerce.php:1524
+msgid "Category"
+msgstr "Kategoria"
+
+#: inc/customizer/settings/edd.php:1238
+#: inc/customizer/settings/woocommerce.php:1484
+msgid "Products"
+msgstr "Tuotteet"
+
+#: inc/customizer/settings/woocommerce.php:1372
+msgid "Shop Result Count"
+msgstr "Kaupan tulosten lukumäärä"
+
+#: inc/customizer/settings/woocommerce.php:1356
+msgid "Shop Sort"
+msgstr "Kaupan lajittelu"
+
+#: inc/customizer/settings/woocommerce.php:1320
+msgid "List View"
+msgstr "Listanäkymä"
+
+#: inc/customizer/settings/woocommerce.php:1319
+msgid "Grid View"
+msgstr "Ruudukkonäkymä"
+
+#: inc/customizer/settings/woocommerce.php:1313
+msgid "Default Catalog View"
+msgstr "Katalogin oletusnäkymä"
+
+#: inc/customizer/settings/woocommerce.php:1283
+msgid "Toolbar"
+msgstr "Työkalupalkki"
+
+#: inc/customizer/settings/edd.php:1206
+#: inc/customizer/settings/woocommerce.php:1260
+msgid "Shop Columns"
+msgstr "Kaupan sarakkeet"
+
+#: inc/customizer/settings/edd.php:1005
+#: inc/customizer/settings/woocommerce.php:1025
+msgid "Checkout Button Color: Hover"
+msgstr "Kassan painikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:981
+#: inc/customizer/settings/woocommerce.php:1010
+msgid "Checkout Button Color"
+msgstr "Kassan painikkeen väri"
+
+#: inc/customizer/settings/edd.php:957
+#: inc/customizer/settings/woocommerce.php:995
+msgid "Checkout Button Background: Hover"
+msgstr "Kassan painikkeen tausta: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:933
+#: inc/customizer/settings/woocommerce.php:980
+msgid "Checkout Button Background"
+msgstr "Kassan painikkeen tausta:"
+
+#: inc/customizer/settings/edd.php:884
+#: inc/customizer/settings/woocommerce.php:843
+#: inc/customizer/settings/woocommerce.php:859
+msgid "Subtotal Color"
+msgstr "Välisumman väri"
+
+#: inc/customizer/settings/edd.php:759 inc/customizer/settings/edd.php:2436
+#: inc/customizer/settings/woocommerce.php:827
+#: inc/customizer/settings/woocommerce.php:2510
+#: inc/customizer/settings/woocommerce.php:3709
+#: inc/customizer/settings/woocommerce.php:4340
+msgid "Price Color"
+msgstr "Hinnan väri"
+
+#: inc/customizer/settings/woocommerce.php:811
+#: inc/customizer/settings/woocommerce.php:4420
+msgid "Quantity Color"
+msgstr "Lukumäärän väri"
+
+#: inc/customizer/settings/edd.php:710
+#: inc/customizer/settings/woocommerce.php:731
+msgid "Dropdown Borders Color"
+msgstr "Pudotusvalikon reunan väri"
+
+#: inc/customizer/settings/edd.php:655
+#: inc/customizer/settings/woocommerce.php:694
+msgid "Cart Dropdowns Width (px)"
+msgstr "Ostoskorin pudotusvalikon leveys (px)"
+
+#: inc/customizer/settings/edd.php:601
+#: inc/customizer/settings/woocommerce.php:658
+msgid "Cart Dropdown Styling"
+msgstr "Ostoskorin pudotusvalikon tyyli"
+
+#: inc/customizer/settings/edd.php:568
+#: inc/customizer/settings/woocommerce.php:634
+msgid "Use this field to center your icon vertically"
+msgstr "Käytä tätä kenttää keskittääksesi kuvakkeesi pystysuoraan"
+
+#: inc/customizer/settings/edd.php:567
+#: inc/customizer/settings/woocommerce.php:633
+msgid "Center Vertically"
+msgstr "Keskitä pystysuoraan"
+
+#: inc/customizer/settings/edd.php:477
+#: inc/customizer/settings/woocommerce.php:573
+msgid "Enter your full icon class"
+msgstr "Kirjoita kuvakkeesi täysi luokka"
+
+#: inc/customizer/settings/edd.php:476
+#: inc/customizer/settings/woocommerce.php:572
+msgid "Custom Icon"
+msgstr "Mukautettu kuvake"
+
+#: inc/customizer/settings/edd.php:450
+#: inc/customizer/settings/woocommerce.php:555
+msgid "Cart Icon"
+msgstr "Ostoskorin kuvake"
+
+#: inc/customizer/settings/edd.php:401 inc/customizer/settings/edd.php:423
+#: inc/customizer/settings/woocommerce.php:524
+#: inc/customizer/settings/woocommerce.php:537
+msgid "Custom Link"
+msgstr "Mukautettu linkki"
+
+#: inc/customizer/settings/edd.php:400
+#: inc/customizer/settings/woocommerce.php:523
+msgid "Go To Cart"
+msgstr "Siirry ostoskoriin"
+
+#: inc/customizer/settings/edd.php:399
+#: inc/customizer/settings/woocommerce.php:522
+msgid "Drop-Down"
+msgstr "Pudotusvalikko"
+
+#: inc/customizer/settings/edd.php:369
+#: inc/customizer/settings/woocommerce.php:501
+msgid "Icon And Cart Count + Total"
+msgstr "Kuvake ja ostoskorin lukumäärä + kokonaismäärä"
+
+#: inc/customizer/settings/edd.php:368
+#: inc/customizer/settings/woocommerce.php:500
+msgid "Icon And Cart Count"
+msgstr "Kuvake ja ostoskorin lukumäärä"
+
+#: inc/customizer/settings/edd.php:367
+#: inc/customizer/settings/woocommerce.php:499
+msgid "Icon And Cart Total"
+msgstr "Kuvake ja ostoskorin kokonaismäärä"
+
+#: inc/customizer/settings/edd.php:360
+#: inc/customizer/settings/woocommerce.php:492
+msgid "Display"
+msgstr "Näytä"
+
+#: inc/customizer/settings/edd.php:147
+#: inc/customizer/settings/woocommerce.php:334
+msgid "Hide If Empty Cart"
+msgstr "Piilota, jos ostoskori on tyhjä"
+
+#: inc/third/class-gutenberg.php:108 inc/customizer/settings/typography.php:185
+msgid "Blog Post Title"
+msgstr "Blogi-artikkelin otsikko"
+
+#: inc/customizer/settings/typography.php:176
+msgid "Blog Entry Title"
+msgstr "Blogi-merkinnän otsikko"
+
+#: inc/customizer/settings/typography.php:157
+msgid "Page Title Subheading"
+msgstr "Sivun otsikon alaotsikko"
+
+#: inc/customizer/settings/typography.php:128
+msgid "Main Menu: Dropdowns"
+msgstr "Päävalikko: pudotusvalikot"
+
+#: inc/customizer/settings/typography.php:119
+msgid "Main Menu"
+msgstr "Päävalikko"
+
+#: inc/customizer/settings/topbar.php:529
+msgid "Social Links Color: Hover"
+msgstr "Somelinkkien väri: osoitettaessa"
+
+#: inc/customizer/settings/topbar.php:513
+msgid "Social Links Color"
+msgstr "Somelinkkien väri"
+
+#: inc/customizer/settings/topbar.php:383
+msgid "Social Alternative"
+msgstr "Vaihtoehtoinen some"
+
+#: inc/customizer/settings/topbar.php:129
+msgid "Centered Content & Social"
+msgstr "Keskitetty sisältö ja some"
+
+#: inc/customizer/settings/topbar.php:128
+msgid "Left Social & Right Content"
+msgstr "Some vasemmalla ja sisältö oikealla"
+
+#: inc/customizer/settings/topbar.php:127
+msgid "Left Content & Right Social"
+msgstr "Sisältö vasemmalla ja some oikealla"
+
+#: inc/customizer/settings/topbar.php:79
+msgid "Top Bar Full Width"
+msgstr "Yläpalkki täysi leveys"
+
+#: inc/customizer/settings/topbar.php:62
+msgid "Enable Top Bar"
+msgstr "Ota käyttöön yläpalkki"
+
+#: inc/customizer/settings/sidebar.php:336
+msgid "Titles Margin Bottom (px)"
+msgstr "Otsikoiden alamarginaali (px)"
+
+#: inc/customizer/settings/sidebar.php:320
+msgid "Titles Border Color"
+msgstr "Otsikoiden reunan väri"
+
+#: inc/customizer/settings/sidebar.php:298
+msgid "Margin Bottom (px)"
+msgstr "Alamarginaali (px)"
+
+#: inc/customizer/settings/header.php:4021
+msgid "Searchbar Button Color: Hover"
+msgstr "Hakupalkin painikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:4004
+msgid "Searchbar Button Color"
+msgstr "Hakupalkin painikkeen väri"
+
+#: inc/customizer/settings/header.php:3988
+msgid "Searchbar Border Color: Focus"
+msgstr "Hakupalkin reunan väri: kohdennettuna"
+
+#: inc/customizer/settings/header.php:3955
+msgid "Searchbar Border Color"
+msgstr "Hakupalkin reunan väri"
+
+#: inc/customizer/settings/header.php:3939
+msgid "Searchbar Color"
+msgstr "Hakupalkin väri"
+
+#: inc/customizer/settings/header.php:3922
+msgid "Searchbar Background"
+msgstr "Hakupalkin tausta"
+
+#: inc/customizer/settings/header.php:3907
+msgid "Dropdowns Menus: Background"
+msgstr "Pudotusvalikot: tausta"
+
+#: inc/customizer/settings/header.php:3775
+msgid "Close Button Background"
+msgstr "Sulkupainikkeen tausta"
+
+#: inc/customizer/settings/header.php:1623
+#: inc/customizer/settings/header.php:3724
+msgid "Dropdown Target"
+msgstr "Pudotusvalikon kohde"
+
+#: inc/customizer/settings/header.php:3707
+msgid "Close Menu Button Text"
+msgstr "Sulje valikko -painikkeen teksti"
+
+#: inc/customizer/settings/header.php:3688
+msgid "Close Menu Button Icon Class"
+msgstr "Sulje valikko -painikkeen kuvakkeen luokka"
+
+#: inc/customizer/settings/header.php:3653
+msgid "Displace"
+msgstr "Siirrä paikaltaan"
+
+#: inc/customizer/settings/header.php:3547
+#: inc/customizer/settings/header.php:3689
+msgid "Enter the full icon class"
+msgstr "Kirjoita kuvakkeen täysi luokka"
+
+#: inc/customizer/settings/header.php:3546
+msgid "Hamburger Icon Class"
+msgstr "Hampurilaiskuvakkeen luokka"
+
+#: inc/customizer/settings/header.php:3511
+msgid "Menu Text"
+msgstr "Valikkoteksti"
+
+#: inc/customizer/settings/header.php:3494
+msgid "Display Menu Text"
+msgstr "Näytä valikkoteksti"
+
+#: partials/mobile/mobile-icon.php:93
+#: inc/customizer/settings/typography.php:138
+#: inc/customizer/settings/header.php:3319
+#: inc/customizer/settings/header.php:3596
+msgid "Mobile Menu"
+msgstr "Mobiilivalikko"
+
+#: inc/customizer/settings/header.php:3037
+#: inc/customizer/settings/topbar.php:411
+msgid "Same Window"
+msgstr "Sama ikkuna"
+
+#: inc/customizer/settings/header.php:3036
+#: inc/customizer/settings/topbar.php:410
+msgid "New Window"
+msgstr "Uusi ikkuna"
+
+#: inc/customizer/settings/header.php:3029
+#: inc/customizer/settings/topbar.php:403
+msgid "Social Link Target"
+msgstr "Somelinkkien kohde"
+
+#: inc/customizer/settings/header.php:3005
+msgid "Social Link Style"
+msgstr "Somelinkkien tyyli"
+
+#: inc/customizer/settings/header.php:2946
+msgid "Posts Date: Color"
+msgstr "Artikkelien päivämäärä: väri"
+
+#: inc/customizer/settings/header.php:2930
+msgid "Posts Links Hover: Color"
+msgstr "Artikkelien päivämäärä osoitettaessa: väri"
+
+#: inc/customizer/settings/header.php:2914
+msgid "Posts Links: Color"
+msgstr "Artikkelien linkit: väri"
+
+#: inc/customizer/settings/header.php:2898
+msgid "Category Title: Color"
+msgstr "Kategorian otsikko: väri"
+
+#: inc/customizer/settings/header.php:2882
+msgid "Category Title: Background"
+msgstr "Kategorian otsikko: tausta"
+
+#: inc/customizer/settings/header.php:2852
+#: inc/customizer/settings/woocommerce.php:1070
+#: inc/customizer/settings/woocommerce.php:1452
+msgid "Close Button Color"
+msgstr "Sulkemispainikkeen väri"
+
+#: inc/customizer/settings/header.php:2652
+msgid "Overlay"
+msgstr "Peitto"
+
+#: inc/customizer/settings/header.php:2651
+msgid "Header Replace"
+msgstr "Otsakkeen korvaus"
+
+#: inc/customizer/settings/header.php:2643
+msgid "Search Icon Style"
+msgstr "Hakukuvakkeen tyyli"
+
+#: inc/customizer/settings/header.php:2629
+msgid "Search Icon"
+msgstr "Hakukuvake"
+
+#: inc/customizer/settings/header.php:2519
+msgid "Top Border Color"
+msgstr "Yläreunan väri"
+
+#: inc/customizer/settings/header.php:1454
+#: inc/customizer/settings/header.php:2482
+msgid "Width (px)"
+msgstr "Leveys (px)"
+
+#: inc/customizer/settings/header.php:2467
+msgid "Dropdowns Styling"
+msgstr "Pudotusvalikon tyyli"
+
+#: inc/customizer/settings/header.php:2453
+#: inc/customizer/settings/header.php:2613
+msgid "Link Background: Current Menu Item"
+msgstr "Linkkien tausta: Nykyinen valikon kohde"
+
+#: inc/customizer/settings/header.php:2438
+#: inc/customizer/settings/header.php:2583
+msgid "Link Background: Hover"
+msgstr "Linkkien tausta: osoitettaessa"
+
+#: inc/customizer/settings/header.php:2423
+msgid "Link Background"
+msgstr "Linkkien tausta"
+
+#: inc/customizer/settings/header.php:2408
+#: inc/customizer/settings/header.php:2598
+msgid "Link Color: Current Menu Item"
+msgstr "Linkkien väri: Nykyinen valikon kohde"
+
+#: inc/customizer/settings/header.php:2354
+msgid "Left/Right Padding (px)"
+msgstr "Vasen/oikea reunatäyte (px)"
+
+#: inc/customizer/settings/header.php:2339
+msgid "Main Styling"
+msgstr "Päätyyli"
+
+#: inc/customizer/settings/header.php:2239
+msgid "Dropdown Top Border"
+msgstr "Pudotusvalikon yläreuna"
+
+#: inc/customizer/settings/header.php:2222
+msgid "Second+ Level Dropdown Icon"
+msgstr "Toisen+ tason pudotusvalikon kuvake"
+
+#: inc/customizer/settings/header.php:2206
+msgid "Top Level Dropdown Icon"
+msgstr "Ensimmäisen tason pudotusvalikon kuvake"
+
+#: inc/customizer/settings/header.php:2086
+msgid "Max Width (px)"
+msgstr "Maksimileveys (px)"
+
+#: inc/customizer/settings/header.php:1924
+msgid "Header Media"
+msgstr "Otsakkeen media"
+
+#: inc/customizer/settings/header.php:1291
+msgid "Button Hover Color"
+msgstr "Painikeen väri osoitettaessa"
+
+#: inc/customizer/settings/header.php:1274
+#: inc/customizer/settings/header.php:1896
+msgid "Button Color"
+msgstr "Painikkeen väri"
+
+#: inc/customizer/settings/header.php:1257
+msgid "Placeholder Color"
+msgstr "Paikkamerkin väri"
+
+#: inc/customizer/settings/header.php:1223
+#: inc/customizer/settings/header.php:2665
+msgid "Input Background Color"
+msgstr "Syötä taustaväri"
+
+#: inc/customizer/settings/header.php:1163
+msgid "Menu Items Padding (px)"
+msgstr "Valikkokohteiden reunatäyte (px)"
+
+#: partials/mobile/mobile-icon.php:40 inc/helpers.php:3891
+#: inc/customizer/settings/header.php:1080
+#: inc/customizer/settings/header.php:2174
+#: inc/customizer/settings/header.php:3505
+msgid "Menu"
+msgstr "Valikko"
+
+#: inc/customizer/settings/header.php:1052
+msgid "Sticky Padding (px)"
+msgstr "Kiinnitetty reunatäyte (px)"
+
+#: inc/customizer/settings/header.php:960
+#: inc/customizer/settings/header.php:1207
+#: inc/customizer/settings/header.php:1744
+msgid "Search Form"
+msgstr "Hakulomake"
+
+#: inc/customizer/settings/header.php:923
+msgid "Top Header"
+msgstr "Yläotsake"
+
+#: inc/customizer/settings/header.php:890
+msgid "Hide Menu When Scrolling"
+msgstr "Piilota valikko vierittäessä"
+
+#: inc/customizer/settings/header.php:686
+msgid "Search Styling"
+msgstr "Haun tyyli"
+
+#: inc/customizer/settings/header.php:671
+msgid "Links Hover Color"
+msgstr "Linkkien väri osoitettaessa"
+
+#: inc/customizer/settings/header.php:637
+msgid "Links Hover Background Color"
+msgstr "Linkkien taustaväri osoitettaessa"
+
+#: inc/customizer/settings/header.php:621
+#: inc/customizer/settings/header.php:3874
+msgid "Links Background Color"
+msgstr "Linkkien taustaväri"
+
+#: inc/customizer/settings/header.php:555
+msgid "Styling"
+msgstr "Tyyli"
+
+#: inc/customizer/settings/header.php:523
+msgid "Select a custom logo when the menu is opened."
+msgstr "Valitse mukautettu logo, kun valikko avataan."
+
+#: inc/customizer/settings/header.php:522
+#: inc/customizer/settings/header.php:3401
+msgid "Logo (optional)"
+msgstr "Logo (valinnainen)"
+
+#: inc/customizer/settings/header.php:475
+msgid "Search Button Color: Hover"
+msgstr "Hakupainikkeen väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:458
+msgid "Search Button Color"
+msgstr "Hakupainikkeen väri"
+
+#: inc/customizer/settings/header.php:441
+msgid "Search Button Border Color"
+msgstr "Hakupainikkeen reunan väri"
+
+#: inc/customizer/settings/header.php:424
+msgid "Menu Background Color"
+msgstr "Valikon taustaväri"
+
+#: inc/customizer/settings/header.php:410
+msgid "After The Logo"
+msgstr "Logon jälkeen"
+
+#: inc/customizer/settings/header.php:409
+msgid "Before The Logo"
+msgstr "Ennen logoa"
+
+#: inc/customizer/settings/header.php:2061
+msgid "Retina Logo"
+msgstr "Retina-logo"
+
+#: inc/customizer/settings/typography.php:100
+#: inc/customizer/settings/header.php:961
+#: inc/customizer/settings/header.php:2047
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/settings/header.php:242
+msgid "Border Bottom Color"
+msgstr "Alareunan väri"
+
+#: inc/customizer/settings/header.php:208
+msgid "Header Border Bottom"
+msgstr "Otsakkeen alareuna"
+
+#: inc/customizer/settings/header.php:190
+msgid "Header Full Width"
+msgstr "Täyden leveyden otsake"
+
+#: inc/customizer/settings/header.php:128
+#: inc/customizer/settings/footer-widgets.php:300
+msgid "Add Container"
+msgstr "Lisää säiliö"
+
+#: inc/customizer/settings/header.php:93
+msgid "Custom Header"
+msgstr "Mukautettu otsake"
+
+#: inc/third/class-lifterlms.php:312 inc/customizer/settings/header.php:89
+#: inc/customizer/settings/header.php:3481
+msgid "Full Screen"
+msgstr "Koko näyttö"
+
+#: inc/customizer/settings/header.php:88
+msgid "Top Menu"
+msgstr "Ylävalikko"
+
+#: inc/customizer/settings/header.php:1879
+#: inc/customizer/settings/general.php:3328
+msgid "Border Color: Focus"
+msgstr "Reunan väri: kohdennettuna"
+
+#: inc/customizer/settings/edd.php:2885
+#: inc/customizer/settings/general.php:2968
+msgid "Label Color"
+msgstr "Tunnuksen väri"
+
+#: inc/customizer/settings/header.php:1863
+#: inc/customizer/settings/general.php:2931
+#: inc/customizer/settings/woocommerce.php:4695
+msgid "Border Color: Hover"
+msgstr "Reunan väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:1847
+#: inc/customizer/settings/topbar.php:244 inc/customizer/settings/edd.php:2311
+#: inc/customizer/settings/lifterlms.php:969
+#: inc/customizer/settings/general.php:2906
+#: inc/customizer/settings/general.php:3303
+#: inc/customizer/settings/woocommerce.php:3629
+#: inc/customizer/settings/woocommerce.php:4679
+msgid "Border Color"
+msgstr "Reunan väri"
+
+#: inc/customizer/settings/edd.php:2115
+#: inc/customizer/settings/lifterlms.php:841
+#: inc/customizer/settings/general.php:2777
+#: inc/customizer/settings/general.php:3230
+#: inc/customizer/settings/woocommerce.php:3502
+msgid "Border Width (px)"
+msgstr "Reunan leveys (px)"
+
+#: inc/customizer/settings/general.php:2626
+#: inc/customizer/settings/general.php:2831
+#: inc/customizer/settings/general.php:3594
+#: inc/customizer/settings/woocommerce.php:4631
+msgid "Background Color: Hover"
+msgstr "Taustaväri: osoitettaessa"
+
+#: inc/customizer/settings/edd.php:2245
+#: inc/customizer/settings/lifterlms.php:920
+#: inc/customizer/settings/general.php:2569
+#: inc/customizer/settings/general.php:3273
+#: inc/customizer/settings/general.php:3539
+#: inc/customizer/settings/woocommerce.php:3581
+#: inc/customizer/settings/woocommerce.php:4595
+msgid "Border Radius (px)"
+msgstr "Reunan säde (px)"
+
+#: inc/customizer/settings/edd.php:518 inc/customizer/settings/general.php:2538
+#: inc/customizer/settings/woocommerce.php:599
+msgid "Icon Size (px)"
+msgstr "Kuvakkeen koko (px)"
+
+#: inc/customizer/settings/general.php:2507
+msgid "Button Size (px)"
+msgstr "Painikkeen koko (px)"
+
+#: inc/customizer/settings/general.php:2419
+msgid "Arrow Icon"
+msgstr "Nuolikuvake"
+
+#: inc/customizer/settings/general.php:2393
+msgid "Scroll Up Button"
+msgstr "Vieritä ylös -painike"
+
+#: inc/customizer/settings/general.php:2371
+msgid "Scroll To Top"
+msgstr "Vieritä sivun alkuun"
+
+#: inc/customizer/settings/header.php:2392
+#: inc/customizer/settings/header.php:2567
+#: inc/customizer/settings/topbar.php:295
+#: inc/customizer/settings/general.php:2356
+#: inc/customizer/settings/woocommerce.php:763
+msgid "Link Color: Hover"
+msgstr "Linkin väri: osoitettaessa"
+
+#: inc/customizer/settings/general.php:2304
+msgid "Separator Color"
+msgstr "Erottimen väri"
+
+#: inc/customizer/settings/general.php:697
+msgid "Main Container Width (px)"
+msgstr "Pääsäiliön leveys (px)"
+
+#: inc/customizer/settings/general.php:615
+msgid "Inner Background"
+msgstr "Sisempi tausta"
+
+#: inc/customizer/settings/general.php:563
+#: inc/customizer/settings/general.php:589
+msgid "Outside Background"
+msgstr "Ulompi tausta"
+
+#: inc/customizer/settings/general.php:475
+msgid "Layout Style"
+msgstr "Asettelun tyyli"
+
+#: inc/customizer/settings/header.php:3459
+#: inc/customizer/settings/general.php:453
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: inc/customizer/settings/header.php:2163
+#: inc/customizer/settings/general.php:439
+#: inc/customizer/settings/general.php:2678
+#: inc/customizer/settings/general.php:2881
+#: inc/customizer/settings/general.php:3644
+#: inc/customizer/settings/woocommerce.php:4663
+msgid "Color: Hover"
+msgstr "Väri: osoitettaessa"
+
+#: inc/customizer/settings/header.php:1830
+#: inc/customizer/settings/header.php:2146
+#: inc/customizer/settings/general.php:414
+#: inc/customizer/settings/general.php:2652
+#: inc/customizer/settings/general.php:2856
+#: inc/customizer/settings/general.php:3377
+#: inc/customizer/settings/general.php:3619
+#: inc/customizer/settings/woocommerce.php:4647
+msgid "Color"
+msgstr "Väri"
+
+#: inc/customizer/settings/general.php:229
+#: inc/customizer/settings/general.php:1515
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: inc/customizer/settings/general.php:181
+msgid "Site Background"
+msgstr "Sivuston tausta"
+
+#: inc/customizer/settings/general.php:158
+msgid "Main Border Color"
+msgstr "Reunan pääväri"
+
+#: inc/customizer/settings/general.php:133
+msgid "Hover Primary Color"
+msgstr "Pääväri osoitettaessa"
+
+#: inc/customizer/settings/general.php:108
+msgid "Primary Color"
+msgstr "Pääväri"
+
+#: inc/customizer/settings/general.php:57
+msgid "General Styling"
+msgstr "Yleinen tyyli"
+
+#: inc/customizer/settings/header.php:2535
+#: inc/customizer/settings/header.php:3826
+#: inc/customizer/settings/footer-widgets.php:505
+#: inc/customizer/settings/edd.php:2860
+#: inc/customizer/settings/woocommerce.php:4885
+#: inc/customizer/settings/woocommerce.php:5231
+msgid "Borders Color"
+msgstr "Reunojen väri"
+
+#: inc/customizer/settings/footer-widgets.php:229
+msgid "Columns"
+msgstr "Sarakkeet"
+
+#: inc/customizer/settings/footer-widgets.php:125
+msgid "Fixed Footer"
+msgstr "Kiinnitetty alapalkki"
+
+#: inc/customizer/settings/footer-widgets.php:67
+msgid "Enable Footer Widgets"
+msgstr "Ota käyttöön alapalkin vimpaimet"
+
+#: inc/customizer/settings/footer-widgets.php:46
+msgid "Footer Widgets"
+msgstr "Alapalkin vimpaimet"
+
+#: inc/customizer/settings/footer-bottom.php:358
+#: inc/customizer/settings/header.php:3859
+#: inc/customizer/settings/footer-widgets.php:557
+msgid "Links Color: Hover"
+msgstr "Linkkien väri: osoitettaessa"
+
+#: inc/customizer/settings/footer-bottom.php:332
+#: inc/customizer/settings/header.php:654
+#: inc/customizer/settings/header.php:3843
+#: inc/customizer/settings/footer-widgets.php:531
+#: inc/customizer/settings/general.php:390
+msgid "Links Color"
+msgstr "Linkkien väri"
+
+#: inc/customizer/settings/footer-bottom.php:306
+#: inc/customizer/settings/topbar.php:261
+#: inc/customizer/settings/footer-widgets.php:479
+#: inc/customizer/settings/general.php:1920
+#: inc/customizer/settings/general.php:2278
+#: inc/customizer/settings/woocommerce.php:4901
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#: inc/customizer/settings/footer-bottom.php:236
+#: inc/customizer/settings/header.php:307
+#: inc/customizer/settings/header.php:1000
+#: inc/customizer/settings/header.php:3131
+#: inc/customizer/settings/topbar.php:192
+#: inc/customizer/settings/topbar.php:484
+#: inc/customizer/settings/footer-widgets.php:409
+#: inc/customizer/settings/edd.php:1856
+#: inc/customizer/settings/lifterlms.php:684
+#: inc/customizer/settings/general.php:1858
+#: inc/customizer/settings/general.php:3075
+#: inc/customizer/settings/general.php:3496
+#: inc/customizer/settings/woocommerce.php:3345
+#: inc/customizer/settings/sidebar.php:118
+#: inc/customizer/settings/sidebar.php:265
+msgid "Padding (px)"
+msgstr "Reunatäyte (px)"
+
+#: inc/customizer/settings/footer-bottom.php:126
+msgid "Copyright"
+msgstr "Tekijänoikeus"
+
+#: inc/customizer/settings/footer-bottom.php:103
+#: inc/customizer/settings/topbar.php:107
+#: inc/customizer/settings/footer-widgets.php:103
+#: inc/customizer/settings/general.php:1447
+msgid "Hide On Tablet & Mobile"
+msgstr "Piilota tableteilla ja mobiililaitteilla"
+
+#: inc/customizer/settings/footer-bottom.php:102
+#: inc/customizer/settings/topbar.php:106
+#: inc/customizer/settings/footer-widgets.php:102
+#: inc/customizer/settings/general.php:1446
+msgid "Hide On Mobile"
+msgstr "Piilota mobiililaitteilla"
+
+#: inc/customizer/settings/footer-bottom.php:280
+#: inc/customizer/settings/header.php:225
+#: inc/customizer/settings/header.php:372
+#: inc/customizer/settings/header.php:605
+#: inc/customizer/settings/header.php:939
+#: inc/customizer/settings/header.php:1192
+#: inc/customizer/settings/header.php:1813
+#: inc/customizer/settings/header.php:2503
+#: inc/customizer/settings/header.php:3792
+#: inc/customizer/settings/header.php:3809
+#: inc/customizer/settings/topbar.php:227
+#: inc/customizer/settings/footer-widgets.php:453
+#: inc/customizer/settings/edd.php:2287
+#: inc/customizer/settings/lifterlms.php:954
+#: inc/customizer/settings/general.php:205
+#: inc/customizer/settings/general.php:1895
+#: inc/customizer/settings/general.php:2600
+#: inc/customizer/settings/general.php:2806
+#: inc/customizer/settings/general.php:3352
+#: inc/customizer/settings/general.php:3569
+#: inc/customizer/settings/woocommerce.php:1054
+#: inc/customizer/settings/woocommerce.php:2476
+#: inc/customizer/settings/woocommerce.php:3614
+#: inc/customizer/settings/woocommerce.php:4279
+#: inc/customizer/settings/woocommerce.php:4615
+#: inc/customizer/settings/sidebar.php:53
+#: inc/customizer/settings/sidebar.php:200
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: inc/customizer/settings/footer-bottom.php:101
+#: inc/customizer/settings/topbar.php:105
+#: inc/customizer/settings/footer-widgets.php:101
+#: inc/customizer/settings/general.php:1445
+msgid "Hide On Tablet"
+msgstr "Piilota tableteilla"
+
+#: inc/customizer/settings/footer-bottom.php:100
+#: inc/customizer/settings/topbar.php:104
+#: inc/customizer/settings/footer-widgets.php:100
+#: inc/customizer/settings/general.php:1444
+msgid "Show On All Devices"
+msgstr "Näytä kaikilla laitteilla"
+
+#: inc/customizer/settings/footer-bottom.php:93
+#: inc/customizer/settings/topbar.php:97
+#: inc/customizer/settings/footer-widgets.php:93
+#: inc/customizer/settings/edd.php:172 inc/customizer/settings/general.php:1438
+#: inc/customizer/settings/woocommerce.php:366
+msgid "Visibility"
+msgstr "Näkyvyys"
+
+#: inc/customizer/settings/footer-bottom.php:67
+msgid "Enable Footer Bottom"
+msgstr "Ota käyttöön alapalkin alaosa"
+
+#: inc/customizer/settings/footer-bottom.php:46
+msgid "Footer Bottom"
+msgstr "Alapalkin alaosa"
+
+#: inc/customizer/settings/blog.php:1695
+msgid "Related Posts Image Height (px)"
+msgstr "Liittyvien artikkeleiden kuvan korkeus (px)"
+
+#: inc/customizer/settings/blog.php:1667
+msgid "Related Posts Image Width (px)"
+msgstr "Liittyvien artikkeleiden kuvan leveys (px)"
+
+#: inc/customizer/settings/blog.php:1611
+msgid "Related Posts Columns"
+msgstr "Liittyvien artikkeleiden sarakkeet"
+
+#: inc/customizer/settings/blog.php:1582
+msgid "Related Posts Count"
+msgstr "Liittyvien artikkeleiden lukumäärä"
+
+#: inc/customizer/settings/header.php:1939
+#: inc/customizer/settings/blog.php:1404
+#: inc/customizer/settings/general.php:1794
+msgid "Overlay Color"
+msgstr "Peittoväri"
+
+#: inc/customizer/settings/blog.php:1373
+#: inc/customizer/settings/general.php:1763
+msgid "Overlay Opacity"
+msgstr "Peitteen läpinäkyvyys"
+
+#: inc/customizer/settings/blog.php:1342
+msgid "Page Header Height (px)"
+msgstr "Sivun otsakkeen korkeus (px)"
+
+#: inc/customizer/settings/header.php:2039
+#: inc/customizer/settings/blog.php:1319
+#: inc/customizer/settings/general.php:369
+#: inc/customizer/settings/general.php:1709
+msgid "Contain"
+msgstr "Sisällytä"
+
+#: inc/customizer/settings/blog.php:725
+msgid "Next/Prev"
+msgstr "Seuraava/edellinen"
+
+#: inc/customizer/settings/blog.php:724
+#: inc/customizer/settings/woocommerce.php:1803
+msgid "Infinite Scroll"
+msgstr "Loputon vieritys"
+
+#: inc/customizer/settings/blog.php:723
+#: inc/customizer/settings/woocommerce.php:1802
+msgid "Standard"
+msgstr "Vakio"
+
+#: inc/customizer/settings/blog.php:717
+msgid "Blog Pagination Style"
+msgstr "Blogin sivutuksen tyyli"
+
+#: inc/customizer/settings/edd.php:1408 inc/customizer/settings/blog.php:687
+#: inc/customizer/settings/woocommerce.php:1334
+msgid "Excerpt Length"
+msgstr "Otteen pituus"
+
+#: inc/customizer/settings/blog.php:417
+msgid "Equal Heights"
+msgstr "Yhtä suuret korkeudet"
+
+#: inc/customizer/settings/blog.php:395
+msgid "Masonry"
+msgstr "Tiiliseinä"
+
+#: inc/customizer/settings/blog.php:394
+msgid "Fit Rows"
+msgstr "Sovita rivit"
+
+#: inc/customizer/settings/blog.php:387
+msgid "Grid Style"
+msgstr "Ruudukon tyyli"
+
+#: inc/customizer/settings/blog.php:354
+msgid "Grid Columns"
+msgstr "Ruudukon sarakkeet"
+
+#: inc/customizer/settings/blog.php:331
+msgid "Large"
+msgstr "Suuri"
+
+#: inc/customizer/settings/blog.php:330
+msgid "Medium Large"
+msgstr "Keskisuuri"
+
+#: inc/helpers.php:3999 inc/customizer/settings/header.php:91
+#: inc/customizer/settings/blog.php:329
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+#: inc/customizer/settings/blog.php:297 inc/customizer/settings/blog.php:328
+msgid "Thumbnail"
+msgstr "Pienoiskuva"
+
+#: inc/customizer/settings/blog.php:264
+msgid "Add Overlay On image Hover"
+msgstr "Lisää peitto kuvaa osoitettaessa"
+
+#: inc/customizer/settings/blog.php:79
+msgid "Archives & Entries Layout"
+msgstr "Arkiston ja merkintöjen asettelu"
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:65
+msgid "Link values together"
+msgstr "Linkitä arvot keskenään"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:343
+msgid "Week %s"
+msgstr "Viikko %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:341
+msgid "Minute %s"
+msgstr "Minuutti %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:339
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: inc/breadcrumbs.php:335 inc/customizer/settings/edd.php:1019
+#: inc/customizer/settings/woocommerce.php:1112
+msgid "Archives"
+msgstr "Arkistot"
+
+#: inc/breadcrumbs.php:334 inc/customizer/settings/general.php:2118
+msgid "404 Not Found"
+msgstr "404 ei löytynyt"
+
+#: inc/breadcrumbs.php:333 inc/customizer/settings/general.php:2092
+msgid "Home"
+msgstr "Etusivu"
+
+#: inc/breadcrumbs.php:332
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Navigaatiopolku"
+
+#: functions.php:679
+msgid "Footer 4"
+msgstr "Alapalkki 4"
+
+#: functions.php:666
+msgid "Footer 3"
+msgstr "Alapalkki 3"
+
+#: functions.php:653
+msgid "Footer 2"
+msgstr "Alapalkki 2"
+
+#: functions.php:640
+msgid "Footer 1"
+msgstr "Alapalkki 1"
+
+#: functions.php:626
+msgid "Search Results Sidebar"
+msgstr "Hakutulosten sivupalkki"
+
+#: inc/third/class-beaver-themer.php:136
+#: inc/customizer/settings/header.php:3479
+#: inc/customizer/settings/sidebar.php:40
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: functions.php:297
+msgid "Mobile (optional)"
+msgstr "Mobiili (valinnainen)"
+
+#: inc/third/class-beaver-themer.php:145 functions.php:296
+msgid "Footer"
+msgstr "Alapalkki"
+
+#: functions.php:295
+msgid "Main"
+msgstr "Pää"
+
+#: inc/third/class-beaver-themer.php:100
+#: inc/customizer/settings/typography.php:109
+#: inc/customizer/settings/topbar.php:40 functions.php:294
+msgid "Top Bar"
+msgstr "Yläpalkki"
+
+#: inc/oceanwp-strings.php:40
+msgid "Your comment here..."
+msgstr "Kommenttisi tähän..."
+
+#: inc/oceanwp-strings.php:42
+msgid "Post Comment"
+msgstr "Lähetä kommentti"
+
+#: comments.php:41
+msgid "Log out &raquo;"
+msgstr "Kirjaudu ulos &raquo;"
+
+#: inc/oceanwp-strings.php:47
+msgid "Website"
+msgstr "Sivusto"
+
+#: inc/oceanwp-strings.php:44
+msgid "Email (required)"
+msgstr "Sähköpostiosoite (vaaditaan)"
+
+#: inc/oceanwp-strings.php:43
+msgid "Name (required)"
+msgstr "Nimi (vaaditaan)"
+
+#: comments.php:126
+msgid "Comments are closed."
+msgstr "Kommentointi ei ole käytössä."
+
+#. translators: %s: Comments number
+#: comments.php:71
+msgid "This Post Has %s Comments"
+msgstr "Tällä artikkelilla on %s kommenttia"
+
+#: comments.php:68
+msgid "This Post Has One Comment"
+msgstr "Tällä artikkelilla on yksi kommentti"
+
+#: 404.php:102
+msgid "Back To Homepage"
+msgstr "Takaisin etusivulle"
+
+#: 404.php:100
+msgid "Perhaps you can try a new search."
+msgstr "Ehkä voit yrittää uutta hakua."
+
+#: 404.php:100
+msgid "We are sorry. But the page you are looking for is not available."
+msgstr "Olemme pahoillamme, etsimääsi sivua ei löydy."
+
+#: 404.php:99
+msgid "This page could not be found!"
+msgstr "Tätä sivua ei löytynyt!"
+
+#: functions.php:655
+msgid "Widgets in this area are used in the second footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin toisella alueella."
+
+#: functions.php:642
+msgid "Widgets in this area are used in the first footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin ensimmäisellä alueella."
+
+#: functions.php:628
+msgid "Widgets in this area are used in the search result page."
+msgstr "Vimpaimia tällä alueella käytetään hakutulosten sivulla."
+
+#: functions.php:681
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin neljännellä alueella."
+
+#: functions.php:668
+msgid "Widgets in this area are used in the third footer region."
+msgstr "Vimpaimia tällä alueella käytetään alapalkin kolmannella alueella."
+
+#. Author URI of the theme
+msgid "https://oceanwp.org/about-me/"
+msgstr "https://oceanwp.org/about-me/"
+
+#. Author of the theme
+msgid "Nick"
+msgstr "Nick"
+
+#. Theme URI of the theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"

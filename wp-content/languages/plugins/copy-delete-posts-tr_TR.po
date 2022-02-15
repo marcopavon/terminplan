@@ -1,0 +1,82 @@
+# Translation of Plugins - Duplicate Post - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Duplicate Post - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-09 10:42:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Duplicate Post - Stable (latest release)\n"
+
+#: post/handler.php:1157
+msgid "We couldn't catch current tasks, please try again later."
+msgstr "Mevcut görevleri yakalayamadık, lütfen daha sonra tekrar deneyin."
+
+#: post/handler.php:1142
+msgid "We can't confirm that we killed this task now, please try again later or check if it't killed."
+msgstr "Mevcut görevin durdurulduğunu onaylayamıyoruz, lütfen daha sonra tekrar deneyin veya kontrol edin."
+
+#: post/handler.php:1119
+msgid "This task has already ended this work, please wait for list refresh and try again."
+msgstr "Bu görev halihazırda işi sonlandırdı, lütfen listenin yenilenmesini bekleyin ve tekrar deneyin."
+
+#: post/handler.php:1103
+msgid "We can't hide this task now, – maybe it't already hidden. Please try again later."
+msgstr "Bu görevi an itibariyle gizleyemiyoruz - belki halihazırda gizlenmiştir. Lütfen daha sonra tekrar deneyin."
+
+#: post/handler.php:1028
+msgid "You can't clear messages when tasks are in progress, please firstly kill tasks or wait till the end."
+msgstr "Görevler işlenirken mesajları temizleyemezsiniz, lütfen önce görevleri durdurun veya sona erene kadar bekleyin."
+
+#: post/handler.php:361
+msgid "Untitled Copy"
+msgstr "İsimsiz Kopya"
+
+#: menu/variables.php:34
+msgid "Average time is 8 copies per second."
+msgstr "Ortalama süre saniyede 8 kopyadır."
+
+#: menu/variables.php:31
+msgid ""
+"If you’re making a lot of copies it can take a while\n"
+"        <br>(up to 5 minutes if you’re on a slow server)."
+msgstr ""
+"Eğer çokça kopyalama yapıyorsanız biraz zaman alabilir\n"
+"        <br>(eğer yavaş bir sunucudaysanız 5 dakikaya kadar)."
+
+#: menu/variables.php:29
+msgid "Please wait, copying in progress..."
+msgstr "Lütfen bekleyin, kopyalama işlemi sürüyor..."
+
+#: menu/configuration.php:950
+msgid "Connect with support (click to load)"
+msgstr "Destek ekibine bağlanın (yüklemek için tıklayın)"
+
+#: menu/configuration.php:952
+msgid "This will establish connection to the chat servers"
+msgstr "Bu chat sunucularımız ile bağlantı kuracaktır"
+
+#. Author URI of the plugin
+msgid "https://copy-delete-posts.com/"
+msgstr "https://copy-delete-posts.com/"
+
+#. Plugin Name of the plugin
+#: copy-delete-posts.php:415 copy-delete-posts.php:846
+#: copy-delete-posts.php:850
+msgid "Copy & Delete Posts"
+msgstr "Copy & Delete Posts"
+
+#. Plugin URI of the plugin
+msgid "https://copy-delete-posts.com"
+msgstr "https://copy-delete-posts.com"
+
+#. Description of the plugin
+msgid "The best solution to easily make duplicates of your posts & pages, and delete them in one go."
+msgstr "Yazılarınızı & sayfalarınızı tek seferde kolaylıkla kopyalayabilmek ve silebilmek adına en iyi çözümdür."
+
+#. Author of the plugin
+msgid "Copy Delete Posts"
+msgstr "Copy Delete Posts"
